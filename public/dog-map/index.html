@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>견종 지도</title>
+  <meta name="description" content="세계 견종이 태어난 곳을 지구본 위에서 찾아보세요.">
+  <meta name="theme-color" content="#0b1040">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%231d46b8'/%3E%3Cpath d='M6 12c5-6 10-3 12 1s-3 9-7 8-8-5-5-9zM20 18c3-2 6-1 6 2s-3 5-5 4-3-5-1-6z' fill='%232fbd9a'/%3E%3C/svg%3E">
+
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@500;700;800&display=swap">
+
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/app.css">
+
+  <!-- Vite로 옮길 때는 이 임포트맵만 지우고 같은 패키지를 설치하면 된다 -->
+  <script type="importmap">
+  {
+    "imports": {
+      "d3": "https://cdn.jsdelivr.net/npm/d3@7.9.0/+esm",
+      "topojson-client": "https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/+esm",
+      "supercluster": "https://cdn.jsdelivr.net/npm/supercluster@8.0.1/+esm"
+    }
+  }
+  </script>
+</head>
+<body>
+  <canvas id="stars" aria-hidden="true"></canvas>
+
+  <main id="stage" class="stage" tabindex="0" role="application"
+        aria-label="지구본 지도. 드래그하거나 방향키로 돌리고, 더하기와 빼기 키로 확대·축소합니다.">
+    <svg id="globe" class="globe" aria-hidden="true"></svg>
+    <div id="markers" class="markers"></div>
+  </main>
+
+  <header class="brand">
+    <h1>견종 지도</h1>
+    <p>세계 견종이 태어난 곳</p>
+  </header>
+
+  <div class="topbar" id="topbar">
+    <div id="search" class="search"></div>
+    <div id="filters" class="filters"></div>
+  </div>
+
+  <div class="dock">
+    <div id="legend" class="legend-wrap"></div>
+    <div class="zoom-controls" role="group" aria-label="지도 확대·축소">
+      <button id="zoom-in" class="icon-btn" type="button" aria-label="확대"><svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg></button>
+      <button id="zoom-out" class="icon-btn" type="button" aria-label="축소"><svg viewBox="0 0 24 24"><path d="M5 12h14"/></svg></button>
+      <button id="zoom-reset" class="icon-btn" type="button" aria-label="처음 보기로 돌아가기"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M4 12h16M12 4c3 3 3 13 0 16M12 4c-3 3-3 13 0 16"/></svg></button>
+    </div>
+  </div>
+
+  <p class="credits">Map data: Natural Earth</p>
+
+  <aside id="panel" class="panel" aria-label="견종 상세 정보" aria-hidden="true"></aside>
+
+  <div id="status" class="status" role="status" aria-live="polite"></div>
+  <div id="load-state" class="load-state">지구본을 불러오는 중…</div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
+

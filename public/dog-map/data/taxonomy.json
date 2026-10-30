@@ -1,0 +1,22 @@
+{
+  "groups": {
+    "sheepdog": { "ko": "목양·목축견", "en": "Sheepdogs" },
+    "pinscher-molosser": { "ko": "핀셔·몰로서", "en": "Pinschers & Molossers" },
+    "terrier": { "ko": "테리어", "en": "Terriers" },
+    "dachshund": { "ko": "닥스훈트", "en": "Dachshunds" },
+    "spitz": { "ko": "스피츠·원시견", "en": "Spitz" },
+    "scenthound": { "ko": "후각 사냥개", "en": "Scenthounds" },
+    "pointer": { "ko": "포인터", "en": "Pointers" },
+    "retriever": { "ko": "회수견", "en": "Retrievers" },
+    "companion": { "ko": "반려견", "en": "Companions" },
+    "sighthound": { "ko": "시각 사냥개", "en": "Sighthounds" },
+    "mixed": { "ko": "믹스견", "en": "Mixed breeds" }
+  },
+  "sizes": {
+    "small": { "ko": "소형", "en": "Small" },
+    "medium": { "ko": "중형", "en": "Medium" },
+    "large": { "ko": "대형", "en": "Large" },
+    "giant": { "ko": "초대형", "en": "Giant" }
+  }
+}
+

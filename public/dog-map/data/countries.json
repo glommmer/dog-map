@@ -1,0 +1,21 @@
+{
+  "KR": { "ko": "대한민국", "en": "South Korea", "iso": "410", "lat": 36.4, "lng": 127.9 },
+  "JP": { "ko": "일본", "en": "Japan", "iso": "392", "lat": 37.5, "lng": 138.5 },
+  "CN": { "ko": "중국", "en": "China", "iso": "156", "lat": 35.5, "lng": 104.0 },
+  "RU": { "ko": "러시아", "en": "Russia", "iso": "643", "lat": 63.0, "lng": 100.0 },
+  "GB": { "ko": "영국", "en": "United Kingdom", "iso": "826", "lat": 54.0, "lng": -2.2 },
+  "CA": { "ko": "캐나다", "en": "Canada", "iso": "124", "lat": 56.0, "lng": -96.0 },
+  "DE": { "ko": "독일", "en": "Germany", "iso": "276", "lat": 51.0, "lng": 10.4 },
+  "FR": { "ko": "프랑스", "en": "France", "iso": "250", "lat": 46.8, "lng": 2.4 },
+  "CH": { "ko": "스위스", "en": "Switzerland", "iso": "756", "lat": 46.8, "lng": 8.2 },
+  "HR": { "ko": "크로아티아", "en": "Croatia", "iso": "191", "lat": 44.6, "lng": 16.0 },
+  "MT": { "ko": "몰타", "en": "Malta", "iso": "470", "lat": 35.9, "lng": 14.4 },
+  "MX": { "ko": "멕시코", "en": "Mexico", "iso": "484", "lat": 23.6, "lng": -102.5 },
+  "CD": { "ko": "콩고민주공화국", "en": "DR Congo", "iso": "180", "lat": -2.9, "lng": 23.6 },
+  "ZW": { "ko": "짐바브웨", "en": "Zimbabwe", "iso": "716", "lat": -19.0, "lng": 29.8 },
+  "AF": { "ko": "아프가니스탄", "en": "Afghanistan", "iso": "004", "lat": 33.9, "lng": 66.0 },
+  "XME": { "ko": "중동", "en": "Middle East", "iso": null, "lat": 33.3, "lng": 44.4 },
+  "AU": { "ko": "호주", "en": "Australia", "iso": "036", "lat": -25.5, "lng": 134.5 },
+  "US": { "ko": "미국", "en": "United States", "iso": "840", "lat": 39.5, "lng": -98.5 }
+}
+

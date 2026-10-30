@@ -1,0 +1,588 @@
+[
+ {
+  "id": "jindo",
+  "name": {
+   "ko": "진돗개",
+   "en": "Korean Jindo"
+  },
+  "country": "KR",
+  "region": "전라남도 진도",
+  "lat": 34.49,
+  "lng": 126.26,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "sapsali",
+  "name": {
+   "ko": "삽살개",
+   "en": "Sapsali"
+  },
+  "country": "KR",
+  "region": "대한민국 (경산 일대에서 보존)",
+  "lat": 35.82,
+  "lng": 128.74,
+  "group": "companion",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "shiba-inu",
+  "name": {
+   "ko": "시바견",
+   "en": "Shiba Inu"
+  },
+  "country": "JP",
+  "region": "일본 중부 산악 지대",
+  "lat": 36.1,
+  "lng": 137.9,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "akita",
+  "name": {
+   "ko": "아키타견",
+   "en": "Akita"
+  },
+  "country": "JP",
+  "region": "일본 아키타현",
+  "lat": 39.72,
+  "lng": 140.1,
+  "group": "spitz",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "shih-tzu",
+  "name": {
+   "ko": "시추",
+   "en": "Shih Tzu"
+  },
+  "country": "CN",
+  "region": "티베트 · 중국",
+  "lat": 31.2,
+  "lng": 98,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "pekingese",
+  "name": {
+   "ko": "페키니즈",
+   "en": "Pekingese"
+  },
+  "country": "CN",
+  "region": "중국 베이징",
+  "lat": 39.9,
+  "lng": 116.4,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "chow-chow",
+  "name": {
+   "ko": "차우차우",
+   "en": "Chow Chow"
+  },
+  "country": "CN",
+  "region": "중국 북부",
+  "lat": 41,
+  "lng": 111,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "tibetan-mastiff",
+  "name": {
+   "ko": "티베탄 마스티프",
+   "en": "Tibetan Mastiff"
+  },
+  "country": "CN",
+  "region": "티베트고원",
+  "lat": 31.5,
+  "lng": 88.5,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "siberian-husky",
+  "name": {
+   "ko": "시베리안 허스키",
+   "en": "Siberian Husky"
+  },
+  "country": "RU",
+  "region": "러시아 시베리아 북동부 추코트카",
+  "lat": 66,
+  "lng": 172,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "samoyed",
+  "name": {
+   "ko": "사모예드",
+   "en": "Samoyed"
+  },
+  "country": "RU",
+  "region": "러시아 시베리아 북서부",
+  "lat": 67.5,
+  "lng": 72,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "border-collie",
+  "name": {
+   "ko": "보더 콜리",
+   "en": "Border Collie"
+  },
+  "country": "GB",
+  "region": "잉글랜드·스코틀랜드 접경",
+  "lat": 55.6,
+  "lng": -2.4,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "golden-retriever",
+  "name": {
+   "ko": "골든 리트리버",
+   "en": "Golden Retriever"
+  },
+  "country": "GB",
+  "region": "영국 스코틀랜드 고지대",
+  "lat": 57.3,
+  "lng": -4.8,
+  "group": "retriever",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "labrador-retriever",
+  "name": {
+   "ko": "래브라도 리트리버",
+   "en": "Labrador Retriever"
+  },
+  "country": "CA",
+  "region": "캐나다 뉴펀들랜드",
+  "lat": 48.9,
+  "lng": -55.6,
+  "group": "retriever",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "pembroke-welsh-corgi",
+  "name": {
+   "ko": "펨브로크 웰시 코기",
+   "en": "Pembroke Welsh Corgi"
+  },
+  "country": "GB",
+  "region": "영국 웨일스 펨브로크셔",
+  "lat": 51.9,
+  "lng": -4.9,
+  "group": "sheepdog",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "beagle",
+  "name": {
+   "ko": "비글",
+   "en": "Beagle"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 51.5,
+  "lng": -0.9,
+  "group": "scenthound",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "cocker-spaniel",
+  "name": {
+   "ko": "코커 스패니얼",
+   "en": "Cocker Spaniel"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 52.7,
+  "lng": -1.8,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "dachshund",
+  "name": {
+   "ko": "닥스훈트",
+   "en": "Dachshund"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 49.6,
+  "lng": 11.4,
+  "group": "dachshund",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "german-shepherd",
+  "name": {
+   "ko": "저먼 셰퍼드 독",
+   "en": "German Shepherd Dog"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 51,
+  "lng": 10.6,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "rottweiler",
+  "name": {
+   "ko": "로트와일러",
+   "en": "Rottweiler"
+  },
+  "country": "DE",
+  "region": "독일 로트바일",
+  "lat": 48.17,
+  "lng": 8.63,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "pomeranian",
+  "name": {
+   "ko": "포메라니안",
+   "en": "Pomeranian"
+  },
+  "country": "DE",
+  "region": "포메라니아 (독일·폴란드 발트해 연안)",
+  "lat": 54.1,
+  "lng": 14.2,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "poodle",
+  "name": {
+   "ko": "푸들",
+   "en": "Poodle"
+  },
+  "country": "DE",
+  "region": "독일 · 프랑스",
+  "lat": 50.2,
+  "lng": 6.5,
+  "group": "companion",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "french-bulldog",
+  "name": {
+   "ko": "프렌치 불도그",
+   "en": "French Bulldog"
+  },
+  "country": "FR",
+  "region": "프랑스",
+  "lat": 48.86,
+  "lng": 2.35,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "saint-bernard",
+  "name": {
+   "ko": "세인트 버나드",
+   "en": "Saint Bernard"
+  },
+  "country": "CH",
+  "region": "스위스 서부 알프스",
+  "lat": 45.87,
+  "lng": 7.17,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "bernese-mountain-dog",
+  "name": {
+   "ko": "버니즈 마운틴 독",
+   "en": "Bernese Mountain Dog"
+  },
+  "country": "CH",
+  "region": "스위스 베른주",
+  "lat": 46.95,
+  "lng": 7.45,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "dalmatian",
+  "name": {
+   "ko": "달마티안",
+   "en": "Dalmatian"
+  },
+  "country": "HR",
+  "region": "크로아티아 달마티아",
+  "lat": 43.5,
+  "lng": 16.4,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "maltese",
+  "name": {
+   "ko": "몰티즈",
+   "en": "Maltese"
+  },
+  "country": "MT",
+  "region": "몰타 · 지중해 중부",
+  "lat": 35.9,
+  "lng": 14.4,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "chihuahua",
+  "name": {
+   "ko": "치와와",
+   "en": "Chihuahua"
+  },
+  "country": "MX",
+  "region": "멕시코 치와와주",
+  "lat": 28.6,
+  "lng": -106.1,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "xoloitzcuintli",
+  "name": {
+   "ko": "솔로이츠퀸틀레",
+   "en": "Xoloitzcuintli"
+  },
+  "country": "MX",
+  "region": "멕시코",
+  "lat": 19.2,
+  "lng": -103.7,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "basenji",
+  "name": {
+   "ko": "바센지",
+   "en": "Basenji"
+  },
+  "country": "CD",
+  "region": "중앙아프리카 콩고 분지",
+  "lat": -0.5,
+  "lng": 22,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "rhodesian-ridgeback",
+  "name": {
+   "ko": "로디지안 리지백",
+   "en": "Rhodesian Ridgeback"
+  },
+  "country": "ZW",
+  "region": "남부 아프리카 (짐바브웨)",
+  "lat": -19,
+  "lng": 29.8,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "afghan-hound",
+  "name": {
+   "ko": "아프간하운드",
+   "en": "Afghan Hound"
+  },
+  "country": "AF",
+  "region": "아프가니스탄",
+  "lat": 34,
+  "lng": 66,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "saluki",
+  "name": {
+   "ko": "살루키",
+   "en": "Saluki"
+  },
+  "country": "XME",
+  "region": "비옥한 초승달 지대 · 중동",
+  "lat": 33.3,
+  "lng": 44.4,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "australian-cattle-dog",
+  "name": {
+   "ko": "오스트레일리안 캐틀 독",
+   "en": "Australian Cattle Dog"
+  },
+  "country": "AU",
+  "region": "호주 뉴사우스웨일스",
+  "lat": -32.2,
+  "lng": 148.6,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null
+ },
+ {
+  "id": "labradoodle",
+  "name": {
+   "ko": "래브라두들",
+   "en": "Labradoodle"
+  },
+  "country": "AU",
+  "region": "호주 빅토리아주",
+  "lat": -37.8,
+  "lng": 145,
+  "group": "mixed",
+  "size": "large",
+  "mix": true,
+  "parents": [
+   "labrador-retriever",
+   "poodle"
+  ],
+  "art": null
+ },
+ {
+  "id": "goldendoodle",
+  "name": {
+   "ko": "골든두들",
+   "en": "Goldendoodle"
+  },
+  "country": "US",
+  "region": "미국",
+  "lat": 39,
+  "lng": -77,
+  "group": "mixed",
+  "size": "large",
+  "mix": true,
+  "parents": [
+   "golden-retriever",
+   "poodle"
+  ],
+  "art": null
+ },
+ {
+  "id": "cockapoo",
+  "name": {
+   "ko": "코카푸",
+   "en": "Cockapoo"
+  },
+  "country": "US",
+  "region": "미국",
+  "lat": 37,
+  "lng": -95,
+  "group": "mixed",
+  "size": "small",
+  "mix": true,
+  "parents": [
+   "cocker-spaniel",
+   "poodle"
+  ],
+  "art": null
+ }
+]
+
