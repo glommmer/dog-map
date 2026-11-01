@@ -1,0 +1,32 @@
+{
+  "summary": "다리 짧은 독일 후각 사냥개입니다.",
+  "description": "베스트팔렌 지방의 소형 사냥개로, 스웨덴에서 이 견종을 바탕으로 드레버가 만들어졌습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: WESTPHALIAN DACHSBRACKE (제100호)",
+      "url": "https://www.fci.be/en/nomenclature/WESTPHALIAN-DACHSBRACKE-100.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/100g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Westphalian Dachsbracke",
+      "url": "https://en.wikipedia.org/wiki/Westphalian_Dachsbracke"
+    }
+  ],
+  "fci": {
+    "num": 100,
+    "name": "WESTPHALIAN DACHSBRACKE",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Small-sized Hounds",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Westf%C3%A4lische%20Dachsbracke.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Westf%C3%A4lische_Dachsbracke.jpg"
+  }
+}

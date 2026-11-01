@@ -1,0 +1,32 @@
+{
+  "summary": "매끈한 털의 벨기에 소형견입니다.",
+  "description": "브뤼셀 그리펀 계열 가운데 짧고 매끈한 털을 가진 유형입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: PETIT BRABANÇON (제82호)",
+      "url": "https://www.fci.be/en/nomenclature/PETIT-BRABANCON-82.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/082g09-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Griffon Bruxellois",
+      "url": "https://en.wikipedia.org/wiki/Griffon_Bruxellois"
+    },
+    {
+      "label": "위키백과: 브뤼셀 그리펀",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A4%BC%EC%85%80_%EA%B7%B8%EB%A6%AC%ED%8E%80"
+    }
+  ],
+  "fci": {
+    "num": 82,
+    "name": "PETIT BRABANÇON",
+    "group": 9,
+    "section": "Small Belgian Dogs",
+    "sub": "Petit Brabançon",
+    "status": "definitive",
+    "country": "벨기에"
+  }
+}

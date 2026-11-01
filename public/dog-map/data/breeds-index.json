@@ -1,179 +1,136 @@
 [
  {
-  "id": "jindo",
+  "id": "gascon-saintongeois",
   "name": {
-   "ko": "진돗개",
-   "en": "Korean Jindo"
+   "ko": "가스콩 생통주아",
+   "en": "Gascon Saintongeois"
   },
-  "country": "KR",
-  "region": "전라남도 진도",
-  "lat": 34.49,
-  "lng": 126.26,
-  "group": "spitz",
-  "size": "medium",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "sapsali",
-  "name": {
-   "ko": "삽살개",
-   "en": "Sapsali"
-  },
-  "country": "KR",
-  "region": "대한민국 (경산 일대에서 보존)",
-  "lat": 35.82,
-  "lng": 128.74,
-  "group": "companion",
-  "size": "medium",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "shiba-inu",
-  "name": {
-   "ko": "시바견",
-   "en": "Shiba Inu"
-  },
-  "country": "JP",
-  "region": "일본 중부 산악 지대",
-  "lat": 36.1,
-  "lng": 137.9,
-  "group": "spitz",
-  "size": "small",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "akita",
-  "name": {
-   "ko": "아키타견",
-   "en": "Akita"
-  },
-  "country": "JP",
-  "region": "일본 아키타현",
-  "lat": 39.72,
-  "lng": 140.1,
-  "group": "spitz",
+  "country": "FR",
+  "region": "프랑스 남서부",
+  "lat": 45.3,
+  "lng": -0.6,
+  "group": "scenthound",
   "size": "large",
   "mix": false,
   "parents": [],
-  "art": null
+  "art": null,
+  "fci": 21,
+  "prov": false,
+  "akc": false
  },
  {
-  "id": "shih-tzu",
+  "id": "kawakami-inu",
   "name": {
-   "ko": "시추",
-   "en": "Shih Tzu"
+   "ko": "가와카미견",
+   "en": "Kawakami Inu"
   },
-  "country": "CN",
-  "region": "티베트 · 중국",
-  "lat": 31.2,
-  "lng": 98,
-  "group": "companion",
+  "country": "JP",
+  "region": "일본 나가노 가와카미",
+  "lat": 35.97,
+  "lng": 138.57,
+  "group": "spitz",
   "size": "small",
   "mix": false,
   "parents": [],
-  "art": null
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
  },
  {
-  "id": "pekingese",
+  "id": "gaucho-sheepdog",
   "name": {
-   "ko": "페키니즈",
-   "en": "Pekingese"
+   "ko": "가우슈 시프도그",
+   "en": "Gaucho sheepdog"
   },
-  "country": "CN",
-  "region": "중국 베이징",
-  "lat": 39.9,
-  "lng": 116.4,
-  "group": "companion",
-  "size": "small",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "chow-chow",
-  "name": {
-   "ko": "차우차우",
-   "en": "Chow Chow"
-  },
-  "country": "CN",
-  "region": "중국 북부",
-  "lat": 41,
-  "lng": 111,
-  "group": "spitz",
-  "size": "medium",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "tibetan-mastiff",
-  "name": {
-   "ko": "티베탄 마스티프",
-   "en": "Tibetan Mastiff"
-  },
-  "country": "CN",
-  "region": "티베트고원",
-  "lat": 31.5,
-  "lng": 88.5,
-  "group": "pinscher-molosser",
-  "size": "giant",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "siberian-husky",
-  "name": {
-   "ko": "시베리안 허스키",
-   "en": "Siberian Husky"
-  },
-  "country": "RU",
-  "region": "러시아 시베리아 북동부 추코트카",
-  "lat": 66,
-  "lng": 172,
-  "group": "spitz",
-  "size": "medium",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "samoyed",
-  "name": {
-   "ko": "사모예드",
-   "en": "Samoyed"
-  },
-  "country": "RU",
-  "region": "러시아 시베리아 북서부",
-  "lat": 67.5,
-  "lng": 72,
-  "group": "spitz",
-  "size": "medium",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "border-collie",
-  "name": {
-   "ko": "보더 콜리",
-   "en": "Border Collie"
-  },
-  "country": "GB",
-  "region": "잉글랜드·스코틀랜드 접경",
-  "lat": 55.6,
-  "lng": -2.4,
+  "country": "BR",
+  "region": "브라질 팜파스",
+  "lat": -31.0,
+  "lng": -52.0,
   "group": "sheepdog",
   "size": "medium",
   "mix": false,
   "parents": [],
-  "art": null
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "galgo-espanol",
+  "name": {
+   "ko": "갈고 에스파뇰",
+   "en": "Galgo Español"
+  },
+  "country": "ES",
+  "region": "스페인",
+  "lat": 40.5,
+  "lng": -3.7,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 285,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "gull-dong",
+  "name": {
+   "ko": "걸 동",
+   "en": "Gull Dong"
+  },
+  "country": "PK",
+  "region": "파키스탄·인도 펀자브",
+  "lat": 31.2,
+  "lng": 73.0,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "gull-terrier",
+  "name": {
+   "ko": "걸 테리어",
+   "en": "Gull Terrier"
+  },
+  "country": "PK",
+  "region": "파키스탄·인도 펀자브",
+  "lat": 30.2,
+  "lng": 71.5,
+  "group": "terrier",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "gordon-setter",
+  "name": {
+   "ko": "고든 세터",
+   "en": "Gordon Setter"
+  },
+  "country": "GB",
+  "region": "영국 스코틀랜드",
+  "lat": 56.8,
+  "lng": -3.4,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 6,
+  "prov": false,
+  "akc": true
  },
  {
   "id": "golden-retriever",
@@ -189,362 +146,10 @@
   "size": "large",
   "mix": false,
   "parents": [],
-  "art": null
- },
- {
-  "id": "labrador-retriever",
-  "name": {
-   "ko": "래브라도 리트리버",
-   "en": "Labrador Retriever"
-  },
-  "country": "CA",
-  "region": "캐나다 뉴펀들랜드",
-  "lat": 48.9,
-  "lng": -55.6,
-  "group": "retriever",
-  "size": "large",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "pembroke-welsh-corgi",
-  "name": {
-   "ko": "펨브로크 웰시 코기",
-   "en": "Pembroke Welsh Corgi"
-  },
-  "country": "GB",
-  "region": "영국 웨일스 펨브로크셔",
-  "lat": 51.9,
-  "lng": -4.9,
-  "group": "sheepdog",
-  "size": "small",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "beagle",
-  "name": {
-   "ko": "비글",
-   "en": "Beagle"
-  },
-  "country": "GB",
-  "region": "영국 잉글랜드",
-  "lat": 51.5,
-  "lng": -0.9,
-  "group": "scenthound",
-  "size": "small",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "cocker-spaniel",
-  "name": {
-   "ko": "코커 스패니얼",
-   "en": "Cocker Spaniel"
-  },
-  "country": "GB",
-  "region": "영국 잉글랜드",
-  "lat": 52.7,
-  "lng": -1.8,
-  "group": "retriever",
-  "size": "medium",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "dachshund",
-  "name": {
-   "ko": "닥스훈트",
-   "en": "Dachshund"
-  },
-  "country": "DE",
-  "region": "독일",
-  "lat": 49.6,
-  "lng": 11.4,
-  "group": "dachshund",
-  "size": "small",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "german-shepherd",
-  "name": {
-   "ko": "저먼 셰퍼드 독",
-   "en": "German Shepherd Dog"
-  },
-  "country": "DE",
-  "region": "독일",
-  "lat": 51,
-  "lng": 10.6,
-  "group": "sheepdog",
-  "size": "large",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "rottweiler",
-  "name": {
-   "ko": "로트와일러",
-   "en": "Rottweiler"
-  },
-  "country": "DE",
-  "region": "독일 로트바일",
-  "lat": 48.17,
-  "lng": 8.63,
-  "group": "pinscher-molosser",
-  "size": "large",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "pomeranian",
-  "name": {
-   "ko": "포메라니안",
-   "en": "Pomeranian"
-  },
-  "country": "DE",
-  "region": "포메라니아 (독일·폴란드 발트해 연안)",
-  "lat": 54.1,
-  "lng": 14.2,
-  "group": "spitz",
-  "size": "small",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "poodle",
-  "name": {
-   "ko": "푸들",
-   "en": "Poodle"
-  },
-  "country": "DE",
-  "region": "독일 · 프랑스",
-  "lat": 50.2,
-  "lng": 6.5,
-  "group": "companion",
-  "size": "medium",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "french-bulldog",
-  "name": {
-   "ko": "프렌치 불도그",
-   "en": "French Bulldog"
-  },
-  "country": "FR",
-  "region": "프랑스",
-  "lat": 48.86,
-  "lng": 2.35,
-  "group": "companion",
-  "size": "small",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "saint-bernard",
-  "name": {
-   "ko": "세인트 버나드",
-   "en": "Saint Bernard"
-  },
-  "country": "CH",
-  "region": "스위스 서부 알프스",
-  "lat": 45.87,
-  "lng": 7.17,
-  "group": "pinscher-molosser",
-  "size": "giant",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "bernese-mountain-dog",
-  "name": {
-   "ko": "버니즈 마운틴 독",
-   "en": "Bernese Mountain Dog"
-  },
-  "country": "CH",
-  "region": "스위스 베른주",
-  "lat": 46.95,
-  "lng": 7.45,
-  "group": "pinscher-molosser",
-  "size": "large",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "dalmatian",
-  "name": {
-   "ko": "달마티안",
-   "en": "Dalmatian"
-  },
-  "country": "HR",
-  "region": "크로아티아 달마티아",
-  "lat": 43.5,
-  "lng": 16.4,
-  "group": "scenthound",
-  "size": "large",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "maltese",
-  "name": {
-   "ko": "몰티즈",
-   "en": "Maltese"
-  },
-  "country": "MT",
-  "region": "몰타 · 지중해 중부",
-  "lat": 35.9,
-  "lng": 14.4,
-  "group": "companion",
-  "size": "small",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "chihuahua",
-  "name": {
-   "ko": "치와와",
-   "en": "Chihuahua"
-  },
-  "country": "MX",
-  "region": "멕시코 치와와주",
-  "lat": 28.6,
-  "lng": -106.1,
-  "group": "companion",
-  "size": "small",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "xoloitzcuintli",
-  "name": {
-   "ko": "솔로이츠퀸틀레",
-   "en": "Xoloitzcuintli"
-  },
-  "country": "MX",
-  "region": "멕시코",
-  "lat": 19.2,
-  "lng": -103.7,
-  "group": "spitz",
-  "size": "medium",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "basenji",
-  "name": {
-   "ko": "바센지",
-   "en": "Basenji"
-  },
-  "country": "CD",
-  "region": "중앙아프리카 콩고 분지",
-  "lat": -0.5,
-  "lng": 22,
-  "group": "spitz",
-  "size": "small",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "rhodesian-ridgeback",
-  "name": {
-   "ko": "로디지안 리지백",
-   "en": "Rhodesian Ridgeback"
-  },
-  "country": "ZW",
-  "region": "남부 아프리카 (짐바브웨)",
-  "lat": -19,
-  "lng": 29.8,
-  "group": "scenthound",
-  "size": "large",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "afghan-hound",
-  "name": {
-   "ko": "아프간하운드",
-   "en": "Afghan Hound"
-  },
-  "country": "AF",
-  "region": "아프가니스탄",
-  "lat": 34,
-  "lng": 66,
-  "group": "sighthound",
-  "size": "large",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "saluki",
-  "name": {
-   "ko": "살루키",
-   "en": "Saluki"
-  },
-  "country": "XME",
-  "region": "비옥한 초승달 지대 · 중동",
-  "lat": 33.3,
-  "lng": 44.4,
-  "group": "sighthound",
-  "size": "large",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "australian-cattle-dog",
-  "name": {
-   "ko": "오스트레일리안 캐틀 독",
-   "en": "Australian Cattle Dog"
-  },
-  "country": "AU",
-  "region": "호주 뉴사우스웨일스",
-  "lat": -32.2,
-  "lng": 148.6,
-  "group": "sheepdog",
-  "size": "medium",
-  "mix": false,
-  "parents": [],
-  "art": null
- },
- {
-  "id": "labradoodle",
-  "name": {
-   "ko": "래브라두들",
-   "en": "Labradoodle"
-  },
-  "country": "AU",
-  "region": "호주 빅토리아주",
-  "lat": -37.8,
-  "lng": 145,
-  "group": "mixed",
-  "size": "large",
-  "mix": true,
-  "parents": [
-   "labrador-retriever",
-   "poodle"
-  ],
-  "art": null
+  "art": null,
+  "fci": 111,
+  "prov": false,
+  "akc": true
  },
  {
   "id": "goldendoodle",
@@ -563,7 +168,7426 @@
    "golden-retriever",
    "poodle"
   ],
-  "art": null
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "grand-griffon-vendeen",
+  "name": {
+   "ko": "그랑 그리퐁 방데앙",
+   "en": "Grand Griffon Vendéen"
+  },
+  "country": "FR",
+  "region": "프랑스 방데",
+  "lat": 46.4,
+  "lng": -0.9,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 282,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "grand-basset-griffon-vendeen",
+  "name": {
+   "ko": "그랑 바세 그리퐁 방데앙",
+   "en": "Grand Basset Griffon Vendéen"
+  },
+  "country": "FR",
+  "region": "프랑스 방데",
+  "lat": 46.5,
+  "lng": -1.1,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 33,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "grand-bleu-de-gascogne",
+  "name": {
+   "ko": "그랑 블루 드 가스코뉴",
+   "en": "Grand Bleu de Gascogne"
+  },
+  "country": "FR",
+  "region": "프랑스 가스코뉴",
+  "lat": 43.6,
+  "lng": 0.6,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 22,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "grand-anglo-francais-blanc-et-noir",
+  "name": {
+   "ko": "그랑 앙글로 프랑세 블랑 에 누아",
+   "en": "Grand Anglo-Français Blanc et Noir"
+  },
+  "country": "FR",
+  "region": "프랑스",
+  "lat": 47.3,
+  "lng": 0.7,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 323,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "grand-anglo-francais-blanc-et-orange",
+  "name": {
+   "ko": "그랑 앙글로 프랑세 블랑 에 오랑주",
+   "en": "Grand Anglo-Français Blanc et Orange"
+  },
+  "country": "FR",
+  "region": "프랑스",
+  "lat": 46.9,
+  "lng": 0.9,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 324,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "grand-anglo-francais-tricolore",
+  "name": {
+   "ko": "그랑 앙글로 프랑세 트리콜로르",
+   "en": "Grand Anglo-Français Tricolore"
+  },
+  "country": "FR",
+  "region": "프랑스",
+  "lat": 47.9,
+  "lng": 2.0,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 322,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "greater-swiss-mountain-dog",
+  "name": {
+   "ko": "그레이터 스위스 마운틴 독",
+   "en": "Greater Swiss Mountain Dog"
+  },
+  "country": "CH",
+  "region": "스위스 알프스",
+  "lat": 46.7,
+  "lng": 8.2,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 58,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "great-dane",
+  "name": {
+   "ko": "그레이트 데인",
+   "en": "Great Dane"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 49.3,
+  "lng": 8.5,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 235,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "pyrenean-mountain-dog",
+  "name": {
+   "ko": "그레이트 피레니즈",
+   "en": "Pyrenean Mountain Dog"
+  },
+  "country": "FR",
+  "region": "프랑스 피레네",
+  "lat": 42.9,
+  "lng": 0.7,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 137,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "greyhound",
+  "name": {
+   "ko": "그레이하운드",
+   "en": "Greyhound"
+  },
+  "country": "GB",
+  "region": "영국",
+  "lat": 51.2,
+  "lng": -0.5,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 158,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "greek-shepherd",
+  "name": {
+   "ko": "그리스 셰퍼드",
+   "en": "Greek Shepherd"
+  },
+  "country": "GR",
+  "region": "그리스 북부",
+  "lat": 40.0,
+  "lng": 21.5,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "griffon-belge",
+  "name": {
+   "ko": "그리펀 벨주",
+   "en": "Griffon Belge"
+  },
+  "country": "BE",
+  "region": "벨기에 브뤼셀",
+  "lat": 50.8,
+  "lng": 4.4,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 81,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "griffon-nivernais",
+  "name": {
+   "ko": "그리퐁 니베르네",
+   "en": "Griffon Nivernais"
+  },
+  "country": "FR",
+  "region": "프랑스 니베르네",
+  "lat": 47.1,
+  "lng": 3.5,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 17,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "griffon-bleu-de-gascogne",
+  "name": {
+   "ko": "그리퐁 블루 드 가스코뉴",
+   "en": "Griffon Bleu de Gascogne"
+  },
+  "country": "FR",
+  "region": "프랑스 가스코뉴",
+  "lat": 43.3,
+  "lng": 0.1,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 32,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "griffon-fauve-de-bretagne",
+  "name": {
+   "ko": "그리퐁 포브 드 브르타뉴",
+   "en": "Griffon Fauve de Bretagne"
+  },
+  "country": "FR",
+  "region": "프랑스 브르타뉴",
+  "lat": 48.2,
+  "lng": -2.8,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 66,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "greenland-dog",
+  "name": {
+   "ko": "그린란드견",
+   "en": "Greenland Dog"
+  },
+  "country": "GL",
+  "region": "그린란드",
+  "lat": 66.0,
+  "lng": -45.0,
+  "group": "spitz",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 274,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "glen-of-imaal-terrier",
+  "name": {
+   "ko": "글렌 오브 이말 테리어",
+   "en": "Glen of Imaal Terrier"
+  },
+  "country": "IE",
+  "region": "아일랜드 위클로",
+  "lat": 52.97,
+  "lng": -6.53,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 302,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "kishu",
+  "name": {
+   "ko": "기슈견",
+   "en": "Kishu"
+  },
+  "country": "JP",
+  "region": "일본 와카야마·미에",
+  "lat": 33.9,
+  "lng": 135.6,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 318,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "neapolitan-mastiff",
+  "name": {
+   "ko": "나폴리탄 마스티프",
+   "en": "Neapolitan Mastiff"
+  },
+  "country": "IT",
+  "region": "이탈리아 나폴리",
+  "lat": 40.85,
+  "lng": 14.27,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 197,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "nenets-herding-laika",
+  "name": {
+   "ko": "네네츠 허딩 라이카",
+   "en": "Nenets Herding Laika"
+  },
+  "country": "RU",
+  "region": "러시아 야말로네네츠",
+  "lat": 66.5,
+  "lng": 66.6,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "norrbottenspets",
+  "name": {
+   "ko": "노르보텐스페츠",
+   "en": "Norrbottenspets"
+  },
+  "country": "SE",
+  "region": "스웨덴 노르보텐",
+  "lat": 66.0,
+  "lng": 21.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 276,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "norwegian-lundehund",
+  "name": {
+   "ko": "노르웨이 룬데훈트",
+   "en": "Norwegian Lundehund"
+  },
+  "country": "NO",
+  "region": "노르웨이 로포텐",
+  "lat": 68.0,
+  "lng": 13.5,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 265,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "norwegian-buhund",
+  "name": {
+   "ko": "노르웨이 부훈트",
+   "en": "Norwegian Buhund"
+  },
+  "country": "NO",
+  "region": "노르웨이",
+  "lat": 60.4,
+  "lng": 5.3,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 237,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "norwegian-elkhound-black",
+  "name": {
+   "ko": "노르웨이 엘크하운드 (검정)",
+   "en": "Norwegian Elkhound (Black)"
+  },
+  "country": "NO",
+  "region": "노르웨이",
+  "lat": 61.2,
+  "lng": 10.5,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 268,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "norwegian-elkhound-grey",
+  "name": {
+   "ko": "노르웨이 엘크하운드 (회색)",
+   "en": "Norwegian Elkhound (Grey)"
+  },
+  "country": "NO",
+  "region": "노르웨이",
+  "lat": 61.5,
+  "lng": 9.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 242,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "norwich-terrier",
+  "name": {
+   "ko": "노리치 테리어",
+   "en": "Norwich Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드 노리치",
+  "lat": 52.63,
+  "lng": 1.3,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 72,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "nova-scotia-duck-tolling-retriever",
+  "name": {
+   "ko": "노바스코샤 덕 톨링 리트리버",
+   "en": "Nova Scotia Duck Tolling Retriever"
+  },
+  "country": "CA",
+  "region": "캐나다 노바스코샤",
+  "lat": 44.7,
+  "lng": -63.6,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 312,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "norfolk-terrier",
+  "name": {
+   "ko": "노퍽 테리어",
+   "en": "Norfolk Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드 노퍽",
+  "lat": 52.7,
+  "lng": 0.9,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 272,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "new-zealand-heading-dog",
+  "name": {
+   "ko": "뉴질랜드 헤딩 독",
+   "en": "New Zealand Heading Dog"
+  },
+  "country": "NZ",
+  "region": "뉴질랜드",
+  "lat": -44.0,
+  "lng": 170.5,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "newfoundland",
+  "name": {
+   "ko": "뉴펀들랜드",
+   "en": "Newfoundland"
+  },
+  "country": "CA",
+  "region": "캐나다 뉴펀들랜드",
+  "lat": 48.5,
+  "lng": -56.0,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 50,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "dachshund",
+  "name": {
+   "ko": "닥스훈트",
+   "en": "Dachshund"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 49.6,
+  "lng": 11.4,
+  "group": "dachshund",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 148,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "dalmatian",
+  "name": {
+   "ko": "달마티안",
+   "en": "Dalmatian"
+  },
+  "country": "HR",
+  "region": "크로아티아 달마티아",
+  "lat": 43.5,
+  "lng": 16.4,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 153,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "danish-spitz",
+  "name": {
+   "ko": "대니시 스피츠",
+   "en": "Danish Spitz"
+  },
+  "country": "DK",
+  "region": "덴마크",
+  "lat": 56.2,
+  "lng": 9.5,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "taiwan-dog",
+  "name": {
+   "ko": "대만견",
+   "en": "Taiwan Dog"
+  },
+  "country": "TW",
+  "region": "대만",
+  "lat": 23.7,
+  "lng": 121.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 348,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "dandie-dinmont-terrier",
+  "name": {
+   "ko": "댄디 딘몬트 테리어",
+   "en": "Dandie Dinmont Terrier"
+  },
+  "country": "GB",
+  "region": "영국 스코틀랜드 접경",
+  "lat": 55.45,
+  "lng": -2.9,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 168,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "dutch-shepherd",
+  "name": {
+   "ko": "더치 셰퍼드",
+   "en": "Dutch Shepherd"
+  },
+  "country": "NL",
+  "region": "네덜란드",
+  "lat": 52.1,
+  "lng": 5.3,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 223,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "dutch-smoushond",
+  "name": {
+   "ko": "더치 스무스혼트",
+   "en": "Dutch Smoushond"
+  },
+  "country": "NL",
+  "region": "네덜란드",
+  "lat": 51.9,
+  "lng": 4.5,
+  "group": "pinscher-molosser",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 308,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "danish-swedish-farmdog",
+  "name": {
+   "ko": "데니시 스웨디시 팜독",
+   "en": "Danish–Swedish Farmdog"
+  },
+  "country": "DK",
+  "region": "덴마크·스웨덴 남부",
+  "lat": 55.9,
+  "lng": 13.5,
+  "group": "pinscher-molosser",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 356,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "dogo-argentino",
+  "name": {
+   "ko": "도고 아르헨티노",
+   "en": "Dogo Argentino"
+  },
+  "country": "AR",
+  "region": "아르헨티나 코르도바",
+  "lat": -31.4,
+  "lng": -64.2,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 292,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "dogue-de-bordeaux",
+  "name": {
+   "ko": "도그 드 보르도",
+   "en": "Dogue de Bordeaux"
+  },
+  "country": "FR",
+  "region": "프랑스 보르도",
+  "lat": 44.84,
+  "lng": -0.58,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 116,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "dogue-brasileiro",
+  "name": {
+   "ko": "도그 브라질레이루",
+   "en": "Dogue Brasileiro"
+  },
+  "country": "BR",
+  "region": "브라질",
+  "lat": -20.0,
+  "lng": -44.0,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "dobermann",
+  "name": {
+   "ko": "도베르만",
+   "en": "Dobermann"
+  },
+  "country": "DE",
+  "region": "독일 튀링겐 아폴다",
+  "lat": 51.03,
+  "lng": 11.51,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 143,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "tosa",
+  "name": {
+   "ko": "도사견",
+   "en": "Tosa"
+  },
+  "country": "JP",
+  "region": "일본 고치현",
+  "lat": 33.56,
+  "lng": 133.53,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 260,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "german-spaniel",
+  "name": {
+   "ko": "도이처 바흐텔훈트",
+   "en": "German Spaniel"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 50.0,
+  "lng": 8.3,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 104,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "german-spitz",
+  "name": {
+   "ko": "독일 스피츠",
+   "en": "German Spitz"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 52.5,
+  "lng": 9.7,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 97,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "donggyeongi",
+  "name": {
+   "ko": "동경이",
+   "en": "Donggyeongi"
+  },
+  "country": "KR",
+  "region": "경상북도 경주",
+  "lat": 35.85,
+  "lng": 129.22,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "dunker",
+  "name": {
+   "ko": "둔케르",
+   "en": "Dunker"
+  },
+  "country": "NO",
+  "region": "노르웨이",
+  "lat": 60.8,
+  "lng": 10.7,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 203,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "drever",
+  "name": {
+   "ko": "드레버",
+   "en": "Drever"
+  },
+  "country": "SE",
+  "region": "스웨덴",
+  "lat": 59.3,
+  "lng": 15.2,
+  "group": "scenthound",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 130,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "drentse-patrijshond",
+  "name": {
+   "ko": "드렌체 파트레이스혼트",
+   "en": "Drentse Patrijshond"
+  },
+  "country": "NL",
+  "region": "네덜란드 드렌터",
+  "lat": 52.9,
+  "lng": 6.6,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 224,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "dikkulak",
+  "name": {
+   "ko": "디쿨라크",
+   "en": "Dikkulak"
+  },
+  "country": "TR",
+  "region": "튀르키예 동부",
+  "lat": 40.0,
+  "lng": 42.5,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "lagotto-romagnolo",
+  "name": {
+   "ko": "라고토 로마뇰로",
+   "en": "Lagotto Romagnolo"
+  },
+  "country": "IT",
+  "region": "이탈리아 로마냐",
+  "lat": 44.4,
+  "lng": 12.0,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 298,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "lhasa-apso",
+  "name": {
+   "ko": "라사 압소",
+   "en": "Lhasa Apso"
+  },
+  "country": "CN",
+  "region": "중국 티베트 라싸",
+  "lat": 29.65,
+  "lng": 91.14,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 227,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "laizhou-hong",
+  "name": {
+   "ko": "라이저우 훙",
+   "en": "Laizhou Hong"
+  },
+  "country": "CN",
+  "region": "중국 산둥 라이저우",
+  "lat": 37.18,
+  "lng": 119.95,
+  "group": "companion",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "rajapalayam",
+  "name": {
+   "ko": "라자팔라얌",
+   "en": "Rajapalayam"
+  },
+  "country": "IN",
+  "region": "인도 타밀나두",
+  "lat": 9.45,
+  "lng": 77.55,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "large-munsterlander",
+  "name": {
+   "ko": "라지 뮌스터랜더",
+   "en": "Large Münsterländer"
+  },
+  "country": "DE",
+  "region": "독일 베스트팔렌·니더작센",
+  "lat": 52.2,
+  "lng": 8.0,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 118,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "lapponian-herder",
+  "name": {
+   "ko": "라포니안 허더",
+   "en": "Lapponian Herder"
+  },
+  "country": "FI",
+  "region": "핀란드 라플란드",
+  "lat": 67.0,
+  "lng": 27.5,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 284,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "rampur-greyhound",
+  "name": {
+   "ko": "람푸르 그레이하운드",
+   "en": "Rampur Greyhound"
+  },
+  "country": "IN",
+  "region": "인도 우타르프라데시 람푸르",
+  "lat": 28.8,
+  "lng": 79.0,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "langqing-quan",
+  "name": {
+   "ko": "랑칭취안",
+   "en": "Langqing Quan"
+  },
+  "country": "CN",
+  "region": "중국 북부",
+  "lat": 40.8,
+  "lng": 111.7,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "labrador-retriever",
+  "name": {
+   "ko": "래브라도 리트리버",
+   "en": "Labrador Retriever"
+  },
+  "country": "CA",
+  "region": "캐나다 뉴펀들랜드",
+  "lat": 48.9,
+  "lng": -55.6,
+  "group": "retriever",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 122,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "labradoodle",
+  "name": {
+   "ko": "래브라두들",
+   "en": "Labradoodle"
+  },
+  "country": "AU",
+  "region": "호주 빅토리아주",
+  "lat": -37.8,
+  "lng": 145,
+  "group": "mixed",
+  "size": "large",
+  "mix": true,
+  "parents": [
+   "labrador-retriever",
+   "poodle"
+  ],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "rat-terrier",
+  "name": {
+   "ko": "래트 테리어",
+   "en": "Rat Terrier"
+  },
+  "country": "US",
+  "region": "미국",
+  "lat": 39.8,
+  "lng": -89.6,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "landseer",
+  "name": {
+   "ko": "랜드시어",
+   "en": "Landseer"
+  },
+  "country": "DE",
+  "region": "독일·스위스",
+  "lat": 47.8,
+  "lng": 8.5,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 226,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "lancashire-heeler",
+  "name": {
+   "ko": "랭커셔 힐러",
+   "en": "Lancashire Heeler"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드 랭커셔",
+  "lat": 53.8,
+  "lng": -2.6,
+  "group": "sheepdog",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 360,
+  "prov": true,
+  "akc": true
+ },
+ {
+  "id": "liangshan-dog",
+  "name": {
+   "ko": "량산견",
+   "en": "Liangshan Dog"
+  },
+  "country": "CN",
+  "region": "중국 쓰촨 량산",
+  "lat": 27.9,
+  "lng": 102.3,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "russian-spaniel",
+  "name": {
+   "ko": "러시안 스패니얼",
+   "en": "Russian Spaniel"
+  },
+  "country": "RU",
+  "region": "러시아",
+  "lat": 56.0,
+  "lng": 38.5,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "bolonka",
+  "name": {
+   "ko": "러시안 츠베트나야 볼롱카",
+   "en": "Bolonka"
+  },
+  "country": "RU",
+  "region": "러시아 모스크바",
+  "lat": 55.7,
+  "lng": 37.7,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "russian-toy",
+  "name": {
+   "ko": "러시안 토이",
+   "en": "Russian Toy"
+  },
+  "country": "RU",
+  "region": "러시아",
+  "lat": 59.9,
+  "lng": 30.3,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 352,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "rough-collie",
+  "name": {
+   "ko": "러프 콜리",
+   "en": "Rough Collie"
+  },
+  "country": "GB",
+  "region": "영국 스코틀랜드",
+  "lat": 55.9,
+  "lng": -4.0,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 156,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "redbone-coonhound",
+  "name": {
+   "ko": "레드본 쿤하운드",
+   "en": "Redbone Coonhound"
+  },
+  "country": "US",
+  "region": "미국 남동부",
+  "lat": 34.5,
+  "lng": -84.0,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "leonberger",
+  "name": {
+   "ko": "레온베르거",
+   "en": "Leonberger"
+  },
+  "country": "DE",
+  "region": "독일 레온베르크",
+  "lat": 48.8,
+  "lng": 9.01,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 145,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "lakeland-terrier",
+  "name": {
+   "ko": "레이클랜드 테리어",
+   "en": "Lakeland Terrier"
+  },
+  "country": "GB",
+  "region": "영국 호수 지방",
+  "lat": 54.5,
+  "lng": -3.1,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 70,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "rhodesian-ridgeback",
+  "name": {
+   "ko": "로디지안 리지백",
+   "en": "Rhodesian Ridgeback"
+  },
+  "country": "ZW",
+  "region": "남부 아프리카 (짐바브웨)",
+  "lat": -19,
+  "lng": 29.8,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 146,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "lobito-herreno",
+  "name": {
+   "ko": "로비토 에레뇨",
+   "en": "Lobito Herreño"
+  },
+  "country": "ES",
+  "region": "스페인 엘이에로섬",
+  "lat": 27.75,
+  "lng": -18.0,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "rottweiler",
+  "name": {
+   "ko": "로트와일러",
+   "en": "Rottweiler"
+  },
+  "country": "DE",
+  "region": "독일 로트바일",
+  "lat": 48.17,
+  "lng": 8.63,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 147,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "lowchen",
+  "name": {
+   "ko": "뢰브헨",
+   "en": "Löwchen"
+  },
+  "country": "FR",
+  "region": "프랑스",
+  "lat": 46.9,
+  "lng": 5.0,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 233,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "romanian-raven-shepherd-dog",
+  "name": {
+   "ko": "루마니안 레이븐 셰퍼드",
+   "en": "Romanian Raven Shepherd Dog"
+  },
+  "country": "RO",
+  "region": "루마니아 남부",
+  "lat": 45.2,
+  "lng": 25.0,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 373,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "russo-european-laika",
+  "name": {
+   "ko": "루소 유러피언 라이카",
+   "en": "Russo-European Laika"
+  },
+  "country": "RU",
+  "region": "러시아 북서부",
+  "lat": 61.8,
+  "lng": 34.3,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 304,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "lupo-italiano",
+  "name": {
+   "ko": "루포 이탈리아노",
+   "en": "Lupo Italiano"
+  },
+  "country": "IT",
+  "region": "이탈리아",
+  "lat": 42.4,
+  "lng": 13.0,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "ryukyu",
+  "name": {
+   "ko": "류큐견",
+   "en": "Ryukyu"
+  },
+  "country": "JP",
+  "region": "일본 오키나와",
+  "lat": 26.5,
+  "lng": 128.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "rize-koyun",
+  "name": {
+   "ko": "리제 코윤",
+   "en": "Rize Koyun"
+  },
+  "country": "TR",
+  "region": "튀르키예 리제",
+  "lat": 41.0,
+  "lng": 40.5,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "lithuanian-hound",
+  "name": {
+   "ko": "리투아니안 하운드",
+   "en": "Lithuanian Hound"
+  },
+  "country": "LT",
+  "region": "리투아니아",
+  "lat": 55.2,
+  "lng": 23.9,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "maremmano-abruzzese-sheepdog",
+  "name": {
+   "ko": "마렘마 시프도그",
+   "en": "Maremmano-Abruzzese Sheepdog"
+  },
+  "country": "IT",
+  "region": "이탈리아 마렘마·아브루초",
+  "lat": 42.3,
+  "lng": 13.5,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 201,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "markiesje",
+  "name": {
+   "ko": "마르키셰",
+   "en": "Markiesje"
+  },
+  "country": "NL",
+  "region": "네덜란드",
+  "lat": 52.0,
+  "lng": 4.3,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "mountain-cur",
+  "name": {
+   "ko": "마운틴 커",
+   "en": "Mountain Cur"
+  },
+  "country": "US",
+  "region": "미국 애팔래치아",
+  "lat": 37.5,
+  "lng": -82.5,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "magyar-agar",
+  "name": {
+   "ko": "마자르 아가르",
+   "en": "Magyar Agár"
+  },
+  "country": "HU",
+  "region": "헝가리",
+  "lat": 47.5,
+  "lng": 21.5,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 240,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "macedonian-shepherd-dog",
+  "name": {
+   "ko": "마케도니안 셰퍼드 카라만",
+   "en": "Macedonian Shepherd Dog"
+  },
+  "country": "MK",
+  "region": "북마케도니아",
+  "lat": 41.6,
+  "lng": 21.7,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 378,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "mantiqueira-shepherd",
+  "name": {
+   "ko": "만티케이라 셰퍼드",
+   "en": "Mantiqueira Shepherd"
+  },
+  "country": "BR",
+  "region": "브라질 만티케이라 산맥",
+  "lat": -22.5,
+  "lng": -45.0,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "manchester-terrier",
+  "name": {
+   "ko": "맨체스터 테리어",
+   "en": "Manchester Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드 맨체스터",
+  "lat": 53.5,
+  "lng": -2.25,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 71,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "meitei-hui",
+  "name": {
+   "ko": "메이테이 후이",
+   "en": "Meitei Hui"
+  },
+  "country": "IN",
+  "region": "인도 마니푸르",
+  "lat": 24.8,
+  "lng": 93.9,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "moscow-watchdog",
+  "name": {
+   "ko": "모스크바 와치독",
+   "en": "Moscow Watchdog"
+  },
+  "country": "RU",
+  "region": "러시아 모스크바",
+  "lat": 55.6,
+  "lng": 37.5,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "montenegrin-mountain-hound",
+  "name": {
+   "ko": "몬테네그린 마운틴 하운드",
+   "en": "Montenegrin Mountain Hound"
+  },
+  "country": "ME",
+  "region": "몬테네그로",
+  "lat": 42.7,
+  "lng": 19.3,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 279,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "maltese",
+  "name": {
+   "ko": "몰티즈",
+   "en": "Maltese"
+  },
+  "country": "MT",
+  "region": "몰타 · 지중해 중부",
+  "lat": 35.9,
+  "lng": 14.4,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 65,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "mudhol-hound",
+  "name": {
+   "ko": "무돌 하운드",
+   "en": "Mudhol Hound"
+  },
+  "country": "IN",
+  "region": "인도 카르나타카",
+  "lat": 16.3,
+  "lng": 75.3,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "mudi",
+  "name": {
+   "ko": "무디",
+   "en": "Mudi"
+  },
+  "country": "HU",
+  "region": "헝가리",
+  "lat": 46.3,
+  "lng": 19.0,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 238,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "miniature-bull-terrier",
+  "name": {
+   "ko": "미니어처 불 테리어",
+   "en": "Miniature Bull Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 52.1,
+  "lng": -0.8,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 359,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "miniature-schnauzer",
+  "name": {
+   "ko": "미니어처 슈나우저",
+   "en": "Miniature Schnauzer"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 49.0,
+  "lng": 10.5,
+  "group": "pinscher-molosser",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 183,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "miniature-american-shepherd",
+  "name": {
+   "ko": "미니어처 아메리칸 셰퍼드",
+   "en": "Miniature American Shepherd"
+  },
+  "country": "US",
+  "region": "미국",
+  "lat": 37.0,
+  "lng": -120.5,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 367,
+  "prov": true,
+  "akc": true
+ },
+ {
+  "id": "miniature-fox-terrier",
+  "name": {
+   "ko": "미니어처 폭스 테리어",
+   "en": "Miniature Fox Terrier"
+  },
+  "country": "AU",
+  "region": "호주",
+  "lat": -31.9,
+  "lng": 115.9,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "miniature-pinscher",
+  "name": {
+   "ko": "미니어처 핀셔",
+   "en": "Miniature Pinscher"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 49.9,
+  "lng": 8.7,
+  "group": "pinscher-molosser",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 185,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "romanian-mioritic-shepherd-dog",
+  "name": {
+   "ko": "미오리틱 셰퍼드",
+   "en": "Romanian Mioritic Shepherd Dog"
+  },
+  "country": "RO",
+  "region": "루마니아 카르파티아",
+  "lat": 45.6,
+  "lng": 24.5,
+  "group": "sheepdog",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 349,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "mi-ki",
+  "name": {
+   "ko": "미키",
+   "en": "Mi-Ki"
+  },
+  "country": "US",
+  "region": "미국 위스콘신",
+  "lat": 43.1,
+  "lng": -88.9,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "barak-hound",
+  "name": {
+   "ko": "바라크",
+   "en": "Barak hound"
+  },
+  "country": "BA",
+  "region": "보스니아 헤르체고비나",
+  "lat": 44.0,
+  "lng": 18.0,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 155,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "barbado-da-terceira",
+  "name": {
+   "ko": "바르바두 다 테르세이라",
+   "en": "Barbado da Terceira"
+  },
+  "country": "PT",
+  "region": "포르투갈 아소르스 테르세이라섬",
+  "lat": 38.7,
+  "lng": -27.2,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "barbet",
+  "name": {
+   "ko": "바르베",
+   "en": "Barbet"
+  },
+  "country": "FR",
+  "region": "프랑스",
+  "lat": 46.2,
+  "lng": 4.8,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 105,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "bavarian-mountain-hound",
+  "name": {
+   "ko": "바바리안 마운틴 하운드",
+   "en": "Bavarian Mountain Hound"
+  },
+  "country": "DE",
+  "region": "독일 바이에른",
+  "lat": 47.7,
+  "lng": 11.9,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 217,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "basset-bleu-de-gascogne",
+  "name": {
+   "ko": "바세 블루 드 가스코뉴",
+   "en": "Basset Bleu de Gascogne"
+  },
+  "country": "FR",
+  "region": "프랑스 가스코뉴",
+  "lat": 43.7,
+  "lng": 0.0,
+  "group": "scenthound",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 35,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "basset-artesien-normand",
+  "name": {
+   "ko": "바세 아르테지앵 노르망",
+   "en": "Basset Artésien Normand"
+  },
+  "country": "FR",
+  "region": "프랑스 노르망디·아르투아",
+  "lat": 49.6,
+  "lng": 1.0,
+  "group": "scenthound",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 34,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "basset-fauve-de-bretagne",
+  "name": {
+   "ko": "바세 포브 드 브르타뉴",
+   "en": "Basset Fauve de Bretagne"
+  },
+  "country": "FR",
+  "region": "프랑스 브르타뉴",
+  "lat": 48.1,
+  "lng": -3.0,
+  "group": "scenthound",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 36,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "basenji",
+  "name": {
+   "ko": "바센지",
+   "en": "Basenji"
+  },
+  "country": "CD",
+  "region": "중앙아프리카 콩고 분지",
+  "lat": -0.5,
+  "lng": 22,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 43,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "basset-hound",
+  "name": {
+   "ko": "바셋 하운드",
+   "en": "Basset Hound"
+  },
+  "country": "GB",
+  "region": "영국 (프랑스 바셋 계통)",
+  "lat": 52.4,
+  "lng": -0.8,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 163,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "basque-shepherd-dog",
+  "name": {
+   "ko": "바스크 셰퍼드 독",
+   "en": "Basque Shepherd Dog"
+  },
+  "country": "ES",
+  "region": "스페인 바스크",
+  "lat": 43.0,
+  "lng": -2.5,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "weimaraner",
+  "name": {
+   "ko": "바이마라너",
+   "en": "Weimaraner"
+  },
+  "country": "DE",
+  "region": "독일 바이마르",
+  "lat": 50.98,
+  "lng": 11.33,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 99,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "bakharwal-dog",
+  "name": {
+   "ko": "바카르왈 개",
+   "en": "Bakharwal Dog"
+  },
+  "country": "IN",
+  "region": "인도 잠무·카슈미르",
+  "lat": 33.7,
+  "lng": 75.3,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "bac-ha-dog",
+  "name": {
+   "ko": "박하견",
+   "en": "Bắc Hà Dog"
+  },
+  "country": "VN",
+  "region": "베트남 라오까이",
+  "lat": 22.5,
+  "lng": 104.3,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "valdueza",
+  "name": {
+   "ko": "발두에사",
+   "en": "Valdueza"
+  },
+  "country": "ES",
+  "region": "스페인 에스트레마두라",
+  "lat": 39.0,
+  "lng": -6.5,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "ratonero-valenciano",
+  "name": {
+   "ko": "발렌시안 테리어",
+   "en": "Ratonero Valenciano"
+  },
+  "country": "ES",
+  "region": "스페인 발렌시아",
+  "lat": 39.47,
+  "lng": -0.38,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 370,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "bankhar-dog",
+  "name": {
+   "ko": "방카르",
+   "en": "Bankhar Dog"
+  },
+  "country": "MN",
+  "region": "몽골",
+  "lat": 47.9,
+  "lng": 106.9,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "bernese-mountain-dog",
+  "name": {
+   "ko": "버니즈 마운틴 독",
+   "en": "Bernese Mountain Dog"
+  },
+  "country": "CH",
+  "region": "스위스 베른주",
+  "lat": 46.95,
+  "lng": 7.45,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 45,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "bedlington-terrier",
+  "name": {
+   "ko": "베들링턴 테리어",
+   "en": "Bedlington Terrier"
+  },
+  "country": "GB",
+  "region": "영국 노섬벌랜드 베들링턴",
+  "lat": 55.13,
+  "lng": -1.59,
+  "group": "terrier",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 9,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "bergamasco-shepherd-dog",
+  "name": {
+   "ko": "베르가마스코 시프도그",
+   "en": "Bergamasco Shepherd Dog"
+  },
+  "country": "IT",
+  "region": "이탈리아 알프스 베르가모",
+  "lat": 45.7,
+  "lng": 9.7,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 194,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "berger-picard",
+  "name": {
+   "ko": "베르제 피카르",
+   "en": "Berger Picard"
+  },
+  "country": "FR",
+  "region": "프랑스 피카르디",
+  "lat": 49.5,
+  "lng": 2.8,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 176,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "westphalian-dachsbracke",
+  "name": {
+   "ko": "베스트팔렌 닥스브라케",
+   "en": "Westphalian Dachsbracke"
+  },
+  "country": "DE",
+  "region": "독일 베스트팔렌",
+  "lat": 51.6,
+  "lng": 7.6,
+  "group": "scenthound",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 100,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "wetterhoun",
+  "name": {
+   "ko": "베테르훈",
+   "en": "Wetterhoun"
+  },
+  "country": "NL",
+  "region": "네덜란드 프리슬란트",
+  "lat": 53.1,
+  "lng": 5.8,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 221,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "belgian-shepherd",
+  "name": {
+   "ko": "벨지안 셰퍼드 독",
+   "en": "Belgian Shepherd"
+  },
+  "country": "BE",
+  "region": "벨기에",
+  "lat": 50.6,
+  "lng": 4.5,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 15,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "border-collie",
+  "name": {
+   "ko": "보더 콜리",
+   "en": "Border Collie"
+  },
+  "country": "GB",
+  "region": "잉글랜드·스코틀랜드 접경",
+  "lat": 55.6,
+  "lng": -2.4,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 297,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "border-terrier",
+  "name": {
+   "ko": "보더 테리어",
+   "en": "Border Terrier"
+  },
+  "country": "GB",
+  "region": "잉글랜드·스코틀랜드 접경",
+  "lat": 55.3,
+  "lng": -2.6,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 10,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "borzoi",
+  "name": {
+   "ko": "보르조이",
+   "en": "Borzoi"
+  },
+  "country": "RU",
+  "region": "러시아",
+  "lat": 55.75,
+  "lng": 37.6,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 193,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "beauceron",
+  "name": {
+   "ko": "보스롱",
+   "en": "Beauceron"
+  },
+  "country": "FR",
+  "region": "프랑스 보스 평원",
+  "lat": 48.3,
+  "lng": 1.5,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 44,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "boston-terrier",
+  "name": {
+   "ko": "보스턴 테리어",
+   "en": "Boston Terrier"
+  },
+  "country": "US",
+  "region": "미국 매사추세츠주 보스턴",
+  "lat": 42.36,
+  "lng": -71.06,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 140,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "boerboel",
+  "name": {
+   "ko": "보어보엘",
+   "en": "Boerboel"
+  },
+  "country": "ZA",
+  "region": "남아프리카공화국",
+  "lat": -29.0,
+  "lng": 25.5,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "boykin-spaniel",
+  "name": {
+   "ko": "보이킨 스패니얼",
+   "en": "Boykin Spaniel"
+  },
+  "country": "US",
+  "region": "미국 사우스캐롤라이나",
+  "lat": 34.0,
+  "lng": -80.9,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "boca-preta-sertanejo",
+  "name": {
+   "ko": "보카 프레타 세르타네주",
+   "en": "Boca-preta sertanejo"
+  },
+  "country": "BR",
+  "region": "브라질 북동부",
+  "lat": -7.0,
+  "lng": -39.5,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "bohemian-shepherd",
+  "name": {
+   "ko": "보헤미안 셰퍼드",
+   "en": "Bohemian Shepherd"
+  },
+  "country": "CZ",
+  "region": "체코 호드스코",
+  "lat": 49.45,
+  "lng": 12.93,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 364,
+  "prov": true,
+  "akc": true
+ },
+ {
+  "id": "bohemian-spotted-dog",
+  "name": {
+   "ko": "보헤미안 스포티드 독",
+   "en": "Bohemian Spotted Dog"
+  },
+  "country": "CZ",
+  "region": "체코 프라하",
+  "lat": 50.0,
+  "lng": 14.6,
+  "group": "companion",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "boxer",
+  "name": {
+   "ko": "복서",
+   "en": "Boxer"
+  },
+  "country": "DE",
+  "region": "독일 뮌헨",
+  "lat": 48.14,
+  "lng": 11.58,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 144,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "bolognese",
+  "name": {
+   "ko": "볼로네즈",
+   "en": "Bolognese"
+  },
+  "country": "IT",
+  "region": "이탈리아 볼로냐",
+  "lat": 44.5,
+  "lng": 11.34,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 196,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "volpino-italiano",
+  "name": {
+   "ko": "볼피노 이탈리아노",
+   "en": "Volpino Italiano"
+  },
+  "country": "IT",
+  "region": "이탈리아 토스카나",
+  "lat": 43.8,
+  "lng": 11.25,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 195,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "burgos-pointer",
+  "name": {
+   "ko": "부르고스 포인터",
+   "en": "Burgos Pointer"
+  },
+  "country": "ES",
+  "region": "스페인 부르고스",
+  "lat": 42.35,
+  "lng": -3.7,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 90,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "bouvier-des-ardennes",
+  "name": {
+   "ko": "부비에 데 아르덴",
+   "en": "Bouvier des Ardennes"
+  },
+  "country": "BE",
+  "region": "벨기에 아르덴",
+  "lat": 50.2,
+  "lng": 5.6,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 171,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "bouvier-des-flandres",
+  "name": {
+   "ko": "부비에 데 플랑드르",
+   "en": "Bouvier des Flandres"
+  },
+  "country": "BE",
+  "region": "벨기에·프랑스 플랑드르",
+  "lat": 50.95,
+  "lng": 3.1,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 191,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "bucovina-shepherd-dog",
+  "name": {
+   "ko": "부코비나 셰퍼드",
+   "en": "Bucovina Shepherd Dog"
+  },
+  "country": "RO",
+  "region": "루마니아 부코비나",
+  "lat": 47.7,
+  "lng": 25.9,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 357,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "bull-arab",
+  "name": {
+   "ko": "불 아랍",
+   "en": "Bull Arab"
+  },
+  "country": "AU",
+  "region": "호주",
+  "lat": -27.5,
+  "lng": 153.0,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "bull-terrier",
+  "name": {
+   "ko": "불 테리어",
+   "en": "Bull Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 52.5,
+  "lng": -1.9,
+  "group": "terrier",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 11,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "bulgarian-scenthound",
+  "name": {
+   "ko": "불가리안 센트하운드",
+   "en": "Bulgarian Scenthound"
+  },
+  "country": "BG",
+  "region": "불가리아 루도고리에",
+  "lat": 43.5,
+  "lng": 26.5,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "bulldog",
+  "name": {
+   "ko": "불도그",
+   "en": "Bulldog"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 51.8,
+  "lng": -0.4,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 149,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "bully-kutta",
+  "name": {
+   "ko": "불리 쿠타",
+   "en": "Bully Kutta"
+  },
+  "country": "PK",
+  "region": "파키스탄·인도 펀자브",
+  "lat": 31.5,
+  "lng": 74.3,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "bullmastiff",
+  "name": {
+   "ko": "불마스티프",
+   "en": "Bullmastiff"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 52.9,
+  "lng": -1.2,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 157,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "brazilian-terrier",
+  "name": {
+   "ko": "브라질리언 테리어",
+   "en": "Brazilian Terrier"
+  },
+  "country": "BR",
+  "region": "브라질",
+  "lat": -22.9,
+  "lng": -43.2,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 341,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "bracco-italiano",
+  "name": {
+   "ko": "브라코 이탈리아노",
+   "en": "Bracco Italiano"
+  },
+  "country": "IT",
+  "region": "이탈리아 북부",
+  "lat": 45.5,
+  "lng": 10.0,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 202,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "braque-d-auvergne",
+  "name": {
+   "ko": "브라크 도베르뉴",
+   "en": "Braque d'Auvergne"
+  },
+  "country": "FR",
+  "region": "프랑스 캉탈",
+  "lat": 45.0,
+  "lng": 2.6,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 180,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "braque-du-bourbonnais",
+  "name": {
+   "ko": "브라크 뒤 부르보네",
+   "en": "Braque du Bourbonnais"
+  },
+  "country": "FR",
+  "region": "프랑스 부르보네",
+  "lat": 46.3,
+  "lng": 3.3,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 179,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "braque-saint-germain",
+  "name": {
+   "ko": "브라크 생제르맹",
+   "en": "Braque Saint-Germain"
+  },
+  "country": "FR",
+  "region": "프랑스 생제르맹앙레",
+  "lat": 48.9,
+  "lng": 2.1,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 115,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "braque-francais-gascogne",
+  "name": {
+   "ko": "브라크 프랑세 (가스코뉴형)",
+   "en": "Braque Français (Gascogne)"
+  },
+  "country": "FR",
+  "region": "프랑스 가스코뉴",
+  "lat": 43.5,
+  "lng": -0.2,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 133,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "braque-francais-pyrenees",
+  "name": {
+   "ko": "브라크 프랑세 (피레네형)",
+   "en": "Braque Français (Pyrenees)"
+  },
+  "country": "FR",
+  "region": "프랑스 피레네",
+  "lat": 43.1,
+  "lng": 0.3,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 134,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "broholmer",
+  "name": {
+   "ko": "브로홀머",
+   "en": "Broholmer"
+  },
+  "country": "DK",
+  "region": "덴마크",
+  "lat": 55.3,
+  "lng": 10.4,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 315,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "griffon-bruxellois",
+  "name": {
+   "ko": "브뤼셀 그리펀",
+   "en": "Griffon Bruxellois"
+  },
+  "country": "BE",
+  "region": "벨기에 브뤼셀",
+  "lat": 50.85,
+  "lng": 4.35,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 80,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "briard",
+  "name": {
+   "ko": "브리아드",
+   "en": "Briard"
+  },
+  "country": "FR",
+  "region": "프랑스 브리",
+  "lat": 48.7,
+  "lng": 3.0,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 113,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "briquet-griffon-vendeen",
+  "name": {
+   "ko": "브리케 그리퐁 방데앙",
+   "en": "Briquet Griffon Vendéen"
+  },
+  "country": "FR",
+  "region": "프랑스 방데",
+  "lat": 46.7,
+  "lng": -1.4,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 19,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "brittany-spaniel",
+  "name": {
+   "ko": "브리트니",
+   "en": "Brittany Spaniel"
+  },
+  "country": "FR",
+  "region": "프랑스 브르타뉴",
+  "lat": 48.3,
+  "lng": -3.5,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 95,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "black-russian-terrier",
+  "name": {
+   "ko": "블랙 러시안 테리어",
+   "en": "Black Russian Terrier"
+  },
+  "country": "RU",
+  "region": "러시아 모스크바",
+  "lat": 55.9,
+  "lng": 37.4,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 327,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "black-mouth-cur",
+  "name": {
+   "ko": "블랙 마우스 커",
+   "en": "Black Mouth Cur"
+  },
+  "country": "US",
+  "region": "미국 남부",
+  "lat": 33.5,
+  "lng": -86.8,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "black-and-tan-coonhound",
+  "name": {
+   "ko": "블랙 앤드 탄 쿤하운드",
+   "en": "Black and Tan Coonhound"
+  },
+  "country": "US",
+  "region": "미국 남부",
+  "lat": 36.5,
+  "lng": -82.0,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 300,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "bloodhound",
+  "name": {
+   "ko": "블러드하운드",
+   "en": "Bloodhound"
+  },
+  "country": "BE",
+  "region": "벨기에 생튀베르",
+  "lat": 50.03,
+  "lng": 5.37,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 84,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "blue-lacy",
+  "name": {
+   "ko": "블루 레이시",
+   "en": "Blue Lacy"
+  },
+  "country": "US",
+  "region": "미국 텍사스",
+  "lat": 30.3,
+  "lng": -97.7,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "blue-picardy-spaniel",
+  "name": {
+   "ko": "블루 피카르디 스패니얼",
+   "en": "Blue Picardy Spaniel"
+  },
+  "country": "FR",
+  "region": "프랑스 솜강 하구",
+  "lat": 50.2,
+  "lng": 1.6,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 106,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "bluetick-coonhound",
+  "name": {
+   "ko": "블루틱 쿤하운드",
+   "en": "Bluetick Coonhound"
+  },
+  "country": "US",
+  "region": "미국 남부",
+  "lat": 35.2,
+  "lng": -90.0,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "beagle",
+  "name": {
+   "ko": "비글",
+   "en": "Beagle"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 51.5,
+  "lng": -0.9,
+  "group": "scenthound",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 161,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "beagle-harrier",
+  "name": {
+   "ko": "비글 해리어",
+   "en": "Beagle-Harrier"
+  },
+  "country": "FR",
+  "region": "프랑스",
+  "lat": 49.2,
+  "lng": 3.6,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 290,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "biewer-terrier",
+  "name": {
+   "ko": "비버 테리어",
+   "en": "Biewer Terrier"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 49.75,
+  "lng": 6.64,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "bichon-frise",
+  "name": {
+   "ko": "비숑 프리제",
+   "en": "Bichon Frisé"
+  },
+  "country": "FR",
+  "region": "프랑스·벨기에",
+  "lat": 50.5,
+  "lng": 3.0,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 215,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "villano-de-las-encartaciones",
+  "name": {
+   "ko": "비야노 데 라스 엔카르타시오네스",
+   "en": "Villano de Las Encartaciones"
+  },
+  "country": "ES",
+  "region": "스페인 비스카야",
+  "lat": 43.2,
+  "lng": -3.1,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "villanuco-de-las-encartaciones",
+  "name": {
+   "ko": "비야누코 데 라스 엔카르타시오네스",
+   "en": "Villanuco de Las Encartaciones"
+  },
+  "country": "ES",
+  "region": "스페인 비스카야",
+  "lat": 43.15,
+  "lng": -3.3,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "bearded-collie",
+  "name": {
+   "ko": "비어디드 콜리",
+   "en": "Bearded Collie"
+  },
+  "country": "GB",
+  "region": "영국 스코틀랜드",
+  "lat": 56.5,
+  "lng": -3.8,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 271,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "billy",
+  "name": {
+   "ko": "비이",
+   "en": "Billy"
+  },
+  "country": "FR",
+  "region": "프랑스 푸아투",
+  "lat": 46.3,
+  "lng": 0.7,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 25,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "vizsla",
+  "name": {
+   "ko": "비즐라",
+   "en": "Vizsla"
+  },
+  "country": "HU",
+  "region": "헝가리",
+  "lat": 47.0,
+  "lng": 19.0,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 57,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "sarabi",
+  "name": {
+   "ko": "사라비",
+   "en": "Sarabi"
+  },
+  "country": "IR",
+  "region": "이란 사라브",
+  "lat": 37.9,
+  "lng": 47.5,
+  "group": "sheepdog",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "sardinian-shepherd-dog",
+  "name": {
+   "ko": "사르데냐 셰퍼드",
+   "en": "Sardinian Shepherd Dog"
+  },
+  "country": "IT",
+  "region": "이탈리아 사르데냐",
+  "lat": 40.1,
+  "lng": 9.3,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "saarloos-wolfdog",
+  "name": {
+   "ko": "사를로스 울프독",
+   "en": "Saarloos wolfdog"
+  },
+  "country": "NL",
+  "region": "네덜란드",
+  "lat": 52.3,
+  "lng": 4.9,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 311,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "samoyed",
+  "name": {
+   "ko": "사모예드",
+   "en": "Samoyed"
+  },
+  "country": "RU",
+  "region": "러시아 시베리아 북서부",
+  "lat": 67.5,
+  "lng": 72,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 212,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "sabueso-espanol",
+  "name": {
+   "ko": "사부에소 에스파뇰",
+   "en": "Sabueso Español"
+  },
+  "country": "ES",
+  "region": "스페인 북부",
+  "lat": 43.2,
+  "lng": -5.5,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 204,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "south-russian-ovcharka",
+  "name": {
+   "ko": "사우스 러시안 오브차르카",
+   "en": "South Russian Ovcharka"
+  },
+  "country": "UA",
+  "region": "우크라이나 남부 (옛 러시아 제국)",
+  "lat": 46.5,
+  "lng": 33.5,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 326,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "saluki",
+  "name": {
+   "ko": "살루키",
+   "en": "Saluki"
+  },
+  "country": "XME",
+  "region": "비옥한 초승달 지대 · 중동",
+  "lat": 33.3,
+  "lng": 44.4,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 269,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "sapsali",
+  "name": {
+   "ko": "삽살개",
+   "en": "Sapsali"
+  },
+  "country": "KR",
+  "region": "대한민국 (경산 일대에서 보존)",
+  "lat": 35.82,
+  "lng": 128.74,
+  "group": "companion",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "saint-miguel-cattle-dog",
+  "name": {
+   "ko": "상 미겔 캐틀 독",
+   "en": "Saint Miguel Cattle Dog"
+  },
+  "country": "PT",
+  "region": "포르투갈 아소르스 상미겔섬",
+  "lat": 37.8,
+  "lng": -25.5,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 340,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "sarplaninac",
+  "name": {
+   "ko": "샤르플라니나츠",
+   "en": "Šarplaninac"
+  },
+  "country": "MK",
+  "region": "샤르산맥 (북마케도니아·세르비아)",
+  "lat": 42.1,
+  "lng": 20.9,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 41,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "xiasi-dog",
+  "name": {
+   "ko": "샤스견",
+   "en": "Xiasi Dog"
+  },
+  "country": "CN",
+  "region": "중국 구이저우",
+  "lat": 26.4,
+  "lng": 107.9,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "shar-pei",
+  "name": {
+   "ko": "샤페이",
+   "en": "Shar Pei"
+  },
+  "country": "CN",
+  "region": "중국 남부 광둥",
+  "lat": 23.1,
+  "lng": 113.3,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 309,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "sussex-spaniel",
+  "name": {
+   "ko": "서식스 스패니얼",
+   "en": "Sussex Spaniel"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드 서식스",
+  "lat": 50.95,
+  "lng": -0.4,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 127,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "segugio-dell-appennino",
+  "name": {
+   "ko": "세구조 델라펜니노",
+   "en": "Segugio dell'Appennino"
+  },
+  "country": "IT",
+  "region": "이탈리아 아펜니노",
+  "lat": 43.6,
+  "lng": 12.0,
+  "group": "scenthound",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 375,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "segugio-maremmano",
+  "name": {
+   "ko": "세구조 마렘마노",
+   "en": "Segugio Maremmano"
+  },
+  "country": "IT",
+  "region": "이탈리아 토스카나 마렘마",
+  "lat": 42.8,
+  "lng": 11.1,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 361,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "segugio-italiano-rough-haired",
+  "name": {
+   "ko": "세구조 이탈리아노 (강모)",
+   "en": "Segugio Italiano (Rough-haired)"
+  },
+  "country": "IT",
+  "region": "이탈리아",
+  "lat": 43.1,
+  "lng": 12.4,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 198,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "segugio-italiano-short-haired",
+  "name": {
+   "ko": "세구조 이탈리아노 (단모)",
+   "en": "Segugio Italiano (Short-haired)"
+  },
+  "country": "IT",
+  "region": "이탈리아",
+  "lat": 43.5,
+  "lng": 12.9,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 337,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "serrano-bulldog",
+  "name": {
+   "ko": "세라노 불도그",
+   "en": "Serrano Bulldog"
+  },
+  "country": "BR",
+  "region": "브라질 남부",
+  "lat": -27.8,
+  "lng": -50.3,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "serbian-tricolour-hound",
+  "name": {
+   "ko": "세르비안 트리컬러 하운드",
+   "en": "Serbian Tricolour Hound"
+  },
+  "country": "RS",
+  "region": "세르비아",
+  "lat": 43.5,
+  "lng": 20.5,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 229,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "serbian-hound",
+  "name": {
+   "ko": "세르비안 하운드",
+   "en": "Serbian Hound"
+  },
+  "country": "RS",
+  "region": "세르비아",
+  "lat": 44.0,
+  "lng": 21.0,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 150,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "saint-bernard",
+  "name": {
+   "ko": "세인트 버나드",
+   "en": "Saint Bernard"
+  },
+  "country": "CH",
+  "region": "스위스 서부 알프스",
+  "lat": 45.87,
+  "lng": 7.17,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 61,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "central-asian-shepherd-dog",
+  "name": {
+   "ko": "센트럴 아시아 셰퍼드 독",
+   "en": "Central Asian Shepherd Dog"
+  },
+  "country": "UZ",
+  "region": "중앙아시아 (튀르크메니스탄·우즈베키스탄 등)",
+  "lat": 39.7,
+  "lng": 64.4,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 335,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "shetland-sheepdog",
+  "name": {
+   "ko": "셔틀랜드 시프도그",
+   "en": "Shetland Sheepdog"
+  },
+  "country": "GB",
+  "region": "영국 셔틀랜드 제도",
+  "lat": 60.3,
+  "lng": -1.25,
+  "group": "sheepdog",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 88,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "soft-coated-wheaten-terrier",
+  "name": {
+   "ko": "소프트 코티드 휘튼 테리어",
+   "en": "Soft-coated Wheaten Terrier"
+  },
+  "country": "IE",
+  "region": "아일랜드",
+  "lat": 53.4,
+  "lng": -7.9,
+  "group": "terrier",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 40,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "xoloitzcuintli",
+  "name": {
+   "ko": "솔로이츠퀸틀레",
+   "en": "Xoloitzcuintli"
+  },
+  "country": "MX",
+  "region": "멕시코",
+  "lat": 19.2,
+  "lng": -103.7,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 234,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "small-medimurje-dog",
+  "name": {
+   "ko": "스몰 메지무리에 도그",
+   "en": "Small Međimurje Dog"
+  },
+  "country": "HR",
+  "region": "크로아티아 메지무리에",
+  "lat": 46.4,
+  "lng": 16.5,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "small-munsterlander",
+  "name": {
+   "ko": "스몰 뮌스터랜더",
+   "en": "Small Münsterländer"
+  },
+  "country": "DE",
+  "region": "독일 뮌스터",
+  "lat": 51.96,
+  "lng": 7.63,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 102,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "schweizerischer-niederlaufhund",
+  "name": {
+   "ko": "스몰 스위스 하운드",
+   "en": "Schweizerischer Niederlaufhund"
+  },
+  "country": "CH",
+  "region": "스위스",
+  "lat": 46.5,
+  "lng": 7.5,
+  "group": "scenthound",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 60,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "smaland-hound",
+  "name": {
+   "ko": "스몰란드 하운드",
+   "en": "Smaland Hound"
+  },
+  "country": "SE",
+  "region": "스웨덴 스몰란드",
+  "lat": 57.2,
+  "lng": 14.8,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 129,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "smooth-collie",
+  "name": {
+   "ko": "스무스 콜리",
+   "en": "Smooth Collie"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드·스코틀랜드",
+  "lat": 55.5,
+  "lng": -3.5,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 296,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "smooth-fox-terrier",
+  "name": {
+   "ko": "스무스 폭스 테리어",
+   "en": "Smooth Fox Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 52.0,
+  "lng": -1.0,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 12,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "swedish-lapphund",
+  "name": {
+   "ko": "스웨디시 라프훈트",
+   "en": "Swedish Lapphund"
+  },
+  "country": "SE",
+  "region": "스웨덴 라플란드",
+  "lat": 66.6,
+  "lng": 19.8,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 135,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "swedish-vallhund",
+  "name": {
+   "ko": "스웨디시 발훈트",
+   "en": "Swedish Vallhund"
+  },
+  "country": "SE",
+  "region": "스웨덴 베스테르예틀란드",
+  "lat": 58.3,
+  "lng": 13.0,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 14,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "schweizer-laufhund",
+  "name": {
+   "ko": "스위스 하운드",
+   "en": "Schweizer Laufhund"
+  },
+  "country": "CH",
+  "region": "스위스",
+  "lat": 46.9,
+  "lng": 7.6,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 59,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "skye-terrier",
+  "name": {
+   "ko": "스카이 테리어",
+   "en": "Skye Terrier"
+  },
+  "country": "GB",
+  "region": "영국 스코틀랜드 스카이섬",
+  "lat": 57.3,
+  "lng": -6.2,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 75,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "scottish-deerhound",
+  "name": {
+   "ko": "스코티시 디어하운드",
+   "en": "Scottish Deerhound"
+  },
+  "country": "GB",
+  "region": "영국 스코틀랜드 고지대",
+  "lat": 57.0,
+  "lng": -4.8,
+  "group": "sighthound",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 164,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "scottish-terrier",
+  "name": {
+   "ko": "스코티시 테리어",
+   "en": "Scottish Terrier"
+  },
+  "country": "GB",
+  "region": "영국 스코틀랜드",
+  "lat": 57.5,
+  "lng": -4.2,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 73,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "schipperke",
+  "name": {
+   "ko": "스키퍼키",
+   "en": "Schipperke"
+  },
+  "country": "BE",
+  "region": "벨기에 플랑드르",
+  "lat": 51.05,
+  "lng": 3.7,
+  "group": "sheepdog",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 83,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "stabyhoun",
+  "name": {
+   "ko": "스타베이훈",
+   "en": "Stabyhoun"
+  },
+  "country": "NL",
+  "region": "네덜란드 프리슬란트",
+  "lat": 53.0,
+  "lng": 6.1,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 222,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "staffordshire-bull-terrier",
+  "name": {
+   "ko": "스태퍼드셔 불 테리어",
+   "en": "Staffordshire Bull Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드 스태퍼드셔",
+  "lat": 52.9,
+  "lng": -2.0,
+  "group": "terrier",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 76,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "standard-schnauzer",
+  "name": {
+   "ko": "스탠더드 슈나우저",
+   "en": "Standard Schnauzer"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 49.5,
+  "lng": 9.5,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 182,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "styrian-coarse-haired-hound",
+  "name": {
+   "ko": "스티리안 코스 헤어드 하운드",
+   "en": "Styrian Coarse-haired Hound"
+  },
+  "country": "AT",
+  "region": "오스트리아 슈타이어마르크",
+  "lat": 47.2,
+  "lng": 15.3,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 62,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "stephens-stock",
+  "name": {
+   "ko": "스티븐스 스톡",
+   "en": "Stephens Stock"
+  },
+  "country": "US",
+  "region": "미국 켄터키",
+  "lat": 37.0,
+  "lng": -84.0,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "spanish-mastiff",
+  "name": {
+   "ko": "스패니시 마스티프",
+   "en": "Spanish Mastiff"
+  },
+  "country": "ES",
+  "region": "스페인",
+  "lat": 39.5,
+  "lng": -4.5,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 91,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "spanish-water-dog",
+  "name": {
+   "ko": "스패니시 워터 독",
+   "en": "Spanish Water Dog"
+  },
+  "country": "ES",
+  "region": "스페인 안달루시아",
+  "lat": 36.8,
+  "lng": -5.6,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 336,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "sporting-lucas-terrier",
+  "name": {
+   "ko": "스포팅 루카스 테리어",
+   "en": "Sporting Lucas Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 51.3,
+  "lng": 0.5,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "spinone-italiano",
+  "name": {
+   "ko": "스피노네 이탈리아노",
+   "en": "Spinone Italiano"
+  },
+  "country": "IT",
+  "region": "이탈리아 피에몬테",
+  "lat": 45.0,
+  "lng": 7.9,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 165,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "schapendoes",
+  "name": {
+   "ko": "스하펜두스",
+   "en": "Schapendoes"
+  },
+  "country": "NL",
+  "region": "네덜란드",
+  "lat": 52.6,
+  "lng": 5.9,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 313,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "slovak-cuvac",
+  "name": {
+   "ko": "슬로바키아 추바치",
+   "en": "Slovak Cuvac"
+  },
+  "country": "SK",
+  "region": "슬로바키아 타트라",
+  "lat": 49.1,
+  "lng": 20.1,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 142,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "slovak-rough-haired-pointer",
+  "name": {
+   "ko": "슬로바키안 러프헤어드 포인터",
+   "en": "Slovak Rough-haired Pointer"
+  },
+  "country": "SK",
+  "region": "슬로바키아",
+  "lat": 48.5,
+  "lng": 18.5,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 320,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "slovensky-kopov",
+  "name": {
+   "ko": "슬로벤스키 코포프",
+   "en": "Slovenský kopov"
+  },
+  "country": "SK",
+  "region": "슬로바키아",
+  "lat": 48.7,
+  "lng": 19.7,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 244,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "sloughi",
+  "name": {
+   "ko": "슬루기",
+   "en": "Sloughi"
+  },
+  "country": "MA",
+  "region": "모로코·북아프리카",
+  "lat": 32.0,
+  "lng": -6.0,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 188,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "xigou",
+  "name": {
+   "ko": "시거우",
+   "en": "Xigou"
+  },
+  "country": "CN",
+  "region": "중국 북부",
+  "lat": 36.7,
+  "lng": 117.0,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "cimarron-uruguayo",
+  "name": {
+   "ko": "시마론 우루과이요",
+   "en": "Cimarrón Uruguayo"
+  },
+  "country": "UY",
+  "region": "우루과이",
+  "lat": -33.0,
+  "lng": -56.0,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 353,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "shiba-inu",
+  "name": {
+   "ko": "시바견",
+   "en": "Shiba Inu"
+  },
+  "country": "JP",
+  "region": "일본 중부 산악 지대",
+  "lat": 36.1,
+  "lng": 137.9,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 257,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "siberian-husky",
+  "name": {
+   "ko": "시베리안 허스키",
+   "en": "Siberian Husky"
+  },
+  "country": "RU",
+  "region": "러시아 시베리아 북동부 추코트카",
+  "lat": 66,
+  "lng": 172,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 270,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "chien-francais-blanc-et-noir",
+  "name": {
+   "ko": "시앵 프랑세 블랑 에 누아",
+   "en": "Chien Français Blanc et Noir"
+  },
+  "country": "FR",
+  "region": "프랑스",
+  "lat": 47.0,
+  "lng": 1.5,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 220,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "chien-francais-blanc-et-orange",
+  "name": {
+   "ko": "시앵 프랑세 블랑 에 오랑주",
+   "en": "Chien Français Blanc et Orange"
+  },
+  "country": "FR",
+  "region": "프랑스",
+  "lat": 47.4,
+  "lng": 2.2,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 316,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "chien-francais-tricolore",
+  "name": {
+   "ko": "시앵 프랑세 트리콜로르",
+   "en": "Chien Français Tricolore"
+  },
+  "country": "FR",
+  "region": "프랑스",
+  "lat": 47.6,
+  "lng": 1.9,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 219,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "shih-tzu",
+  "name": {
+   "ko": "시추",
+   "en": "Shih Tzu"
+  },
+  "country": "CN",
+  "region": "티베트 · 중국",
+  "lat": 31.2,
+  "lng": 98,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 208,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "shikoku",
+  "name": {
+   "ko": "시코쿠견",
+   "en": "Shikoku"
+  },
+  "country": "JP",
+  "region": "일본 시코쿠",
+  "lat": 33.7,
+  "lng": 133.5,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 319,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "schillerstovare",
+  "name": {
+   "ko": "실러스퇴바레",
+   "en": "Schillerstövare"
+  },
+  "country": "SE",
+  "region": "스웨덴",
+  "lat": 59.0,
+  "lng": 16.5,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 131,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "sealyham-terrier",
+  "name": {
+   "ko": "실리엄 테리어",
+   "en": "Sealyham Terrier"
+  },
+  "country": "GB",
+  "region": "영국 웨일스 실리엄",
+  "lat": 51.9,
+  "lng": -4.86,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 74,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "silken-windhound",
+  "name": {
+   "ko": "실켄 윈드하운드",
+   "en": "Silken Windhound"
+  },
+  "country": "US",
+  "region": "미국 텍사스",
+  "lat": 32.7,
+  "lng": -97.3,
+  "group": "sighthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "armenian-gampr",
+  "name": {
+   "ko": "아르메니안 감프르",
+   "en": "Armenian Gampr"
+  },
+  "country": "AM",
+  "region": "아르메니아",
+  "lat": 40.2,
+  "lng": 44.5,
+  "group": "sheepdog",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "artois-hound",
+  "name": {
+   "ko": "아르투아 하운드",
+   "en": "Artois Hound"
+  },
+  "country": "FR",
+  "region": "프랑스 아르투아",
+  "lat": 50.4,
+  "lng": 2.5,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 28,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "argentine-pila",
+  "name": {
+   "ko": "아르헨티나 필라",
+   "en": "Argentine Pila"
+  },
+  "country": "AR",
+  "region": "아르헨티나",
+  "lat": -24.8,
+  "lng": -65.4,
+  "group": "companion",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "ariege-pointer",
+  "name": {
+   "ko": "아리에주 포인터",
+   "en": "Ariège Pointer"
+  },
+  "country": "FR",
+  "region": "프랑스 아리에주",
+  "lat": 43.0,
+  "lng": 1.45,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 177,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "ariegeois",
+  "name": {
+   "ko": "아리에주아",
+   "en": "Ariégeois"
+  },
+  "country": "FR",
+  "region": "프랑스 아리에주",
+  "lat": 42.95,
+  "lng": 1.6,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 20,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "american-leopard-hound",
+  "name": {
+   "ko": "아메리칸 레오퍼드 하운드",
+   "en": "American Leopard Hound"
+  },
+  "country": "US",
+  "region": "미국 남동부",
+  "lat": 34.8,
+  "lng": -82.4,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "american-bulldog",
+  "name": {
+   "ko": "아메리칸 불도그",
+   "en": "American Bulldog"
+  },
+  "country": "US",
+  "region": "미국 남부",
+  "lat": 33.0,
+  "lng": -84.0,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "american-bully",
+  "name": {
+   "ko": "아메리칸 불리",
+   "en": "American Bully"
+  },
+  "country": "US",
+  "region": "미국",
+  "lat": 33.9,
+  "lng": -118.0,
+  "group": "companion",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "american-staffordshire-terrier",
+  "name": {
+   "ko": "아메리칸 스태퍼드셔 테리어",
+   "en": "American Staffordshire Terrier"
+  },
+  "country": "US",
+  "region": "미국",
+  "lat": 39.1,
+  "lng": -94.6,
+  "group": "terrier",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 286,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "american-akita",
+  "name": {
+   "ko": "아메리칸 아키타",
+   "en": "American Akita"
+  },
+  "country": "JP",
+  "region": "미국 계통 (FCI 원산국 일본)",
+  "lat": 40.3,
+  "lng": 141.0,
+  "group": "spitz",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 344,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "american-eskimo-dog",
+  "name": {
+   "ko": "아메리칸 에스키모 도그",
+   "en": "American Eskimo Dog"
+  },
+  "country": "US",
+  "region": "미국 (독일 스피츠 계열)",
+  "lat": 40.4,
+  "lng": -82.9,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "american-water-spaniel",
+  "name": {
+   "ko": "아메리칸 워터 스패니얼",
+   "en": "American Water Spaniel"
+  },
+  "country": "US",
+  "region": "미국 위스콘신주",
+  "lat": 44.5,
+  "lng": -89.5,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 301,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "american-english-coonhound",
+  "name": {
+   "ko": "아메리칸 잉글리시 쿤하운드",
+   "en": "American English Coonhound"
+  },
+  "country": "US",
+  "region": "미국 남부",
+  "lat": 35.5,
+  "lng": -85.0,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "american-cocker-spaniel",
+  "name": {
+   "ko": "아메리칸 코커 스패니얼",
+   "en": "American Cocker Spaniel"
+  },
+  "country": "US",
+  "region": "미국",
+  "lat": 40.7,
+  "lng": -74.3,
+  "group": "retriever",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 167,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "american-foxhound",
+  "name": {
+   "ko": "아메리칸 폭스하운드",
+   "en": "American Foxhound"
+  },
+  "country": "US",
+  "region": "미국 버지니아주",
+  "lat": 37.5,
+  "lng": -78.5,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 303,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "american-pit-bull-terrier",
+  "name": {
+   "ko": "아메리칸 핏불 테리어",
+   "en": "American Pit Bull Terrier"
+  },
+  "country": "US",
+  "region": "미국",
+  "lat": 38.6,
+  "lng": -90.2,
+  "group": "terrier",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "american-hairless-terrier",
+  "name": {
+   "ko": "아메리칸 헤어리스 테리어",
+   "en": "American Hairless Terrier"
+  },
+  "country": "US",
+  "region": "미국 루이지애나",
+  "lat": 30.5,
+  "lng": -91.2,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "aidi",
+  "name": {
+   "ko": "아이디",
+   "en": "Aidi"
+  },
+  "country": "MA",
+  "region": "모로코 아틀라스산맥",
+  "lat": 32.5,
+  "lng": -5.0,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 247,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "irish-red-and-white-setter",
+  "name": {
+   "ko": "아이리시 레드 앤드 화이트 세터",
+   "en": "Irish Red and White Setter"
+  },
+  "country": "IE",
+  "region": "아일랜드",
+  "lat": 54.0,
+  "lng": -7.5,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 330,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "irish-setter",
+  "name": {
+   "ko": "아이리시 세터",
+   "en": "Irish Setter"
+  },
+  "country": "IE",
+  "region": "아일랜드",
+  "lat": 53.3,
+  "lng": -8.3,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 120,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "irish-wolfhound",
+  "name": {
+   "ko": "아이리시 울프하운드",
+   "en": "Irish Wolfhound"
+  },
+  "country": "IE",
+  "region": "아일랜드",
+  "lat": 53.6,
+  "lng": -8.8,
+  "group": "sighthound",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 160,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "irish-water-spaniel",
+  "name": {
+   "ko": "아이리시 워터 스패니얼",
+   "en": "Irish Water Spaniel"
+  },
+  "country": "IE",
+  "region": "아일랜드",
+  "lat": 52.7,
+  "lng": -8.6,
+  "group": "retriever",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 124,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "irish-terrier",
+  "name": {
+   "ko": "아이리시 테리어",
+   "en": "Irish Terrier"
+  },
+  "country": "IE",
+  "region": "아일랜드",
+  "lat": 53.5,
+  "lng": -6.5,
+  "group": "terrier",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 139,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "icelandic-sheepdog",
+  "name": {
+   "ko": "아이슬란딕 시프도그",
+   "en": "Icelandic Sheepdog"
+  },
+  "country": "IS",
+  "region": "아이슬란드",
+  "lat": 64.9,
+  "lng": -18.6,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 289,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "azawakh",
+  "name": {
+   "ko": "아자와크",
+   "en": "Azawakh"
+  },
+  "country": "ML",
+  "region": "사헬 (말리·니제르·부르키나파소)",
+  "lat": 17.0,
+  "lng": 1.5,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 307,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "akbash",
+  "name": {
+   "ko": "아크바시",
+   "en": "Akbash"
+  },
+  "country": "TR",
+  "region": "튀르키예 서부 아나톨리아",
+  "lat": 38.7,
+  "lng": 30.5,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "akita",
+  "name": {
+   "ko": "아키타견",
+   "en": "Akita"
+  },
+  "country": "JP",
+  "region": "일본 아키타현",
+  "lat": 39.72,
+  "lng": 140.1,
+  "group": "spitz",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 255,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "appenzeller-sennenhund",
+  "name": {
+   "ko": "아펜첼러 젠넨훈트",
+   "en": "Appenzeller Sennenhund"
+  },
+  "country": "CH",
+  "region": "스위스 아펜첼",
+  "lat": 47.33,
+  "lng": 9.4,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 46,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "affenpinscher",
+  "name": {
+   "ko": "아펜핀셔",
+   "en": "Affenpinscher"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 48.5,
+  "lng": 9.2,
+  "group": "pinscher-molosser",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 186,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "afghan-hound",
+  "name": {
+   "ko": "아프간하운드",
+   "en": "Afghan Hound"
+  },
+  "country": "AF",
+  "region": "아프가니스탄",
+  "lat": 34,
+  "lng": 66,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 228,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "africanis",
+  "name": {
+   "ko": "아프리카니스",
+   "en": "Africanis"
+  },
+  "country": "ZA",
+  "region": "남아프리카",
+  "lat": -27.0,
+  "lng": 30.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "aksaray-malaklisi",
+  "name": {
+   "ko": "악사라이 말라클르",
+   "en": "Aksaray Malaklisi"
+  },
+  "country": "TR",
+  "region": "튀르키예 악사라이",
+  "lat": 38.4,
+  "lng": 34.0,
+  "group": "sheepdog",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "andalusian-terrier",
+  "name": {
+   "ko": "안달루시안 테리어",
+   "en": "Andalusian Terrier"
+  },
+  "country": "ES",
+  "region": "스페인 안달루시아 헤레스",
+  "lat": 36.68,
+  "lng": -6.13,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 371,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "alano-espanol",
+  "name": {
+   "ko": "알라노 에스파뇰",
+   "en": "Alano Español"
+  },
+  "country": "ES",
+  "region": "스페인",
+  "lat": 42.0,
+  "lng": -4.5,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "alapaha-blue-blood-bulldog",
+  "name": {
+   "ko": "알라파하 블루 블러드 불도그",
+   "en": "Alapaha Blue Blood Bulldog"
+  },
+  "country": "US",
+  "region": "미국 조지아",
+  "lat": 31.4,
+  "lng": -83.0,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "alaskan-malamute",
+  "name": {
+   "ko": "알래스칸 맬러뮤트",
+   "en": "Alaskan Malamute"
+  },
+  "country": "US",
+  "region": "미국 알래스카",
+  "lat": 64.8,
+  "lng": -153.0,
+  "group": "spitz",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 243,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "alaskan-klee-kai",
+  "name": {
+   "ko": "알래스칸 클리 카이",
+   "en": "Alaskan Klee Kai"
+  },
+  "country": "US",
+  "region": "미국 알래스카",
+  "lat": 61.2,
+  "lng": -149.9,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "alopekis",
+  "name": {
+   "ko": "알로페키스",
+   "en": "Alopekis"
+  },
+  "country": "GR",
+  "region": "그리스",
+  "lat": 38.3,
+  "lng": 23.8,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "alpine-dachsbracke",
+  "name": {
+   "ko": "알파인 닥스브라케",
+   "en": "Alpine Dachsbracke"
+  },
+  "country": "AT",
+  "region": "오스트리아 알프스",
+  "lat": 47.4,
+  "lng": 14.0,
+  "group": "scenthound",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 254,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "anglo-francais-de-petite-venerie",
+  "name": {
+   "ko": "앙글로 프랑세 드 프티트 브느리",
+   "en": "Anglo-Français de Petite Vénerie"
+  },
+  "country": "FR",
+  "region": "프랑스",
+  "lat": 46.6,
+  "lng": 2.5,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 325,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "yakutian-laika",
+  "name": {
+   "ko": "야쿠티안 라이카",
+   "en": "Yakutian Laika"
+  },
+  "country": "RU",
+  "region": "러시아 사하(야쿠티야)",
+  "lat": 62.0,
+  "lng": 129.7,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 365,
+  "prov": true,
+  "akc": true
+ },
+ {
+  "id": "jagdterrier",
+  "name": {
+   "ko": "야크트테리어",
+   "en": "Jagdterrier"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 50.6,
+  "lng": 9.0,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 103,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "erbi-txakur",
+  "name": {
+   "ko": "에르비 차쿠르",
+   "en": "Erbi Txakur"
+  },
+  "country": "ES",
+  "region": "스페인 바스크",
+  "lat": 42.9,
+  "lng": -2.7,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "estonian-hound",
+  "name": {
+   "ko": "에스토니안 하운드",
+   "en": "Estonian Hound"
+  },
+  "country": "EE",
+  "region": "에스토니아",
+  "lat": 58.6,
+  "lng": 25.0,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 366,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "estrela-mountain-dog",
+  "name": {
+   "ko": "에스트렐라 마운틴 독",
+   "en": "Estrela Mountain Dog"
+  },
+  "country": "PT",
+  "region": "포르투갈 세하다이스트렐라",
+  "lat": 40.3,
+  "lng": -7.6,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 173,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "airedale-terrier",
+  "name": {
+   "ko": "에어데일 테리어",
+   "en": "Airedale Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드 웨스트요크셔",
+  "lat": 53.85,
+  "lng": -1.85,
+  "group": "terrier",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 7,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "entlebucher-mountain-dog",
+  "name": {
+   "ko": "엔틀레부허 마운틴 독",
+   "en": "Entlebucher Mountain Dog"
+  },
+  "country": "CH",
+  "region": "스위스 엔틀레부흐",
+  "lat": 46.98,
+  "lng": 8.05,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 47,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "jamthund",
+  "name": {
+   "ko": "옘트훈드",
+   "en": "Jämthund"
+  },
+  "country": "SE",
+  "region": "스웨덴 옘틀란드",
+  "lat": 63.2,
+  "lng": 14.6,
+  "group": "spitz",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 42,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "australian-stumpy-tail-cattle-dog",
+  "name": {
+   "ko": "오스트레일리안 스텀피 테일 캐틀 독",
+   "en": "Australian Stumpy Tail Cattle Dog"
+  },
+  "country": "AU",
+  "region": "호주",
+  "lat": -30.0,
+  "lng": 149.0,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 351,
+  "prov": true,
+  "akc": true
+ },
+ {
+  "id": "australian-silky-terrier",
+  "name": {
+   "ko": "오스트레일리안 실키 테리어",
+   "en": "Australian Silky Terrier"
+  },
+  "country": "AU",
+  "region": "호주",
+  "lat": -33.9,
+  "lng": 151.2,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 236,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "australian-cattle-dog",
+  "name": {
+   "ko": "오스트레일리안 캐틀 독",
+   "en": "Australian Cattle Dog"
+  },
+  "country": "AU",
+  "region": "호주 뉴사우스웨일스",
+  "lat": -32.2,
+  "lng": 148.6,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 287,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "australian-kelpie",
+  "name": {
+   "ko": "오스트레일리안 켈피",
+   "en": "Australian Kelpie"
+  },
+  "country": "AU",
+  "region": "호주",
+  "lat": -34.5,
+  "lng": 147.0,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 293,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "australian-shepherd",
+  "name": {
+   "ko": "오스트레일리언 셰퍼드",
+   "en": "Australian Shepherd"
+  },
+  "country": "US",
+  "region": "미국 캘리포니아",
+  "lat": 36.8,
+  "lng": -119.4,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 342,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "australian-terrier",
+  "name": {
+   "ko": "오스트레일리언 테리어",
+   "en": "Australian Terrier"
+  },
+  "country": "AU",
+  "region": "호주",
+  "lat": -37.8,
+  "lng": 144.9,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 8,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "austrian-black-and-tan-hound",
+  "name": {
+   "ko": "오스트리안 블랙 앤드 탄 하운드",
+   "en": "Austrian Black and Tan Hound"
+  },
+  "country": "AT",
+  "region": "오스트리아",
+  "lat": 47.5,
+  "lng": 13.0,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 63,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "austrian-pinscher",
+  "name": {
+   "ko": "오스트리안 핀셔",
+   "en": "Austrian Pinscher"
+  },
+  "country": "AT",
+  "region": "오스트리아",
+  "lat": 48.2,
+  "lng": 15.6,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 64,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "otterhound",
+  "name": {
+   "ko": "오터하운드",
+   "en": "Otterhound"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 54.0,
+  "lng": -2.5,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 294,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "old-danish-pointer",
+  "name": {
+   "ko": "올드 대니시 포인터",
+   "en": "Old Danish Pointer"
+  },
+  "country": "DK",
+  "region": "덴마크",
+  "lat": 55.7,
+  "lng": 10.0,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 281,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "olde-english-bulldogge",
+  "name": {
+   "ko": "올드 잉글리시 불도그",
+   "en": "Olde English Bulldogge"
+  },
+  "country": "US",
+  "region": "미국",
+  "lat": 40.0,
+  "lng": -76.3,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "old-english-sheepdog",
+  "name": {
+   "ko": "올드 잉글리시 시프도그",
+   "en": "Old English Sheepdog"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드 남서부",
+  "lat": 51.0,
+  "lng": -3.0,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 16,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "wire-fox-terrier",
+  "name": {
+   "ko": "와이어 폭스 테리어",
+   "en": "Wire Fox Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 51.7,
+  "lng": -1.3,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 169,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "yorkshire-terrier",
+  "name": {
+   "ko": "요크셔 테리어",
+   "en": "Yorkshire Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드 요크셔",
+  "lat": 53.8,
+  "lng": -1.55,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 86,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "west-siberian-laika",
+  "name": {
+   "ko": "웨스트 시베리안 라이카",
+   "en": "West Siberian Laika"
+  },
+  "country": "RU",
+  "region": "러시아 서시베리아",
+  "lat": 60.0,
+  "lng": 72.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 306,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "west-highland-white-terrier",
+  "name": {
+   "ko": "웨스트 하이랜드 화이트 테리어",
+   "en": "West Highland White Terrier"
+  },
+  "country": "GB",
+  "region": "영국 스코틀랜드 서부",
+  "lat": 56.4,
+  "lng": -5.5,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 85,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "welsh-springer-spaniel",
+  "name": {
+   "ko": "웰시 스프링어 스패니얼",
+   "en": "Welsh Springer Spaniel"
+  },
+  "country": "GB",
+  "region": "영국 웨일스",
+  "lat": 51.9,
+  "lng": -3.4,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 126,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "welsh-sheepdog",
+  "name": {
+   "ko": "웰시 시프도그",
+   "en": "Welsh Sheepdog"
+  },
+  "country": "GB",
+  "region": "영국 웨일스",
+  "lat": 52.4,
+  "lng": -3.6,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "welsh-terrier",
+  "name": {
+   "ko": "웰시 테리어",
+   "en": "Welsh Terrier"
+  },
+  "country": "GB",
+  "region": "영국 웨일스",
+  "lat": 52.8,
+  "lng": -3.8,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 78,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "eurasier",
+  "name": {
+   "ko": "유라시어",
+   "en": "Eurasier"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 49.0,
+  "lng": 8.4,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 291,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "ibizan-hound",
+  "name": {
+   "ko": "이비전 하운드",
+   "en": "Ibizan Hound"
+  },
+  "country": "ES",
+  "region": "스페인 이비사섬",
+  "lat": 39.0,
+  "lng": 1.45,
+  "group": "spitz",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 89,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "east-siberian-laika",
+  "name": {
+   "ko": "이스트 시베리안 라이카",
+   "en": "East Siberian Laika"
+  },
+  "country": "RU",
+  "region": "러시아 동시베리아",
+  "lat": 56.0,
+  "lng": 108.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 305,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "east-european-shepherd",
+  "name": {
+   "ko": "이스트 유러피언 셰퍼드",
+   "en": "East European Shepherd"
+  },
+  "country": "RU",
+  "region": "러시아·우크라이나",
+  "lat": 50.5,
+  "lng": 30.5,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "istrian-shorthaired-hound",
+  "name": {
+   "ko": "이스트리안 쇼트헤어드 하운드",
+   "en": "Istrian Shorthaired Hound"
+  },
+  "country": "HR",
+  "region": "크로아티아 이스트라",
+  "lat": 45.2,
+  "lng": 13.9,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 151,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "istrian-coarse-haired-hound",
+  "name": {
+   "ko": "이스트리안 코스 헤어드 하운드",
+   "en": "Istrian Coarse-haired Hound"
+  },
+  "country": "HR",
+  "region": "크로아티아 이스트라",
+  "lat": 45.3,
+  "lng": 14.1,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 152,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "italian-greyhound",
+  "name": {
+   "ko": "이탈리안 그레이하운드",
+   "en": "Italian Greyhound"
+  },
+  "country": "IT",
+  "region": "이탈리아",
+  "lat": 42.5,
+  "lng": 12.5,
+  "group": "sighthound",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 200,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "indian-spitz",
+  "name": {
+   "ko": "인디언 스피츠",
+   "en": "Indian Spitz"
+  },
+  "country": "IN",
+  "region": "인도",
+  "lat": 20.6,
+  "lng": 79.0,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "english-mastiff",
+  "name": {
+   "ko": "잉글리시 마스티프",
+   "en": "English Mastiff"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 52.0,
+  "lng": -2.7,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 264,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "english-setter",
+  "name": {
+   "ko": "잉글리시 세터",
+   "en": "English Setter"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 53.2,
+  "lng": -2.2,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 2,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "english-shepherd",
+  "name": {
+   "ko": "잉글리시 셰퍼드",
+   "en": "English Shepherd"
+  },
+  "country": "US",
+  "region": "미국",
+  "lat": 40.0,
+  "lng": -83.0,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "english-springer-spaniel",
+  "name": {
+   "ko": "잉글리시 스프링어 스패니얼",
+   "en": "English Springer Spaniel"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 52.6,
+  "lng": 0.9,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 125,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "english-toy-terrier",
+  "name": {
+   "ko": "잉글리시 토이 테리어",
+   "en": "English Toy Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 53.48,
+  "lng": -2.24,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 13,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "english-foxhound",
+  "name": {
+   "ko": "잉글리시 폭스하운드",
+   "en": "English Foxhound"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 52.1,
+  "lng": -1.8,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 159,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "giant-schnauzer",
+  "name": {
+   "ko": "자이언트 슈나우저",
+   "en": "Giant Schnauzer"
+  },
+  "country": "DE",
+  "region": "독일 바이에른",
+  "lat": 48.8,
+  "lng": 11.5,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 181,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "japanese-spitz",
+  "name": {
+   "ko": "재패니즈 스피츠",
+   "en": "Japanese Spitz"
+  },
+  "country": "JP",
+  "region": "일본",
+  "lat": 35.7,
+  "lng": 139.7,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 262,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "japanese-chin",
+  "name": {
+   "ko": "재패니즈 친",
+   "en": "Japanese Chin"
+  },
+  "country": "JP",
+  "region": "일본",
+  "lat": 35.0,
+  "lng": 135.75,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 206,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "japanese-terrier",
+  "name": {
+   "ko": "재패니즈 테리어",
+   "en": "Japanese Terrier"
+  },
+  "country": "JP",
+  "region": "일본",
+  "lat": 34.7,
+  "lng": 135.5,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 259,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "jack-russell-terrier",
+  "name": {
+   "ko": "잭 러셀 테리어",
+   "en": "Jack Russell Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 50.6,
+  "lng": -4.0,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 345,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "german-roughhaired-pointer",
+  "name": {
+   "ko": "저먼 러프헤어드 포인터",
+   "en": "German Roughhaired Pointer"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 50.1,
+  "lng": 8.7,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 232,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "german-longhaired-pointer",
+  "name": {
+   "ko": "저먼 롱헤어드 포인터",
+   "en": "German Longhaired Pointer"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 51.2,
+  "lng": 9.5,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 117,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "german-shepherd",
+  "name": {
+   "ko": "저먼 셰퍼드 독",
+   "en": "German Shepherd Dog"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 51,
+  "lng": 10.6,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 166,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "german-shorthaired-pointer",
+  "name": {
+   "ko": "저먼 쇼트헤어드 포인터",
+   "en": "German Shorthaired Pointer"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 51.8,
+  "lng": 10.2,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 119,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "german-wirehaired-pointer",
+  "name": {
+   "ko": "저먼 와이어헤어드 포인터",
+   "en": "German Wirehaired Pointer"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 51.5,
+  "lng": 8.0,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 98,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "german-pinscher",
+  "name": {
+   "ko": "저먼 핀셔",
+   "en": "German Pinscher"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 50.5,
+  "lng": 10.2,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 184,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "german-hound",
+  "name": {
+   "ko": "저먼 하운드",
+   "en": "German Hound"
+  },
+  "country": "DE",
+  "region": "독일 베스트팔렌",
+  "lat": 51.4,
+  "lng": 8.1,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 299,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "zerdava",
+  "name": {
+   "ko": "제르다바",
+   "en": "Zerdava"
+  },
+  "country": "TR",
+  "region": "튀르키예 흑해 연안·조지아",
+  "lat": 41.2,
+  "lng": 41.5,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "jeju",
+  "name": {
+   "ko": "제주개",
+   "en": "Jeju"
+  },
+  "country": "KR",
+  "region": "제주도",
+  "lat": 33.4,
+  "lng": 126.55,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "jonangi",
+  "name": {
+   "ko": "조난기",
+   "en": "Jonangi"
+  },
+  "country": "IN",
+  "region": "인도 안드라프라데시",
+  "lat": 16.6,
+  "lng": 81.3,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "georgian-shepherd",
+  "name": {
+   "ko": "조지안 셰퍼드",
+   "en": "Georgian Shepherd"
+  },
+  "country": "GE",
+  "region": "조지아 캅카스",
+  "lat": 42.3,
+  "lng": 43.4,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "jindo",
+  "name": {
+   "ko": "진돗개",
+   "en": "Korean Jindo"
+  },
+  "country": "KR",
+  "region": "전라남도 진도",
+  "lat": 34.49,
+  "lng": 126.26,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 334,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "chow-chow",
+  "name": {
+   "ko": "차우차우",
+   "en": "Chow Chow"
+  },
+  "country": "CN",
+  "region": "중국 북부",
+  "lat": 41,
+  "lng": 111,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 205,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "chinese-crested-dog",
+  "name": {
+   "ko": "차이니스 크레스티드",
+   "en": "Chinese Crested Dog"
+  },
+  "country": "CN",
+  "region": "중국",
+  "lat": 31.2,
+  "lng": 121.5,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 288,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "chesapeake-bay-retriever",
+  "name": {
+   "ko": "체서피크 베이 리트리버",
+   "en": "Chesapeake Bay Retriever"
+  },
+  "country": "US",
+  "region": "미국 체서피크만",
+  "lat": 38.9,
+  "lng": -76.4,
+  "group": "retriever",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 263,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "cesky-terrier",
+  "name": {
+   "ko": "체스키 테리어",
+   "en": "Cesky Terrier"
+  },
+  "country": "CZ",
+  "region": "체코",
+  "lat": 50.1,
+  "lng": 14.4,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 246,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "cesky-fousek",
+  "name": {
+   "ko": "체스키 포우세크",
+   "en": "Český Fousek"
+  },
+  "country": "CZ",
+  "region": "체코",
+  "lat": 49.9,
+  "lng": 15.5,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 245,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "czech-mountain-dog",
+  "name": {
+   "ko": "체코 마운틴 독",
+   "en": "Czech Mountain Dog"
+  },
+  "country": "CZ",
+  "region": "체코",
+  "lat": 49.5,
+  "lng": 18.3,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "czechoslovakian-wolfdog",
+  "name": {
+   "ko": "체코슬로바키안 울프독",
+   "en": "Czechoslovakian Wolfdog"
+  },
+  "country": "CZ",
+  "region": "옛 체코슬로바키아",
+  "lat": 49.6,
+  "lng": 17.3,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 332,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "chukotka-sled-dog",
+  "name": {
+   "ko": "추코트카 슬레드 독",
+   "en": "Chukotka sled Dog"
+  },
+  "country": "RU",
+  "region": "러시아 추코트카",
+  "lat": 66.3,
+  "lng": 175.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "chongqing",
+  "name": {
+   "ko": "충칭견",
+   "en": "Chongqing"
+  },
+  "country": "CN",
+  "region": "중국 충칭",
+  "lat": 29.56,
+  "lng": 106.55,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "chinook",
+  "name": {
+   "ko": "치누크",
+   "en": "Chinook"
+  },
+  "country": "US",
+  "region": "미국 뉴햄프셔",
+  "lat": 43.2,
+  "lng": -71.5,
+  "group": "spitz",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "cirneco-dell-etna",
+  "name": {
+   "ko": "치르네코 델레트나",
+   "en": "Cirneco dell'Etna"
+  },
+  "country": "IT",
+  "region": "이탈리아 시칠리아 에트나",
+  "lat": 37.75,
+  "lng": 15.0,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 199,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "chihuahua",
+  "name": {
+   "ko": "치와와",
+   "en": "Chihuahua"
+  },
+  "country": "MX",
+  "region": "멕시코 치와와주",
+  "lat": 28.6,
+  "lng": -106.1,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 218,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "chippiparai",
+  "name": {
+   "ko": "치피파라이",
+   "en": "Chippiparai"
+  },
+  "country": "IN",
+  "region": "인도 타밀나두",
+  "lat": 9.7,
+  "lng": 78.0,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "chilean-terrier",
+  "name": {
+   "ko": "칠레안 테리어",
+   "en": "Chilean Terrier"
+  },
+  "country": "CL",
+  "region": "칠레",
+  "lat": -33.45,
+  "lng": -70.67,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "ca-de-bestiar",
+  "name": {
+   "ko": "카 데 베스티아르",
+   "en": "Ca de Bestiar"
+  },
+  "country": "ES",
+  "region": "스페인 마요르카",
+  "lat": 39.8,
+  "lng": 2.8,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 321,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "ca-de-bou",
+  "name": {
+   "ko": "카 데 보우",
+   "en": "Ca de Bou"
+  },
+  "country": "ES",
+  "region": "스페인 마요르카",
+  "lat": 39.6,
+  "lng": 2.9,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 249,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "ca-de-conills",
+  "name": {
+   "ko": "카 데 코닐스",
+   "en": "Ca de Conills"
+  },
+  "country": "ES",
+  "region": "스페인 메노르카",
+  "lat": 39.95,
+  "lng": 4.05,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "ca-rater-mallorqui",
+  "name": {
+   "ko": "카 라테르 마요르키",
+   "en": "Ca Rater Mallorquí"
+  },
+  "country": "ES",
+  "region": "스페인 마요르카",
+  "lat": 39.5,
+  "lng": 3.1,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "cane-corso",
+  "name": {
+   "ko": "카네 코르소",
+   "en": "Cane Corso"
+  },
+  "country": "IT",
+  "region": "이탈리아 남부",
+  "lat": 40.6,
+  "lng": 16.6,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 343,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "cane-paratore",
+  "name": {
+   "ko": "카네 파라토레",
+   "en": "Cane Paratore"
+  },
+  "country": "IT",
+  "region": "이탈리아 아브루초",
+  "lat": 42.1,
+  "lng": 13.9,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "cardigan-welsh-corgi",
+  "name": {
+   "ko": "카디건 웰시 코기",
+   "en": "Cardigan Welsh Corgi"
+  },
+  "country": "GB",
+  "region": "영국 웨일스 카디건셔",
+  "lat": 52.2,
+  "lng": -4.3,
+  "group": "sheepdog",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 38,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "karakachan",
+  "name": {
+   "ko": "카라카찬",
+   "en": "Karakachan"
+  },
+  "country": "BG",
+  "region": "불가리아",
+  "lat": 42.7,
+  "lng": 25.5,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "karelo-finnish-laika",
+  "name": {
+   "ko": "카렐로 핀란드 라이카",
+   "en": "Karelo-Finnish Laika"
+  },
+  "country": "RU",
+  "region": "러시아 카렐리야",
+  "lat": 63.5,
+  "lng": 33.0,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "karelian-bear-dog",
+  "name": {
+   "ko": "카렐리안 베어 독",
+   "en": "Karelian Bear Dog"
+  },
+  "country": "FI",
+  "region": "핀란드 카렐리아",
+  "lat": 62.6,
+  "lng": 29.8,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 48,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "kars",
+  "name": {
+   "ko": "카르스 셰퍼드",
+   "en": "Kars"
+  },
+  "country": "TR",
+  "region": "튀르키예 카르스",
+  "lat": 40.6,
+  "lng": 43.1,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "karst-shepherd",
+  "name": {
+   "ko": "카르스트 셰퍼드",
+   "en": "Karst Shepherd"
+  },
+  "country": "SI",
+  "region": "슬로베니아",
+  "lat": 45.7,
+  "lng": 14.2,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 278,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "carpathian-shepherd-dog",
+  "name": {
+   "ko": "카르파티안 셰퍼드",
+   "en": "Carpathian Shepherd Dog"
+  },
+  "country": "RO",
+  "region": "루마니아 카르파티아",
+  "lat": 45.4,
+  "lng": 25.5,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 350,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "cavapoo",
+  "name": {
+   "ko": "카바푸",
+   "en": "Cavapoo"
+  },
+  "country": "AU",
+  "region": "호주 등",
+  "lat": -33.0,
+  "lng": 151.5,
+  "group": "mixed",
+  "size": "small",
+  "mix": true,
+  "parents": [
+   "cavalier-king-charles-spaniel",
+   "poodle"
+  ],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "cavalier-king-charles-spaniel",
+  "name": {
+   "ko": "카발리에 킹 찰스 스패니얼",
+   "en": "Cavalier King Charles Spaniel"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 51.45,
+  "lng": -0.3,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 136,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "castro-laboreiro-dog",
+  "name": {
+   "ko": "카스트루 라보레이루 독",
+   "en": "Castro Laboreiro Dog"
+  },
+  "country": "PT",
+  "region": "포르투갈 카스트루라보레이루",
+  "lat": 42.03,
+  "lng": -8.16,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 170,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "kai-ken",
+  "name": {
+   "ko": "카이켄",
+   "en": "Kai Ken"
+  },
+  "country": "JP",
+  "region": "일본 야마나시",
+  "lat": 35.66,
+  "lng": 138.57,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 317,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "kazakh-tazy",
+  "name": {
+   "ko": "카자흐 타지",
+   "en": "Kazakh Tazy"
+  },
+  "country": "KZ",
+  "region": "카자흐스탄",
+  "lat": 48.0,
+  "lng": 66.9,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 372,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "catahoula-leopard-dog",
+  "name": {
+   "ko": "카타훌라 레오퍼드 도그",
+   "en": "Catahoula Leopard Dog"
+  },
+  "country": "US",
+  "region": "미국 루이지애나",
+  "lat": 31.7,
+  "lng": -91.8,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "catalan-sheepdog",
+  "name": {
+   "ko": "카탈란 시프도그",
+   "en": "Catalan Sheepdog"
+  },
+  "country": "ES",
+  "region": "스페인 카탈루냐 피레네",
+  "lat": 42.3,
+  "lng": 1.8,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 87,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "can-de-chira",
+  "name": {
+   "ko": "칸 데 치라",
+   "en": "Can de Chira"
+  },
+  "country": "ES",
+  "region": "스페인 아라곤",
+  "lat": 42.4,
+  "lng": -0.1,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "can-de-palleiro",
+  "name": {
+   "ko": "칸 데 팔레이로",
+   "en": "Can de Palleiro"
+  },
+  "country": "ES",
+  "region": "스페인 갈리시아",
+  "lat": 42.9,
+  "lng": -8.0,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "kanni",
+  "name": {
+   "ko": "칸니",
+   "en": "Kanni"
+  },
+  "country": "IN",
+  "region": "인도 타밀나두",
+  "lat": 8.7,
+  "lng": 77.7,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "cantabrian-water-dog",
+  "name": {
+   "ko": "칸타브리안 워터 독",
+   "en": "Cantabrian Water Dog"
+  },
+  "country": "ES",
+  "region": "스페인 칸타브리아",
+  "lat": 43.4,
+  "lng": -3.8,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "calupoh",
+  "name": {
+   "ko": "칼루포",
+   "en": "Calupoh"
+  },
+  "country": "MX",
+  "region": "멕시코",
+  "lat": 19.4,
+  "lng": -99.1,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "campeiro-bulldog",
+  "name": {
+   "ko": "캄페이루 불도그",
+   "en": "Campeiro Bulldog"
+  },
+  "country": "BR",
+  "region": "브라질 남부",
+  "lat": -28.0,
+  "lng": -52.5,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 374,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "cao-de-gado-transmontano",
+  "name": {
+   "ko": "캉 드 가두 트란스몬타누",
+   "en": "Cão de Gado Transmontano"
+  },
+  "country": "PT",
+  "region": "포르투갈 트라스우스몬트스",
+  "lat": 41.6,
+  "lng": -6.8,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 368,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "kangal-shepherd-dog",
+  "name": {
+   "ko": "캉갈",
+   "en": "Kangal Shepherd Dog"
+  },
+  "country": "TR",
+  "region": "튀르키예 시바스 캉갈",
+  "lat": 39.23,
+  "lng": 37.39,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 331,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "canadian-eskimo-dog",
+  "name": {
+   "ko": "캐네디언 에스키모 독",
+   "en": "Canadian Eskimo Dog"
+  },
+  "country": "CA",
+  "region": "캐나다 북극권",
+  "lat": 68.0,
+  "lng": -100.0,
+  "group": "spitz",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 211,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "carolina-dog",
+  "name": {
+   "ko": "캐롤라이나 도그",
+   "en": "Carolina Dog"
+  },
+  "country": "US",
+  "region": "미국 남동부",
+  "lat": 33.5,
+  "lng": -81.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "curly-coated-retriever",
+  "name": {
+   "ko": "컬리 코티드 리트리버",
+   "en": "Curly-coated Retriever"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 52.3,
+  "lng": 0.5,
+  "group": "retriever",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 110,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "kerry-blue-terrier",
+  "name": {
+   "ko": "케리 블루 테리어",
+   "en": "Kerry Blue Terrier"
+  },
+  "country": "IE",
+  "region": "아일랜드 케리주",
+  "lat": 52.1,
+  "lng": -9.7,
+  "group": "terrier",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 3,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "kerry-beagle",
+  "name": {
+   "ko": "케리 비글",
+   "en": "Kerry Beagle"
+  },
+  "country": "IE",
+  "region": "아일랜드 케리주",
+  "lat": 52.0,
+  "lng": -9.5,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "cairn-terrier",
+  "name": {
+   "ko": "케언 테리어",
+   "en": "Cairn Terrier"
+  },
+  "country": "GB",
+  "region": "영국 스코틀랜드 고지대",
+  "lat": 57.2,
+  "lng": -5.3,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 4,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "canaan-dog",
+  "name": {
+   "ko": "케이넌 도그",
+   "en": "Canaan Dog"
+  },
+  "country": "IL",
+  "region": "이스라엘",
+  "lat": 31.5,
+  "lng": 34.9,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 273,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "corsican-dog",
+  "name": {
+   "ko": "코르시칸 도그",
+   "en": "Corsican Dog"
+  },
+  "country": "FR",
+  "region": "프랑스 코르시카",
+  "lat": 42.15,
+  "lng": 9.1,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "wirehaired-pointing-griffon",
+  "name": {
+   "ko": "코르탈스 그리펀",
+   "en": "Wirehaired Pointing Griffon"
+  },
+  "country": "FR",
+  "region": "프랑스 (네덜란드인 코르탈스가 개량)",
+  "lat": 49.0,
+  "lng": 2.5,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 107,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "komondor",
+  "name": {
+   "ko": "코몬도르",
+   "en": "Komondor"
+  },
+  "country": "HU",
+  "region": "헝가리",
+  "lat": 47.2,
+  "lng": 19.5,
+  "group": "sheepdog",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 53,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "caucasian-shepherd-dog",
+  "name": {
+   "ko": "코카시안 셰퍼드 독",
+   "en": "Caucasian Shepherd Dog"
+  },
+  "country": "RU",
+  "region": "캅카스 (조지아·아르메니아 등)",
+  "lat": 42.3,
+  "lng": 44.8,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 328,
+  "prov": false,
+  "akc": true
  },
  {
   "id": "cockapoo",
@@ -582,7 +7606,2216 @@
    "cocker-spaniel",
    "poodle"
   ],
-  "art": null
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "cocker-spaniel",
+  "name": {
+   "ko": "코커 스패니얼",
+   "en": "Cocker Spaniel"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 52.7,
+  "lng": -1.8,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 5,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "kokoni",
+  "name": {
+   "ko": "코코니",
+   "en": "Kokoni"
+  },
+  "country": "GR",
+  "region": "그리스",
+  "lat": 39.0,
+  "lng": 22.0,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "coton-de-tulear",
+  "name": {
+   "ko": "코통 드 튈레아르",
+   "en": "Coton de Tulear"
+  },
+  "country": "MG",
+  "region": "마다가스카르 툴레아르",
+  "lat": -23.35,
+  "lng": 43.67,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 283,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "continental-bulldog",
+  "name": {
+   "ko": "콘티넨털 불도그",
+   "en": "Continental Bulldog"
+  },
+  "country": "CH",
+  "region": "스위스",
+  "lat": 47.4,
+  "lng": 8.5,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 369,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "colombian-fino-hound",
+  "name": {
+   "ko": "콜롬비안 피노 하운드",
+   "en": "Colombian Fino Hound"
+  },
+  "country": "CO",
+  "region": "콜롬비아",
+  "lat": 4.6,
+  "lng": -74.1,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 376,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "kombai-dog",
+  "name": {
+   "ko": "콤바이",
+   "en": "Kombai Dog"
+  },
+  "country": "IN",
+  "region": "인도 타밀나두",
+  "lat": 9.9,
+  "lng": 77.3,
+  "group": "pinscher-molosser",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "kurdish-mastiff",
+  "name": {
+   "ko": "쿠르드 마스티프",
+   "en": "Kurdish Mastiff"
+  },
+  "country": "IQ",
+  "region": "이라크 쿠르디스탄",
+  "lat": 35.8,
+  "lng": 45.0,
+  "group": "sheepdog",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "kuvasz",
+  "name": {
+   "ko": "쿠바스",
+   "en": "Kuvasz"
+  },
+  "country": "HU",
+  "region": "헝가리",
+  "lat": 46.5,
+  "lng": 18.5,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 54,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "kooikerhondje",
+  "name": {
+   "ko": "쿠이커혼제",
+   "en": "Kooikerhondje"
+  },
+  "country": "NL",
+  "region": "네덜란드",
+  "lat": 52.4,
+  "lng": 4.6,
+  "group": "retriever",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 314,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "kunma-dog",
+  "name": {
+   "ko": "쿤마 도그",
+   "en": "Kunma Dog"
+  },
+  "country": "CN",
+  "region": "중국",
+  "lat": 39.9,
+  "lng": 116.6,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "kunming",
+  "name": {
+   "ko": "쿤밍견",
+   "en": "Kunming"
+  },
+  "country": "CN",
+  "region": "중국 윈난 쿤밍",
+  "lat": 25.04,
+  "lng": 102.7,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "koolie",
+  "name": {
+   "ko": "쿨리",
+   "en": "Koolie"
+  },
+  "country": "AU",
+  "region": "호주",
+  "lat": -35.0,
+  "lng": 149.1,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "croatian-sheepdog",
+  "name": {
+   "ko": "크로아티안 시프도그",
+   "en": "Croatian Sheepdog"
+  },
+  "country": "HR",
+  "region": "크로아티아 슬라보니아",
+  "lat": 45.5,
+  "lng": 18.2,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 277,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "kromfohrlander",
+  "name": {
+   "ko": "크롬포를랜더",
+   "en": "Kromfohrländer"
+  },
+  "country": "DE",
+  "region": "독일 지겐",
+  "lat": 50.87,
+  "lng": 8.02,
+  "group": "companion",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 192,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "cretan-hound",
+  "name": {
+   "ko": "크리티코스 라고니코스",
+   "en": "Cretan Hound"
+  },
+  "country": "GR",
+  "region": "그리스 크레타섬",
+  "lat": 35.25,
+  "lng": 24.9,
+  "group": "sighthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "clumber-spaniel",
+  "name": {
+   "ko": "클럼버 스패니얼",
+   "en": "Clumber Spaniel"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드 노팅엄셔",
+  "lat": 53.27,
+  "lng": -1.1,
+  "group": "retriever",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 109,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "keeshond",
+  "name": {
+   "ko": "키스혼트",
+   "en": "Keeshond"
+  },
+  "country": "NL",
+  "region": "네덜란드 (독일 스피츠 계열)",
+  "lat": 52.4,
+  "lng": 4.9,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 97,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "kintamani",
+  "name": {
+   "ko": "킨타마니 발리견",
+   "en": "Kintamani"
+  },
+  "country": "ID",
+  "region": "인도네시아 발리 킨타마니",
+  "lat": -8.25,
+  "lng": 115.35,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 362,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "king-charles-spaniel",
+  "name": {
+   "ko": "킹 찰스 스패니얼",
+   "en": "King Charles Spaniel"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 51.5,
+  "lng": -0.1,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 128,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "thai-ridgeback",
+  "name": {
+   "ko": "타이 리지백",
+   "en": "Thai Ridgeback"
+  },
+  "country": "TH",
+  "region": "태국 동부",
+  "lat": 13.4,
+  "lng": 101.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 338,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "thai-bangkaew-dog",
+  "name": {
+   "ko": "타이 방케우 독",
+   "en": "Thai Bangkaew Dog"
+  },
+  "country": "TH",
+  "region": "태국 피사눌록 방케우",
+  "lat": 16.8,
+  "lng": 100.3,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 358,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "taigan",
+  "name": {
+   "ko": "타이간",
+   "en": "Taigan"
+  },
+  "country": "KG",
+  "region": "키르기스스탄 톈산",
+  "lat": 41.5,
+  "lng": 75.5,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "tatra-shepherd-dog",
+  "name": {
+   "ko": "타트라 시프도그",
+   "en": "Tatra Shepherd Dog"
+  },
+  "country": "PL",
+  "region": "폴란드 타트라",
+  "lat": 49.3,
+  "lng": 19.95,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 252,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "tatra-hound",
+  "name": {
+   "ko": "타트라 하운드",
+   "en": "Tatra Hound"
+  },
+  "country": "SK",
+  "region": "슬로바키아 타트라",
+  "lat": 49.15,
+  "lng": 19.6,
+  "group": "scenthound",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 377,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "tang-dog",
+  "name": {
+   "ko": "탕 도그",
+   "en": "Tang Dog"
+  },
+  "country": "CN",
+  "region": "중국 남부",
+  "lat": 23.0,
+  "lng": 112.5,
+  "group": "companion",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "teddy-roosevelt-terrier",
+  "name": {
+   "ko": "테디 루스벨트 테리어",
+   "en": "Teddy Roosevelt Terrier"
+  },
+  "country": "US",
+  "region": "미국",
+  "lat": 38.9,
+  "lng": -77.0,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "tenterfield-terrier",
+  "name": {
+   "ko": "텐터필드 테리어",
+   "en": "Tenterfield Terrier"
+  },
+  "country": "AU",
+  "region": "호주 뉴사우스웨일스",
+  "lat": -29.05,
+  "lng": 152.02,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "telomian",
+  "name": {
+   "ko": "텔로미안",
+   "en": "Telomian"
+  },
+  "country": "MY",
+  "region": "말레이시아 텔로강",
+  "lat": 4.5,
+  "lng": 101.5,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "tornjak",
+  "name": {
+   "ko": "토르냐크",
+   "en": "Tornjak"
+  },
+  "country": "BA",
+  "region": "보스니아 헤르체고비나·크로아티아",
+  "lat": 43.9,
+  "lng": 17.7,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 355,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "toy-fox-terrier",
+  "name": {
+   "ko": "토이 폭스 테리어",
+   "en": "Toy Fox Terrier"
+  },
+  "country": "US",
+  "region": "미국",
+  "lat": 36.1,
+  "lng": -95.9,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "tonya-finosu",
+  "name": {
+   "ko": "톤야 피노수",
+   "en": "Tonya Finosu"
+  },
+  "country": "TR",
+  "region": "튀르키예 트라브존 톤야",
+  "lat": 40.9,
+  "lng": 39.3,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "transylvanian-hound",
+  "name": {
+   "ko": "트란실바니안 하운드",
+   "en": "Transylvanian Hound"
+  },
+  "country": "HU",
+  "region": "헝가리·트란실바니아",
+  "lat": 46.77,
+  "lng": 23.6,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 241,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "treeing-walker-coonhound",
+  "name": {
+   "ko": "트리잉 워커 쿤하운드",
+   "en": "Treeing Walker Coonhound"
+  },
+  "country": "US",
+  "region": "미국 켄터키",
+  "lat": 37.8,
+  "lng": -85.7,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "treeing-cur",
+  "name": {
+   "ko": "트리잉 커",
+   "en": "Treeing Cur"
+  },
+  "country": "US",
+  "region": "미국 중서부",
+  "lat": 39.0,
+  "lng": -95.0,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "treeing-tennessee-brindle",
+  "name": {
+   "ko": "트리잉 테네시 브린들",
+   "en": "Treeing Tennessee Brindle"
+  },
+  "country": "US",
+  "region": "미국 테네시",
+  "lat": 36.2,
+  "lng": -86.8,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "treeing-feist",
+  "name": {
+   "ko": "트리잉 피스트",
+   "en": "Treeing Feist"
+  },
+  "country": "US",
+  "region": "미국 남동부",
+  "lat": 33.0,
+  "lng": -90.0,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "tyrolean-hound",
+  "name": {
+   "ko": "티롤리안 하운드",
+   "en": "Tyrolean Hound"
+  },
+  "country": "AT",
+  "region": "오스트리아 티롤",
+  "lat": 47.25,
+  "lng": 11.4,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 68,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "tibetan-mastiff",
+  "name": {
+   "ko": "티베탄 마스티프",
+   "en": "Tibetan Mastiff"
+  },
+  "country": "CN",
+  "region": "티베트고원",
+  "lat": 31.5,
+  "lng": 88.5,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 230,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "tibetan-spaniel",
+  "name": {
+   "ko": "티베탄 스패니얼",
+   "en": "Tibetan Spaniel"
+  },
+  "country": "CN",
+  "region": "중국 티베트",
+  "lat": 28.7,
+  "lng": 88.9,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 231,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "tibetan-terrier",
+  "name": {
+   "ko": "티베탄 테리어",
+   "en": "Tibetan Terrier"
+  },
+  "country": "CN",
+  "region": "중국 티베트",
+  "lat": 29.65,
+  "lng": 91.1,
+  "group": "companion",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 209,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "pharaoh-hound",
+  "name": {
+   "ko": "파라오 하운드",
+   "en": "Pharaoh Hound"
+  },
+  "country": "MT",
+  "region": "몰타",
+  "lat": 36.05,
+  "lng": 14.25,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 248,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "pastore-della-lessinia-e-del-lagorai",
+  "name": {
+   "ko": "파스토레 델라 레시니아 에 델 라고라이",
+   "en": "Pastore della Lessinia e del Lagorai"
+  },
+  "country": "IT",
+  "region": "이탈리아 베네토·트렌티노",
+  "lat": 45.6,
+  "lng": 11.0,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "pastor-garafiano",
+  "name": {
+   "ko": "파스토르 가라피아노",
+   "en": "Pastor Garafiano"
+  },
+  "country": "ES",
+  "region": "스페인 라팔마섬",
+  "lat": 28.8,
+  "lng": -17.9,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "parson-russell-terrier",
+  "name": {
+   "ko": "파슨 러셀 테리어",
+   "en": "Parson Russell Terrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드 데번",
+  "lat": 50.7,
+  "lng": -3.5,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 339,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "pachon-navarro",
+  "name": {
+   "ko": "파촌 나바로",
+   "en": "Pachón Navarro"
+  },
+  "country": "ES",
+  "region": "스페인 나바라",
+  "lat": 42.8,
+  "lng": -1.65,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "patagonian-sheepdog",
+  "name": {
+   "ko": "파타고니안 시프도그",
+   "en": "Patagonian Sheepdog"
+  },
+  "country": "CL",
+  "region": "칠레 파타고니아",
+  "lat": -53.2,
+  "lng": -71.0,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "papillon-phalene",
+  "name": {
+   "ko": "파피용·팔렌",
+   "en": "Papillon & Phalène"
+  },
+  "country": "BE",
+  "region": "벨기에·프랑스",
+  "lat": 50.0,
+  "lng": 3.5,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 77,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "pampas-deerhound",
+  "name": {
+   "ko": "팜파스 디어하운드",
+   "en": "Pampas Deerhound"
+  },
+  "country": "BR",
+  "region": "브라질 남부·우루과이·아르헨티나",
+  "lat": -30.5,
+  "lng": -54.0,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "patterdale-terrier",
+  "name": {
+   "ko": "패터데일 테리어",
+   "en": "Patterdale Terrier"
+  },
+  "country": "GB",
+  "region": "영국 호수 지방 패터데일",
+  "lat": 54.53,
+  "lng": -2.93,
+  "group": "terrier",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "pug",
+  "name": {
+   "ko": "퍼그",
+   "en": "Pug"
+  },
+  "country": "CN",
+  "region": "중국",
+  "lat": 34.3,
+  "lng": 108.9,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 253,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "puggle",
+  "name": {
+   "ko": "퍼글",
+   "en": "Puggle"
+  },
+  "country": "US",
+  "region": "미국",
+  "lat": 39.0,
+  "lng": -90.5,
+  "group": "mixed",
+  "size": "small",
+  "mix": true,
+  "parents": [
+   "pug",
+   "beagle"
+  ],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "perro-majorero",
+  "name": {
+   "ko": "페로 마호레로",
+   "en": "Perro Majorero"
+  },
+  "country": "ES",
+  "region": "스페인 푸에르테벤투라",
+  "lat": 28.4,
+  "lng": -14.0,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "peruvian-hairless-dog",
+  "name": {
+   "ko": "페루비안 헤어리스 도그",
+   "en": "Peruvian Hairless Dog"
+  },
+  "country": "PE",
+  "region": "페루",
+  "lat": -12.0,
+  "lng": -77.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 310,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "perdigueiro-galego",
+  "name": {
+   "ko": "페르디게이로 갈레고",
+   "en": "Perdigueiro Galego"
+  },
+  "country": "ES",
+  "region": "스페인 갈리시아",
+  "lat": 43.0,
+  "lng": -7.5,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "pekingese",
+  "name": {
+   "ko": "페키니즈",
+   "en": "Pekingese"
+  },
+  "country": "CN",
+  "region": "중국 베이징",
+  "lat": 39.9,
+  "lng": 116.4,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 207,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "pembroke-welsh-corgi",
+  "name": {
+   "ko": "펨브로크 웰시 코기",
+   "en": "Pembroke Welsh Corgi"
+  },
+  "country": "GB",
+  "region": "영국 웨일스 펨브로크셔",
+  "lat": 51.9,
+  "lng": -4.9,
+  "group": "sheepdog",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 39,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "podengo-galego",
+  "name": {
+   "ko": "포덴고 갈레고",
+   "en": "Podengo Galego"
+  },
+  "country": "ES",
+  "region": "스페인 갈리시아",
+  "lat": 42.6,
+  "lng": -7.8,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "podenco-andaluz",
+  "name": {
+   "ko": "포덴코 안달루스",
+   "en": "Podenco Andaluz"
+  },
+  "country": "ES",
+  "region": "스페인 안달루시아",
+  "lat": 37.4,
+  "lng": -4.5,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "podenco-canario",
+  "name": {
+   "ko": "포덴코 카나리오",
+   "en": "Podenco Canario"
+  },
+  "country": "ES",
+  "region": "스페인 카나리아 제도",
+  "lat": 28.3,
+  "lng": -16.5,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 329,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "porcelaine",
+  "name": {
+   "ko": "포르셀렌",
+   "en": "Porcelaine"
+  },
+  "country": "FR",
+  "region": "프랑스 프랑슈콩테",
+  "lat": 47.2,
+  "lng": 6.0,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 30,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "portuguese-sheepdog",
+  "name": {
+   "ko": "포르투기즈 시프도그",
+   "en": "Portuguese Sheepdog"
+  },
+  "country": "PT",
+  "region": "포르투갈 알렌테주",
+  "lat": 38.5,
+  "lng": -7.9,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 93,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "portuguese-water-dog",
+  "name": {
+   "ko": "포르투기즈 워터 독",
+   "en": "Portuguese Water Dog"
+  },
+  "country": "PT",
+  "region": "포르투갈 알가르브",
+  "lat": 37.1,
+  "lng": -8.2,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 37,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "portuguese-podengo",
+  "name": {
+   "ko": "포르투기즈 포덴고",
+   "en": "Portuguese Podengo"
+  },
+  "country": "PT",
+  "region": "포르투갈",
+  "lat": 39.5,
+  "lng": -8.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 94,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "portuguese-pointer",
+  "name": {
+   "ko": "포르투기즈 포인터",
+   "en": "Portuguese Pointer"
+  },
+  "country": "PT",
+  "region": "포르투갈",
+  "lat": 39.0,
+  "lng": -8.6,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 187,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "pomeranian",
+  "name": {
+   "ko": "포메라니안",
+   "en": "Pomeranian"
+  },
+  "country": "DE",
+  "region": "포메라니아 (독일·폴란드 발트해 연안)",
+  "lat": 54.1,
+  "lng": 14.2,
+  "group": "spitz",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 97,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "posavac-hound",
+  "name": {
+   "ko": "포사바츠 하운드",
+   "en": "Posavac Hound"
+  },
+  "country": "HR",
+  "region": "크로아티아 사바강 유역",
+  "lat": 45.3,
+  "lng": 16.8,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 154,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "pointer",
+  "name": {
+   "ko": "포인터",
+   "en": "Pointer"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 52.6,
+  "lng": -1.5,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 1,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "polish-greyhound",
+  "name": {
+   "ko": "폴란드 그레이하운드",
+   "en": "Polish Greyhound"
+  },
+  "country": "PL",
+  "region": "폴란드",
+  "lat": 50.5,
+  "lng": 21.0,
+  "group": "sighthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 333,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "gonczy-polski",
+  "name": {
+   "ko": "폴란드 사냥개",
+   "en": "Gończy Polski"
+  },
+  "country": "PL",
+  "region": "폴란드",
+  "lat": 50.0,
+  "lng": 22.0,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 354,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "polish-lowland-sheepdog",
+  "name": {
+   "ko": "폴리시 롤런드 시프도그",
+   "en": "Polish Lowland Sheepdog"
+  },
+  "country": "PL",
+  "region": "폴란드",
+  "lat": 52.7,
+  "lng": 19.0,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 251,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "polish-hound",
+  "name": {
+   "ko": "폴리시 하운드",
+   "en": "Polish Hound"
+  },
+  "country": "PL",
+  "region": "폴란드",
+  "lat": 52.0,
+  "lng": 20.0,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 52,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "pont-audemer-spaniel",
+  "name": {
+   "ko": "퐁토드메르 스패니얼",
+   "en": "Pont-Audemer Spaniel"
+  },
+  "country": "FR",
+  "region": "프랑스 퐁토드메르",
+  "lat": 49.35,
+  "lng": 0.5,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 114,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "phu-quoc-ridgeback",
+  "name": {
+   "ko": "푸꾸옥 리지백",
+   "en": "Phu Quoc Ridgeback"
+  },
+  "country": "VN",
+  "region": "베트남 푸꾸옥섬",
+  "lat": 10.2,
+  "lng": 104.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "pudelpointer",
+  "name": {
+   "ko": "푸델포인터",
+   "en": "Pudelpointer"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 51.3,
+  "lng": 12.4,
+  "group": "pointer",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 216,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "poodle",
+  "name": {
+   "ko": "푸들",
+   "en": "Poodle"
+  },
+  "country": "DE",
+  "region": "독일 · 프랑스",
+  "lat": 50.2,
+  "lng": 6.5,
+  "group": "companion",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 172,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "pumi",
+  "name": {
+   "ko": "푸미",
+   "en": "Pumi"
+  },
+  "country": "HU",
+  "region": "헝가리 서부",
+  "lat": 47.1,
+  "lng": 17.5,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 56,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "poitevin",
+  "name": {
+   "ko": "푸아트뱅",
+   "en": "Poitevin"
+  },
+  "country": "FR",
+  "region": "프랑스 푸아투",
+  "lat": 46.6,
+  "lng": 0.3,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 24,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "fu-quan",
+  "name": {
+   "ko": "푸취안",
+   "en": "Fu Quan"
+  },
+  "country": "CN",
+  "region": "중국",
+  "lat": 34.75,
+  "lng": 113.6,
+  "group": "companion",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "puli",
+  "name": {
+   "ko": "풀리",
+   "en": "Puli"
+  },
+  "country": "HU",
+  "region": "헝가리",
+  "lat": 47.6,
+  "lng": 20.5,
+  "group": "sheepdog",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 55,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "pungsan",
+  "name": {
+   "ko": "풍산개",
+   "en": "Pungsan"
+  },
+  "country": "KP",
+  "region": "함경남도 풍산 (북한)",
+  "lat": 40.8,
+  "lng": 128.15,
+  "group": "spitz",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "prague-ratter",
+  "name": {
+   "ko": "프라하 래터",
+   "en": "Prague Ratter"
+  },
+  "country": "CZ",
+  "region": "체코 프라하",
+  "lat": 50.08,
+  "lng": 14.43,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 363,
+  "prov": true,
+  "akc": false
+ },
+ {
+  "id": "presa-canario",
+  "name": {
+   "ko": "프레사 카나리오",
+   "en": "Presa Canario"
+  },
+  "country": "ES",
+  "region": "스페인 카나리아 제도",
+  "lat": 28.1,
+  "lng": -15.4,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 346,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "french-bulldog",
+  "name": {
+   "ko": "프렌치 불도그",
+   "en": "French Bulldog"
+  },
+  "country": "FR",
+  "region": "프랑스",
+  "lat": 48.86,
+  "lng": 2.35,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 101,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "french-spaniel",
+  "name": {
+   "ko": "프렌치 스패니얼",
+   "en": "French Spaniel"
+  },
+  "country": "FR",
+  "region": "프랑스 (캐나다 퀘벡에도 전승)",
+  "lat": 47.5,
+  "lng": 1.2,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 175,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "petit-basset-griffon-vendeen",
+  "name": {
+   "ko": "프티 바세 그리퐁 방데앙",
+   "en": "Petit Basset Griffon Vendéen"
+  },
+  "country": "FR",
+  "region": "프랑스 방데",
+  "lat": 46.6,
+  "lng": -1.6,
+  "group": "scenthound",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 67,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "petit-brabancon",
+  "name": {
+   "ko": "프티 브라방송",
+   "en": "Petit Brabançon"
+  },
+  "country": "BE",
+  "region": "벨기에 브라반트",
+  "lat": 50.75,
+  "lng": 4.5,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 82,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "petit-bleu-de-gascogne",
+  "name": {
+   "ko": "프티 블루 드 가스코뉴",
+   "en": "Petit Bleu de Gascogne"
+  },
+  "country": "FR",
+  "region": "프랑스 가스코뉴",
+  "lat": 43.9,
+  "lng": 0.2,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 31,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "flat-coated-retriever",
+  "name": {
+   "ko": "플랫 코티드 리트리버",
+   "en": "Flat-coated Retriever"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 52.9,
+  "lng": 0.5,
+  "group": "retriever",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 121,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "plott-hound",
+  "name": {
+   "ko": "플롯 하운드",
+   "en": "Plott Hound"
+  },
+  "country": "US",
+  "region": "미국 노스캐롤라이나",
+  "lat": 35.5,
+  "lng": -83.0,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "pyrenean-mastiff",
+  "name": {
+   "ko": "피레니언 마스티프",
+   "en": "Pyrenean Mastiff"
+  },
+  "country": "ES",
+  "region": "스페인 아라곤 피레네",
+  "lat": 42.5,
+  "lng": -0.5,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 92,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "pyrenean-sheepdog-smooth-faced",
+  "name": {
+   "ko": "피레니언 시프도그 (단면형)",
+   "en": "Pyrenean Sheepdog (Smooth-faced)"
+  },
+  "country": "FR",
+  "region": "프랑스 피레네",
+  "lat": 43.0,
+  "lng": -0.2,
+  "group": "sheepdog",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 138,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "pyrenean-sheepdog-long-haired",
+  "name": {
+   "ko": "피레니언 시프도그 (장모형)",
+   "en": "Pyrenean Sheepdog (Long-haired)"
+  },
+  "country": "FR",
+  "region": "프랑스 피레네",
+  "lat": 42.8,
+  "lng": 0.1,
+  "group": "sheepdog",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 141,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "picardy-spaniel",
+  "name": {
+   "ko": "피카르디 스패니얼",
+   "en": "Picardy Spaniel"
+  },
+  "country": "FR",
+  "region": "프랑스 피카르디",
+  "lat": 49.9,
+  "lng": 2.3,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 108,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "finnish-lapphund",
+  "name": {
+   "ko": "핀란드 라프훈트",
+   "en": "Finnish Lapphund"
+  },
+  "country": "FI",
+  "region": "핀란드 라플란드",
+  "lat": 68.0,
+  "lng": 26.0,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 189,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "finnish-spitz",
+  "name": {
+   "ko": "핀란드 스피츠",
+   "en": "Finnish Spitz"
+  },
+  "country": "FI",
+  "region": "핀란드",
+  "lat": 61.5,
+  "lng": 25.5,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 49,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "finnish-hound",
+  "name": {
+   "ko": "핀란드 하운드",
+   "en": "Finnish Hound"
+  },
+  "country": "FI",
+  "region": "핀란드",
+  "lat": 60.9,
+  "lng": 24.5,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 51,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "field-spaniel",
+  "name": {
+   "ko": "필드 스패니얼",
+   "en": "Field Spaniel"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 52.8,
+  "lng": -0.3,
+  "group": "retriever",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 123,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "fila-brasileiro",
+  "name": {
+   "ko": "필라 브라질레이루",
+   "en": "Fila Brasileiro"
+  },
+  "country": "BR",
+  "region": "브라질",
+  "lat": -15.0,
+  "lng": -47.0,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 225,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "hanover-hound",
+  "name": {
+   "ko": "하노버 하운드",
+   "en": "Hanover Hound"
+  },
+  "country": "DE",
+  "region": "독일 하노버",
+  "lat": 52.4,
+  "lng": 9.7,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 213,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "hamiltonstovare",
+  "name": {
+   "ko": "하밀톤스퇴바레",
+   "en": "Hamiltonstövare"
+  },
+  "country": "SE",
+  "region": "스웨덴",
+  "lat": 58.7,
+  "lng": 15.9,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 132,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "havanese",
+  "name": {
+   "ko": "하바니즈",
+   "en": "Havanese"
+  },
+  "country": "CU",
+  "region": "쿠바",
+  "lat": 23.1,
+  "lng": -82.4,
+  "group": "companion",
+  "size": "small",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 250,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "rastreador-brasileiro",
+  "name": {
+   "ko": "하스트레아도르 브라질레이루",
+   "en": "Rastreador Brasileiro"
+  },
+  "country": "BR",
+  "region": "브라질",
+  "lat": -23.0,
+  "lng": -49.5,
+  "group": "scenthound",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 275,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "rafeiro-do-alentejo",
+  "name": {
+   "ko": "하페이루 두 알렌테주",
+   "en": "Rafeiro do Alentejo"
+  },
+  "country": "PT",
+  "region": "포르투갈 알렌테주",
+  "lat": 38.6,
+  "lng": -7.6,
+  "group": "pinscher-molosser",
+  "size": "giant",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 96,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "halden-hound",
+  "name": {
+   "ko": "할덴 하운드",
+   "en": "Halden Hound"
+  },
+  "country": "NO",
+  "region": "노르웨이 할덴",
+  "lat": 59.12,
+  "lng": 11.39,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 267,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "harrier",
+  "name": {
+   "ko": "해리어",
+   "en": "Harrier"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드",
+  "lat": 50.9,
+  "lng": -3.5,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 295,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "huntaway",
+  "name": {
+   "ko": "헌터웨이",
+   "en": "Huntaway"
+  },
+  "country": "NZ",
+  "region": "뉴질랜드",
+  "lat": -41.3,
+  "lng": 174.8,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "wirehaired-vizsla",
+  "name": {
+   "ko": "헝가리안 와이어헤어드 비즐라",
+   "en": "Wirehaired Vizsla"
+  },
+  "country": "HU",
+  "region": "헝가리",
+  "lat": 46.8,
+  "lng": 18.0,
+  "group": "pointer",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 239,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "greek-harehound",
+  "name": {
+   "ko": "헬레닉 하운드",
+   "en": "Greek Harehound"
+  },
+  "country": "GR",
+  "region": "그리스 남부",
+  "lat": 37.5,
+  "lng": 22.3,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 214,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "hallefors-elkhound",
+  "name": {
+   "ko": "헬레포르스 엘크하운드",
+   "en": "Hällefors Elkhound"
+  },
+  "country": "SE",
+  "region": "스웨덴 헬레포르스",
+  "lat": 59.78,
+  "lng": 14.5,
+  "group": "spitz",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "hovawart",
+  "name": {
+   "ko": "호바바르트",
+   "en": "Hovawart"
+  },
+  "country": "DE",
+  "region": "독일",
+  "lat": 51.9,
+  "lng": 10.4,
+  "group": "pinscher-molosser",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 190,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "hokkaido",
+  "name": {
+   "ko": "홋카이도견",
+   "en": "Hokkaido"
+  },
+  "country": "JP",
+  "region": "일본 홋카이도",
+  "lat": 43.06,
+  "lng": 141.35,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 261,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "white-swiss-shepherd-dog",
+  "name": {
+   "ko": "화이트 스위스 셰퍼드",
+   "en": "White Swiss Shepherd Dog"
+  },
+  "country": "CH",
+  "region": "스위스",
+  "lat": 47.0,
+  "lng": 7.0,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 347,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "whippet",
+  "name": {
+   "ko": "휘핏",
+   "en": "Whippet"
+  },
+  "country": "GB",
+  "region": "영국 잉글랜드 북부",
+  "lat": 53.9,
+  "lng": -1.2,
+  "group": "sighthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 162,
+  "prov": false,
+  "akc": true
+ },
+ {
+  "id": "hmong-bobtail-dog",
+  "name": {
+   "ko": "흐몽 밥테일",
+   "en": "Hmong bobtail Dog"
+  },
+  "country": "VN",
+  "region": "베트남 북부",
+  "lat": 22.3,
+  "lng": 103.9,
+  "group": "spitz",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "hygen-hound",
+  "name": {
+   "ko": "히겐 하운드",
+   "en": "Hygen Hound"
+  },
+  "country": "NO",
+  "region": "노르웨이",
+  "lat": 60.6,
+  "lng": 8.6,
+  "group": "scenthound",
+  "size": "medium",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": 266,
+  "prov": false,
+  "akc": false
+ },
+ {
+  "id": "himalayan-sheepdog",
+  "name": {
+   "ko": "히말라얀 시프도그",
+   "en": "Himalayan Sheepdog"
+  },
+  "country": "NP",
+  "region": "네팔·인도 히말라야",
+  "lat": 28.2,
+  "lng": 84.0,
+  "group": "sheepdog",
+  "size": "large",
+  "mix": false,
+  "parents": [],
+  "art": null,
+  "fci": null,
+  "prov": false,
+  "akc": false
  }
 ]
-

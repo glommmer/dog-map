@@ -1,0 +1,32 @@
+{
+  "summary": "포르투갈 북동부의 가축 보호견입니다.",
+  "description": "트라스우스몬트스의 대형 보호견으로, 늑대가 많은 지역에서 양 떼를 지켰습니다. FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: TRANSMONTANO MASTIFF (제368호)",
+      "url": "https://www.fci.be/en/nomenclature/TRANSMONTANO-MASTIFF-368.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/368g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Cão de Gado Transmontano",
+      "url": "https://en.wikipedia.org/wiki/C%C3%A3o_de_Gado_Transmontano"
+    }
+  ],
+  "fci": {
+    "num": 368,
+    "name": "TRANSMONTANO MASTIFF",
+    "group": null,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "provisional",
+    "country": "포르투갈"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/TRANSMONTANO.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:TRANSMONTANO.jpg"
+  }
+}

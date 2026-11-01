@@ -1,0 +1,36 @@
+{
+  "summary": "네덜란드인이 프랑스에서 완성한 거친 털 사냥개입니다.",
+  "description": "'와이어헤어드 포인팅 그리펀'이라고도 합니다. 19세기 에뒤아르 코르탈스의 개량으로 정립되었고, FCI 원산국은 프랑스입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: WIRE-HAIRED POINTING GRIFFON KORTHALS (제107호)",
+      "url": "https://www.fci.be/en/nomenclature/WIRE-HAIRED-POINTING-GRIFFON-KORTHALS-107.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/107g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/wirehaired-pointing-griffon/"
+    },
+    {
+      "label": "Wikipedia: Wirehaired Pointing Griffon",
+      "url": "https://en.wikipedia.org/wiki/Wirehaired_Pointing_Griffon"
+    }
+  ],
+  "fci": {
+    "num": 107,
+    "name": "WIRE-HAIRED POINTING GRIFFON KORTHALS",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "«Griffon» type",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Korthalsgriffon.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Korthalsgriffon.jpg"
+  }
+}

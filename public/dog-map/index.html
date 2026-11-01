@@ -39,12 +39,14 @@
 
   <header class="brand">
     <h1>견종 지도</h1>
-    <p>세계 견종이 태어난 곳</p>
+    <p id="breed-count">세계 견종이 태어난 곳</p>
   </header>
 
   <div class="topbar" id="topbar">
     <div id="search" class="search"></div>
+    <div id="browse" class="filters"></div>
     <div id="filters" class="filters"></div>
+    <button id="random" class="icon-btn" type="button" aria-label="무작위 견종 보기"><svg viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="16" rx="3.5"/><path d="M9 9h.01M15 9h.01M12 12h.01M9 15h.01M15 15h.01"/></svg></button>
   </div>
 
   <div class="dock">
@@ -56,7 +58,7 @@
     </div>
   </div>
 
-  <p class="credits">Map data: Natural Earth</p>
+  <p class="credits">Map data: Natural Earth · 견종 정보: FCI, AKC, Wikipedia, 국가유산청</p>
 
   <aside id="panel" class="panel" aria-label="견종 상세 정보" aria-hidden="true"></aside>
 

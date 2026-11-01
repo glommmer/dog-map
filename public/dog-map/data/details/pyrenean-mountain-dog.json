@@ -1,0 +1,40 @@
+{
+  "summary": "흰 털의 피레네 가축 보호견입니다.",
+  "description": "FCI 이름은 '피레니언 마운틴 독'이며, 프랑스에서는 '파투'라고 부릅니다. 피레네의 양 떼를 지키던 대형 가축 보호견입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: PYRENEAN MOUNTAIN DOG (제137호)",
+      "url": "https://www.fci.be/en/nomenclature/PYRENEAN-MOUNTAIN-DOG-137.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/137g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/great-pyrenees/"
+    },
+    {
+      "label": "Wikipedia: Pyrenean Mountain Dog",
+      "url": "https://en.wikipedia.org/wiki/Pyrenean_Mountain_Dog"
+    },
+    {
+      "label": "위키백과: 그레이트 피레니즈",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8A%B8_%ED%94%BC%EB%A0%88%EB%8B%88%EC%A6%88"
+    }
+  ],
+  "fci": {
+    "num": 137,
+    "name": "PYRENEAN MOUNTAIN DOG",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pyrenean%20Mountain%20Dog%20600.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Pyrenean_Mountain_Dog_600.jpg"
+  }
+}

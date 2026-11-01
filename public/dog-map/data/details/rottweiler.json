@@ -4,10 +4,37 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: ROTTWEILER (제147호)",
+      "url": "https://www.fci.be/en/nomenclature/ROTTWEILER-147.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/147g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/rottweiler/"
+    },
+    {
+      "label": "Wikipedia: Rottweiler",
+      "url": "https://en.wikipedia.org/wiki/Rottweiler"
+    },
+    {
+      "label": "위키백과: 로트바일러",
+      "url": "https://ko.wikipedia.org/wiki/%EB%A1%9C%ED%8A%B8%EB%B0%94%EC%9D%BC%EB%9F%AC"
     }
-  ]
+  ],
+  "fci": {
+    "num": 147,
+    "name": "ROTTWEILER",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rottweiler%20Moletai%20May%202014.2.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Rottweiler_Moletai_May_2014.2.jpg"
+  }
 }
-

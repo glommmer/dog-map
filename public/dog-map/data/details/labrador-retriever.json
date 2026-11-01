@@ -4,10 +4,37 @@
   "origin_note": "조상은 뉴펀들랜드에서 왔지만, 품종으로 개량되고 표준화된 곳은 영국입니다.",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: LABRADOR RETRIEVER (제122호)",
+      "url": "https://www.fci.be/en/nomenclature/LABRADOR-RETRIEVER-122.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/122g08-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/labrador-retriever/"
+    },
+    {
+      "label": "Wikipedia: Labrador Retriever",
+      "url": "https://en.wikipedia.org/wiki/Labrador_Retriever"
+    },
+    {
+      "label": "위키백과: 래브라도 리트리버",
+      "url": "https://ko.wikipedia.org/wiki/%EB%9E%98%EB%B8%8C%EB%9D%BC%EB%8F%84_%EB%A6%AC%ED%8A%B8%EB%A6%AC%EB%B2%84"
     }
-  ]
+  ],
+  "fci": {
+    "num": 122,
+    "name": "LABRADOR RETRIEVER",
+    "group": 8,
+    "section": "Retrievers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Yellow%20Labrador%20Retriever%202.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Yellow_Labrador_Retriever_2.jpg"
+  }
 }
-

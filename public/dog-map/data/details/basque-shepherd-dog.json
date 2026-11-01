@@ -1,0 +1,15 @@
+{
+  "summary": "바스크의 전통 목양견입니다.",
+  "description": "스페인 바스크 지방의 전통 목양견으로, 바스크 토종 다섯 품종 가운데 하나입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Basque Shepherd Dog",
+      "url": "https://en.wikipedia.org/wiki/Basque_Shepherd_Dog"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pastor%20vasco%20m%2014months%20loby%203018.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Pastor_vasco_m_14months_loby_3018.jpg"
+  }
+}

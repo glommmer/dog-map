@@ -1,0 +1,36 @@
+{
+  "summary": "포르투갈 남부의 가축 보호견입니다.",
+  "description": "포르투갈 남부 알렌테주 지방 이름을 딴 대형 가축 보호견입니다. 넓은 초원에서 양 떼를 지켰습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: RAFEIRO OF ALENTEJO (제96호)",
+      "url": "https://www.fci.be/en/nomenclature/RAFEIRO-OF-ALENTEJO-96.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/096g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/rafeiro-do-alentejo/"
+    },
+    {
+      "label": "Wikipedia: Rafeiro do Alentejo",
+      "url": "https://en.wikipedia.org/wiki/Rafeiro_do_Alentejo"
+    }
+  ],
+  "fci": {
+    "num": 96,
+    "name": "RAFEIRO OF ALENTEJO",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "포르투갈"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rafeiro%20male.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Rafeiro_male.jpg"
+  }
+}

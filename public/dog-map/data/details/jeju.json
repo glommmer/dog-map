@@ -1,0 +1,19 @@
+{
+  "summary": "멸종 위기에서 복원 중인 제주 토종개입니다.",
+  "description": "1986년 제주도에서 단 세 마리만 확인될 만큼 위기에 처했으나 복원 번식으로 수가 늘었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Jeju dog",
+      "url": "https://en.wikipedia.org/wiki/Jeju_dog"
+    },
+    {
+      "label": "위키백과: 제주개",
+      "url": "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC%EA%B0%9C"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeju%20dog.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Jeju_dog.jpg"
+  }
+}

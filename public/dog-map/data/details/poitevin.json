@@ -1,0 +1,32 @@
+{
+  "summary": "17세기에 만들어진 프랑스 무리 사냥개입니다.",
+  "description": "'샤 드 오 푸아투'라고도 불리며 푸아투 지방에서 만들어졌습니다. 주로 무리를 이루어 사냥하는 후각 사냥개입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: POITEVIN (제24호)",
+      "url": "https://www.fci.be/en/nomenclature/POITEVIN-24.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/024g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Poitevin (dog breed)",
+      "url": "https://en.wikipedia.org/wiki/Poitevin_(dog_breed)"
+    }
+  ],
+  "fci": {
+    "num": 24,
+    "name": "POITEVIN",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Poitevin%20Hound.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Poitevin_Hound.jpg"
+  }
+}

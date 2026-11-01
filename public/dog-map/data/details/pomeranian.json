@@ -4,10 +4,37 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: GERMAN SPITZ (제97호)",
+      "url": "https://www.fci.be/en/nomenclature/GERMAN-SPITZ-97.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/097g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/pomeranian/"
+    },
+    {
+      "label": "Wikipedia: Pomeranian dog",
+      "url": "https://en.wikipedia.org/wiki/Pomeranian_dog"
+    },
+    {
+      "label": "위키백과: 포메라니안",
+      "url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EB%A9%94%EB%9D%BC%EB%8B%88%EC%95%88"
     }
-  ]
+  ],
+  "fci": {
+    "num": 97,
+    "name": "GERMAN SPITZ",
+    "group": 5,
+    "section": "European Spitz",
+    "sub": "",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pomeranian.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Pomeranian.JPG"
+  }
 }
-

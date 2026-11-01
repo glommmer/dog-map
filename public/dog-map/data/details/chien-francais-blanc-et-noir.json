@@ -1,0 +1,32 @@
+{
+  "summary": "흰색과 검은색 털의 프랑스 무리 사냥개입니다.",
+  "description": "옛 생통주 계통 사냥개를 잇는 프랑스 후각 사냥개입니다. 사슴 사냥에 쓰였습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: FRENCH WHITE & BLACK HOUND (제220호)",
+      "url": "https://www.fci.be/en/nomenclature/FRENCH-WHITE-BLACK-HOUND-220.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/220g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Chien Français Blanc et Noir",
+      "url": "https://en.wikipedia.org/wiki/Chien_Fran%C3%A7ais_Blanc_et_Noir"
+    }
+  ],
+  "fci": {
+    "num": 220,
+    "name": "FRENCH WHITE & BLACK HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ais%20noir%20et%20blanc.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ais_noir_et_blanc.JPG"
+  }
+}

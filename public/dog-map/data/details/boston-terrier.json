@@ -1,0 +1,40 @@
+{
+  "summary": "'미국 신사'라고 불리는 턱시도 무늬의 개입니다.",
+  "description": "미국에서 만들어진 소형견으로, 1893년 AKC에 등록되었습니다. 검정과 흰색의 턱시도 같은 무늬로 유명합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BOSTON TERRIER (제140호)",
+      "url": "https://www.fci.be/en/nomenclature/BOSTON-TERRIER-140.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/140g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/boston-terrier/"
+    },
+    {
+      "label": "Wikipedia: Boston Terrier",
+      "url": "https://en.wikipedia.org/wiki/Boston_Terrier"
+    },
+    {
+      "label": "위키백과: 보스턴 테리어",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%8A%A4%ED%84%B4_%ED%85%8C%EB%A6%AC%EC%96%B4"
+    }
+  ],
+  "fci": {
+    "num": 140,
+    "name": "BOSTON TERRIER",
+    "group": 9,
+    "section": "Small Molossian type Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "미국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/BOSTON%20TERRIER,%20Ving%C3%A5rdens%20Essi%20von%20Richards%20(23995273800).2.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:BOSTON_TERRIER,_Ving%C3%A5rdens_Essi_von_Richards_(23995273800).2.jpg"
+  }
+}

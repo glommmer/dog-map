@@ -1,0 +1,40 @@
+{
+  "summary": "시코쿠 산악의 사냥개입니다.",
+  "description": "'고치켄'이라고도 합니다. 사슴과 멧돼지를 쫓던 산악 사냥개이며 일본 천연기념물입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SHIKOKU (제319호)",
+      "url": "https://www.fci.be/en/nomenclature/SHIKOKU-319.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/319g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/shikoku-ken/"
+    },
+    {
+      "label": "Wikipedia: Shikoku dog",
+      "url": "https://en.wikipedia.org/wiki/Shikoku_dog"
+    },
+    {
+      "label": "위키백과: 시코쿠견",
+      "url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EC%BD%94%EC%BF%A0%EA%B2%AC"
+    }
+  ],
+  "fci": {
+    "num": 319,
+    "name": "SHIKOKU",
+    "group": 5,
+    "section": "Asian Spitz and related breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "일본"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Shikoku%20dog.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Shikoku_dog.jpg"
+  }
+}

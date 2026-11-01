@@ -1,0 +1,40 @@
+{
+  "summary": "얼룩 무늬 털이 아름다운 세터 계열 조렵견입니다.",
+  "description": "레드 아이리시 세터, 고든 세터 등과 함께 세터 계열에 속합니다. 새를 찾으면 낮게 웅크려 알리던 습성에서 세터라는 이름이 나왔으며, 흰 바탕에 점처럼 박힌 반점이 특징입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ENGLISH SETTER (제2호)",
+      "url": "https://www.fci.be/en/nomenclature/ENGLISH-SETTER-2.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/002g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/english-setter/"
+    },
+    {
+      "label": "Wikipedia: English Setter",
+      "url": "https://en.wikipedia.org/wiki/English_Setter"
+    },
+    {
+      "label": "위키백과: 잉글리시 세터",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9E%89%EA%B8%80%EB%A6%AC%EC%8B%9C_%EC%84%B8%ED%84%B0"
+    }
+  ],
+  "fci": {
+    "num": 2,
+    "name": "ENGLISH SETTER",
+    "group": 7,
+    "section": "British and Irish Pointers and Setters",
+    "sub": "Setter",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/English%20setter.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:English_setter.jpg"
+  }
+}

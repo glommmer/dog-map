@@ -1,0 +1,32 @@
+{
+  "summary": "야생으로 돌아갔던 개의 후손입니다.",
+  "description": "유럽 이주민의 개가 야생화된 뒤 다시 길들여진 것으로 설명되는 우루과이의 유일한 FCI 공인 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CIMARRÓN URUGUAYO (제353호)",
+      "url": "https://www.fci.be/en/nomenclature/CIMARRON-URUGUAYO-353.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/353g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Cimarrón Uruguayo",
+      "url": "https://en.wikipedia.org/wiki/Cimarr%C3%B3n_Uruguayo"
+    }
+  ],
+  "fci": {
+    "num": 353,
+    "name": "CIMARRÓN URUGUAYO",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "definitive",
+    "country": "우루과이"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/PERRO%20CIMARRON.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:PERRO_CIMARRON.jpg"
+  }
+}

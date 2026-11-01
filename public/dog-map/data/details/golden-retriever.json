@@ -4,10 +4,37 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: GOLDEN RETRIEVER (제111호)",
+      "url": "https://www.fci.be/en/nomenclature/GOLDEN-RETRIEVER-111.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/111g08-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/golden-retriever/"
+    },
+    {
+      "label": "Wikipedia: Golden Retriever",
+      "url": "https://en.wikipedia.org/wiki/Golden_Retriever"
+    },
+    {
+      "label": "위키백과: 골든 리트리버",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B3%A8%EB%93%A0_%EB%A6%AC%ED%8A%B8%EB%A6%AC%EB%B2%84"
     }
-  ]
+  ],
+  "fci": {
+    "num": 111,
+    "name": "GOLDEN RETRIEVER",
+    "group": 8,
+    "section": "Retrievers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden%20Retriever%20Dukedestiny01%20drvd.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Golden_Retriever_Dukedestiny01_drvd.jpg"
+  }
 }
-

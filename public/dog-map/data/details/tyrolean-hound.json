@@ -1,0 +1,32 @@
+{
+  "summary": "티롤 지방의 산악 후각 사냥개입니다.",
+  "description": "'티롤러 브라케'라고도 하며, 켈트계 사냥개의 후손으로 설명됩니다. 고산 지대에서 토끼와 여우를 쫓습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: TYROLEAN HOUND (제68호)",
+      "url": "https://www.fci.be/en/nomenclature/TYROLEAN-HOUND-68.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/068g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Tyrolean Hound",
+      "url": "https://en.wikipedia.org/wiki/Tyrolean_Hound"
+    }
+  ],
+  "fci": {
+    "num": 68,
+    "name": "TYROLEAN HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "오스트리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiroler%20Bracke.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Tiroler_Bracke.jpg"
+  }
+}

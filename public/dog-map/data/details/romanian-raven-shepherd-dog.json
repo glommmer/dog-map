@@ -1,0 +1,32 @@
+{
+  "summary": "검은 털의 루마니아 보호견입니다.",
+  "description": "루마니아 아르제슈와 브라쇼브 등 남부·준카르파티아 지역의 가축 보호견입니다. FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ROMANIAN RAVEN SHEPHERD DOG (제373호)",
+      "url": "https://www.fci.be/en/nomenclature/ROMANIAN-RAVEN-SHEPHERD-DOG-373.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/373g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Romanian Raven Shepherd Dog",
+      "url": "https://en.wikipedia.org/wiki/Romanian_Raven_Shepherd_Dog"
+    }
+  ],
+  "fci": {
+    "num": 373,
+    "name": "ROMANIAN RAVEN SHEPHERD DOG",
+    "group": null,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "provisional",
+    "country": "루마니아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Romanianravencorb1.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Romanianravencorb1.jpg"
+  }
+}

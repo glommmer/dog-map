@@ -1,0 +1,40 @@
+{
+  "summary": "솜 같은 털의 마다가스카르 소형견입니다.",
+  "description": "마다가스카르의 항구 도시 툴레아르에서 이름을 얻었습니다. 난파선에서 섬으로 건너온 작은 흰 개의 후손이라는 이야기가 전해집니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: COTON DE TULEAR (제283호)",
+      "url": "https://www.fci.be/en/nomenclature/COTON-DE-TULEAR-283.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/283g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/coton-de-tulear/"
+    },
+    {
+      "label": "Wikipedia: Coton de Tulear",
+      "url": "https://en.wikipedia.org/wiki/Coton_de_Tulear"
+    },
+    {
+      "label": "위키백과: 코통 드 튈레아르",
+      "url": "https://ko.wikipedia.org/wiki/%EC%BD%94%ED%86%B5_%EB%93%9C_%ED%8A%88%EB%A0%88%EC%95%84%EB%A5%B4"
+    }
+  ],
+  "fci": {
+    "num": 283,
+    "name": "COTON DE TULEAR",
+    "group": 9,
+    "section": "Bichons and related breeds",
+    "sub": "Coton de Tuléar",
+    "status": "definitive",
+    "country": "마다가스카르"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Coton%20de%20Tular%202.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Coton_de_Tular_2.jpg"
+  }
+}

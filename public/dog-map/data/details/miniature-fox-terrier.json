@@ -1,0 +1,15 @@
+{
+  "summary": "호주의 소형 작업 테리어입니다.",
+  "description": "현지에서 '미니 폭시'라고 합니다. 사냥개와 쥐 잡이 개로 개발되었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Miniature Fox Terrier",
+      "url": "https://en.wikipedia.org/wiki/Miniature_Fox_Terrier"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Miniature%20Fox%20Terrier.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Miniature_Fox_Terrier.jpg"
+  }
+}

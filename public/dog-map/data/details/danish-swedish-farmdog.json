@@ -1,0 +1,36 @@
+{
+  "summary": "농장을 돌보던 북유럽 소형견입니다.",
+  "description": "덴마크와 스웨덴 남부 농가에서 쥐를 잡고 집을 지켰습니다. 역사적으로 '대니시 핀셔'로 불렸습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: DANISH-SWEDISH FARMDOG (제356호)",
+      "url": "https://www.fci.be/en/nomenclature/DANISH-SWEDISH-FARMDOG-356.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/356g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/danish-swedish-farmdog/"
+    },
+    {
+      "label": "Wikipedia: Danish–Swedish Farmdog",
+      "url": "https://en.wikipedia.org/wiki/Danish%E2%80%93Swedish_Farmdog"
+    }
+  ],
+  "fci": {
+    "num": 356,
+    "name": "DANISH-SWEDISH FARMDOG",
+    "group": 2,
+    "section": "Pinscher and Schnauzer type",
+    "sub": "Pinscher",
+    "status": "definitive",
+    "country": "덴마크·스웨덴"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Danish%20Swedish%20Farmdog%20cropped.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Danish_Swedish_Farmdog_cropped.jpg"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "검정·황갈색 털의 슬로바키아 사냥개입니다.",
+  "description": "사슴 추적과 멧돼지 사냥에 쓰이는 중형 후각 사냥개입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SLOVAKIAN HOUND (제244호)",
+      "url": "https://www.fci.be/en/nomenclature/SLOVAKIAN-HOUND-244.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/244g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/slovensky-kopov/"
+    },
+    {
+      "label": "Wikipedia: Slovenský kopov",
+      "url": "https://en.wikipedia.org/wiki/Slovensk%C3%BD_kopov"
+    }
+  ],
+  "fci": {
+    "num": 244,
+    "name": "SLOVAKIAN HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "슬로바키아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/MVP%20Nitra%202004%20(8).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:MVP_Nitra_2004_(8).jpg"
+  }
+}

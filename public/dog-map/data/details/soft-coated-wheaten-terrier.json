@@ -1,0 +1,36 @@
+{
+  "summary": "밀빛의 부드러운 털을 가진 아일랜드 테리어입니다.",
+  "description": "아일랜드 농가에서 쥐를 잡고 가축을 돌보며 여러 일을 했습니다. 이름의 휘튼은 밀 색깔의 털을 가리킵니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: IRISH SOFT COATED WHEATEN TERRIER (제40호)",
+      "url": "https://www.fci.be/en/nomenclature/IRISH-SOFT-COATED-WHEATEN-TERRIER-40.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/040g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/soft-coated-wheaten-terrier/"
+    },
+    {
+      "label": "Wikipedia: Soft-coated Wheaten Terrier",
+      "url": "https://en.wikipedia.org/wiki/Soft-coated_Wheaten_Terrier"
+    }
+  ],
+  "fci": {
+    "num": 40,
+    "name": "IRISH SOFT COATED WHEATEN TERRIER",
+    "group": 3,
+    "section": "Large and medium sized Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "아일랜드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Soft%20Coated%20Wheaten%20Terrier%20600.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Soft_Coated_Wheaten_Terrier_600.jpg"
+  }
+}

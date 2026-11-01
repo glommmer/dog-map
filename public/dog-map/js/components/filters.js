@@ -1,11 +1,21 @@
-// 필터 팝오버: 그룹, 크기, 믹스견만 보기.
+// 필터 팝오버: 그룹, 크기, 대륙, 공인 기관, 믹스견만 보기.
 import { escapeHtml, groupColor } from './marker.js';
 
-export function createFilters(root, { breeds, taxonomy, onChange }) {
-  const state = { groups: new Set(), sizes: new Set(), mixOnly: false };
+/** 견종이 어떤 공인 분류에 드는지 */
+const RECOGNITION = {
+  fci: (b) => b.fci && !b.prov,
+  prov: (b) => b.fci && b.prov,
+  akc: (b) => b.akc,
+  other: (b) => !b.fci && !b.akc && !b.mix,
+};
+
+export function createFilters(root, { breeds, countries, taxonomy, onChange }) {
+  const state = { groups: new Set(), sizes: new Set(), continents: new Set(), recognition: new Set(), mixOnly: false };
   const countBy = (key) => breeds.reduce((m, b) => m.set(b[key], (m.get(b[key]) ?? 0) + 1), new Map());
   const groupCounts = countBy('group');
   const sizeCounts = countBy('size');
+  const continentOf = (b) => countries[b.country].continent;
+  const continentCounts = breeds.reduce((m, b) => m.set(continentOf(b), (m.get(continentOf(b)) ?? 0) + 1), new Map());
 
   root.innerHTML = `
     <button type="button" class="icon-btn" aria-label="필터 열기" aria-expanded="false" aria-controls="filter-pop">
@@ -24,6 +34,16 @@ export function createFilters(root, { breeds, taxonomy, onChange }) {
       <div class="chips" data-chips="sizes">
         ${Object.entries(taxonomy.sizes).map(([key, s]) => `
           <button type="button" class="chip" data-value="${key}" aria-pressed="false">${escapeHtml(s.ko)}<span class="chip__n">${sizeCounts.get(key) ?? 0}</span></button>`).join('')}
+      </div>
+      <p class="filters__title">대륙</p>
+      <div class="chips" data-chips="continents">
+        ${Object.entries(taxonomy.continents).map(([key, c]) => `
+          <button type="button" class="chip" data-value="${key}" aria-pressed="false">${escapeHtml(c.ko)}<span class="chip__n">${continentCounts.get(key) ?? 0}</span></button>`).join('')}
+      </div>
+      <p class="filters__title">공인 기관</p>
+      <div class="chips" data-chips="recognition">
+        ${Object.entries(taxonomy.recognition).map(([key, r]) => `
+          <button type="button" class="chip" data-value="${key}" aria-pressed="false">${escapeHtml(r.ko)}<span class="chip__n">${breeds.filter(RECOGNITION[key]).length}</span></button>`).join('')}
       </div>
       <p class="filters__title">종류</p>
       <div class="chips">
@@ -45,12 +65,14 @@ export function createFilters(root, { breeds, taxonomy, onChange }) {
   const matches = (b) =>
     (!state.groups.size || state.groups.has(b.group))
     && (!state.sizes.size || state.sizes.has(b.size))
+    && (!state.continents.size || state.continents.has(continentOf(b)))
+    && (!state.recognition.size || [...state.recognition].some((key) => RECOGNITION[key](b)))
     && (!state.mixOnly || b.mix);
 
   function apply() {
     const active = breeds.filter(matches);
     root.querySelector('[data-count]').textContent = `${breeds.length}종 중 ${active.length}종 표시`;
-    const n = state.groups.size + state.sizes.size + (state.mixOnly ? 1 : 0);
+    const n = state.groups.size + state.sizes.size + state.continents.size + state.recognition.size + (state.mixOnly ? 1 : 0);
     badge.hidden = !n;
     badge.textContent = n;
     toggle.setAttribute('aria-label', n ? `필터 열기, ${n}개 적용 중` : '필터 열기');
@@ -81,6 +103,8 @@ export function createFilters(root, { breeds, taxonomy, onChange }) {
     } else if (e.target.closest('[data-reset]')) {
       state.groups.clear();
       state.sizes.clear();
+      state.continents.clear();
+      state.recognition.clear();
       state.mixOnly = false;
       apply();
     }

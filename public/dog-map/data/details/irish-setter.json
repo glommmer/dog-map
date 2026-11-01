@@ -1,0 +1,40 @@
+{
+  "summary": "진한 적갈색 털의 아일랜드 세터입니다.",
+  "description": "아일랜드 원산 조렵견으로, 윤기 있는 붉은 털로 가장 잘 알려진 세터입니다. 오늘날에는 쇼독과 가정견으로도 인기가 많습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: IRISH RED SETTER (제120호)",
+      "url": "https://www.fci.be/en/nomenclature/IRISH-RED-SETTER-120.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/120g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/irish-setter/"
+    },
+    {
+      "label": "Wikipedia: Irish Setter",
+      "url": "https://en.wikipedia.org/wiki/Irish_Setter"
+    },
+    {
+      "label": "위키백과: 아이리시 세터",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EB%A6%AC%EC%8B%9C_%EC%84%B8%ED%84%B0"
+    }
+  ],
+  "fci": {
+    "num": 120,
+    "name": "IRISH RED SETTER",
+    "group": 7,
+    "section": "British and Irish Pointers and Setters",
+    "sub": "Setter",
+    "status": "definitive",
+    "country": "아일랜드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Can%20Setter%20dog%20GFDL.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Can_Setter_dog_GFDL.jpg"
+  }
+}

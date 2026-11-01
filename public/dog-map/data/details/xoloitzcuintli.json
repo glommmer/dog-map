@@ -4,10 +4,37 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: XOLOITZCUINTLE (제234호)",
+      "url": "https://www.fci.be/en/nomenclature/XOLOITZCUINTLE-234.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/234g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/xoloitzcuintli/"
+    },
+    {
+      "label": "Wikipedia: Xoloitzcuintle",
+      "url": "https://en.wikipedia.org/wiki/Xoloitzcuintle"
+    },
+    {
+      "label": "위키백과: 숄로이츠퀸틀",
+      "url": "https://ko.wikipedia.org/wiki/%EC%88%84%EB%A1%9C%EC%9D%B4%EC%B8%A0%ED%80%B8%ED%8B%80"
     }
-  ]
+  ],
+  "fci": {
+    "num": 234,
+    "name": "XOLOITZCUINTLE",
+    "group": 5,
+    "section": "Primitive type",
+    "sub": "",
+    "status": "definitive",
+    "country": "멕시코"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/XoloLarge1.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:XoloLarge1.jpg"
+  }
 }
-

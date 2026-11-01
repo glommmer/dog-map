@@ -4,10 +4,37 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: MALTESE (제65호)",
+      "url": "https://www.fci.be/en/nomenclature/MALTESE-65.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/065g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/maltese/"
+    },
+    {
+      "label": "Wikipedia: Maltese dog",
+      "url": "https://en.wikipedia.org/wiki/Maltese_dog"
+    },
+    {
+      "label": "위키백과: 말티즈",
+      "url": "https://ko.wikipedia.org/wiki/%EB%A7%90%ED%8B%B0%EC%A6%88"
     }
-  ]
+  ],
+  "fci": {
+    "num": 65,
+    "name": "MALTESE",
+    "group": 9,
+    "section": "Bichons and related breeds",
+    "sub": "Bichons",
+    "status": "definitive",
+    "country": "지중해 중부"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Maltezer%20Vereniging%20Belgie.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Maltezer_Vereniging_Belgie.jpg"
+  }
 }
-

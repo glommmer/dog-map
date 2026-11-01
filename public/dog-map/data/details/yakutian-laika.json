@@ -1,0 +1,40 @@
+{
+  "summary": "야쿠트 사람들의 썰매 라이카입니다.",
+  "description": "사하 공화국의 야쿠트 사람들이 썰매 끌기와 사냥, 순록 몰이에 썼습니다. FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: YAKUTIAN LAIKA (제365호)",
+      "url": "https://www.fci.be/en/nomenclature/YAKUTIAN-LAIKA-365.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/365g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/yakutian-laika/"
+    },
+    {
+      "label": "Wikipedia: Yakutian Laika",
+      "url": "https://en.wikipedia.org/wiki/Yakutian_Laika"
+    },
+    {
+      "label": "위키백과: 유쿠시안 라이카",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%BF%A0%EC%8B%9C%EC%95%88_%EB%9D%BC%EC%9D%B4%EC%B9%B4"
+    }
+  ],
+  "fci": {
+    "num": 365,
+    "name": "YAKUTIAN LAIKA",
+    "group": null,
+    "section": "Nordic Sledge Dogs",
+    "sub": "",
+    "status": "provisional",
+    "country": "러시아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/618736210a13.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:618736210a13.jpg"
+  }
+}

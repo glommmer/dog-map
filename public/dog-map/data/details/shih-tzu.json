@@ -4,10 +4,37 @@
   "origin_note": "티베트에 뿌리를 두고 있으며, 중국 황실에서 발전한 견종으로 설명됩니다.",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: SHIH TZU (제208호)",
+      "url": "https://www.fci.be/en/nomenclature/SHIH-TZU-208.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/208g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/shih-tzu/"
+    },
+    {
+      "label": "Wikipedia: Shih Tzu",
+      "url": "https://en.wikipedia.org/wiki/Shih_Tzu"
+    },
+    {
+      "label": "위키백과: 시추",
+      "url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EC%B6%94"
     }
-  ]
+  ],
+  "fci": {
+    "num": 208,
+    "name": "SHIH TZU",
+    "group": 9,
+    "section": "Tibetan breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "티베트(중국)"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Shih%20Tzu%20portrait%20show%20dog.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Shih_Tzu_portrait_show_dog.jpg"
+  }
 }
-

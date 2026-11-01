@@ -9,6 +9,8 @@ import { createPanel } from './components/panel.js';
 import { createSearch } from './components/search.js';
 import { createFilters } from './components/filters.js';
 import { createLegend } from './components/legend.js';
+import { createBrowse } from './components/browse.js';
+import { createFavorites } from './data/favorites.js';
 import { paintStars } from './stars.js';
 
 const SELECT_SCALE = 2600;
@@ -31,6 +33,8 @@ async function start() {
 
   const { breeds, countries, places, taxonomy } = startup;
   const breedsById = new Map(breeds.map((b) => [b.id, b]));
+  const favorites = createFavorites();
+  $('breed-count').textContent = `세계 견종 ${breeds.length}종이 태어난 곳`;
 
   const globe = createGlobe({
     stage: $('stage'),
@@ -144,22 +148,46 @@ async function start() {
     globe.flyTo({ lng: center[0], lat: center[1], k: globe.kForScale(Math.max(fit, SCALE_COUNTRY * 1.2)) });
   }
 
+  async function share(breed) {
+    const url = new URL(location.href);
+    url.searchParams.set('breed', breed.id);
+    try {
+      await navigator.clipboard.writeText(url.href);
+      announce('링크를 복사했습니다.');
+    } catch {
+      announce('링크를 복사하지 못했습니다. 주소창의 주소를 이용해 주세요.');
+    }
+  }
+
   const panel = createPanel($('panel'), {
+    breeds,
     breedsById,
     countries,
     taxonomy,
+    favorites,
     onClose: () => deselect(),
     onNavigate: (id) => select(breedsById.get(id)),
     onSheetChange: () => {},
+    onShare: share,
   });
 
-  createSearch($('search'), { breeds, onChoose: (b) => select(b) });
+  createSearch($('search'), { breeds, countries, onChoose: (b) => select(b) });
 
+  const browse = createBrowse($('browse'), {
+    countries,
+    favorites,
+    onChoose: (id) => select(breedsById.get(id)),
+  });
+
+  let activeBreeds = breeds;
   const filters = createFilters($('filters'), {
     breeds,
+    countries,
     taxonomy,
     onChange(active) {
+      activeBreeds = active;
       semantic.setActive(active);
+      browse.setActive(active);
       globe.invalidate();
       if (!active.length) announce('조건에 맞는 견종이 없습니다.');
     },
@@ -167,6 +195,12 @@ async function start() {
   const legend = createLegend($('legend'), { taxonomy });
 
   // ─── 컨트롤 ───
+  /** 지금 필터 안에서 하나를 고르되, 방금 보던 견종은 피한다 */
+  $('random').addEventListener('click', () => {
+    const pool = activeBreeds.filter((b) => b !== selected);
+    if (pool.length) select(pool[Math.floor(Math.random() * pool.length)]);
+    else announce('조건에 맞는 견종이 없습니다.');
+  });
   $('zoom-in').addEventListener('click', () => globe.zoomBy(1.7));
   $('zoom-out').addEventListener('click', () => globe.zoomBy(1 / 1.7));
   $('zoom-reset').addEventListener('click', () => globe.reset(panel.insets()));
@@ -179,6 +213,7 @@ async function start() {
   addEventListener('keydown', (e) => {
     if (e.key !== 'Escape') return;
     if (filters.isOpen()) filters.close();
+    else if (browse.isOpen()) browse.close();
     else if (legend.isOpen()) legend.close();
     else deselect();
   });

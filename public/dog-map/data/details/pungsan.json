@@ -1,0 +1,19 @@
+{
+  "summary": "개마고원의 흰 사냥개입니다.",
+  "description": "현재 북한 지역인 개마고원 풍산에서 맹수 사냥에 쓰이던 토종개입니다. 희고 두꺼운 털과 말린 꼬리를 가지며, 북한의 천연기념물로 지정되어 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Pungsan dog",
+      "url": "https://en.wikipedia.org/wiki/Pungsan_dog"
+    },
+    {
+      "label": "위키백과: 풍산개",
+      "url": "https://ko.wikipedia.org/wiki/%ED%92%8D%EC%82%B0%EA%B0%9C"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Poongsandogs.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Poongsandogs.JPG"
+  }
+}

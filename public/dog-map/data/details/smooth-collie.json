@@ -1,0 +1,40 @@
+{
+  "summary": "짧은 털의 콜리입니다.",
+  "description": "러프 콜리의 단모 유형으로, 일부 단체는 같은 견종의 변종으로 봅니다. 양치기 개로 개발되었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: COLLIE SMOOTH (제296호)",
+      "url": "https://www.fci.be/en/nomenclature/COLLIE-SMOOTH-296.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/296g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/collie/"
+    },
+    {
+      "label": "Wikipedia: Smooth Collie",
+      "url": "https://en.wikipedia.org/wiki/Smooth_Collie"
+    },
+    {
+      "label": "위키백과: 스무스 콜리",
+      "url": "https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%AC%B4%EC%8A%A4_%EC%BD%9C%EB%A6%AC"
+    }
+  ],
+  "fci": {
+    "num": 296,
+    "name": "COLLIE SMOOTH",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Smooth%20Collie%20600.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Smooth_Collie_600.jpg"
+  }
+}

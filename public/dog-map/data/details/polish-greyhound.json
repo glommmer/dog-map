@@ -1,0 +1,32 @@
+{
+  "summary": "폴란드의 전통 시각 사냥개입니다.",
+  "description": "이름과 달리 영국 그레이하운드의 직계 친척은 아닙니다. 폴란드어로 '하르트 폴스키'라 합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: POLISH GREYHOUND (제333호)",
+      "url": "https://www.fci.be/en/nomenclature/POLISH-GREYHOUND-333.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/333g10-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Polish Greyhound",
+      "url": "https://en.wikipedia.org/wiki/Polish_Greyhound"
+    }
+  ],
+  "fci": {
+    "num": 333,
+    "name": "POLISH GREYHOUND",
+    "group": 10,
+    "section": "Short-haired Sighthounds",
+    "sub": "",
+    "status": "definitive",
+    "country": "폴란드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Chart%20polski%2067u7.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Chart_polski_67u7.jpg"
+  }
+}

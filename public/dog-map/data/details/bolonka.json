@@ -1,0 +1,19 @@
+{
+  "summary": "색깔 있는 러시아 비숑 소형견입니다.",
+  "description": "비숑 프리제, 토이 푸들, 시추 등을 바탕으로 모스크바와 상트페테르부르크에서 개발된 희귀 토이 품종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/russian-tsvetnaya-bolonka/"
+    },
+    {
+      "label": "Wikipedia: Bolonka",
+      "url": "https://en.wikipedia.org/wiki/Bolonka"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Irsika.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Irsika.jpg"
+  }
+}

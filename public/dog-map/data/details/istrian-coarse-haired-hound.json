@@ -1,0 +1,32 @@
+{
+  "summary": "거친 털의 이스트라 사냥개입니다.",
+  "description": "크로아티아의 거친 털 후각 사냥개입니다. 반려견보다 사냥개로 주로 길러집니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ISTRIAN WIRE-HAIRED HOUND (제152호)",
+      "url": "https://www.fci.be/en/nomenclature/ISTRIAN-WIRE-HAIRED-HOUND-152.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/152g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Istrian Coarse-haired Hound",
+      "url": "https://en.wikipedia.org/wiki/Istrian_Coarse-haired_Hound"
+    }
+  ],
+  "fci": {
+    "num": 152,
+    "name": "ISTRIAN WIRE-HAIRED HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "크로아티아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Istrian%20hound2.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Istrian_hound2.jpg"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "찾고 가리키고 회수하는 독일 만능 조렵견입니다.",
+  "description": "뮌스터 주변에서 현재 모습을 갖추었습니다. 이름과 달리 라지 뮌스터랜더의 소형판이 아니라 별개 계통입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: KLEINER MÜNSTERLÄNDER (제102호)",
+      "url": "https://www.fci.be/en/nomenclature/KLEINER-MUNSTERLANDER-102.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/102g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/small-munsterlander/"
+    },
+    {
+      "label": "Wikipedia: Small Münsterländer",
+      "url": "https://en.wikipedia.org/wiki/Small_M%C3%BCnsterl%C3%A4nder"
+    }
+  ],
+  "fci": {
+    "num": 102,
+    "name": "KLEINER MÜNSTERLÄNDER",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "Spaniel Type",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleiner%20Munsterlander%20edit.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Kleiner_Munsterlander_edit.jpg"
+  }
+}

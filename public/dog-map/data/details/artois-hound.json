@@ -1,0 +1,32 @@
+{
+  "summary": "프랑스 북부의 희귀한 무리 사냥개입니다.",
+  "description": "샤 다르투아라고도 하며, 프랑스 북부에서 무리 사냥용으로 개량되었습니다. 오늘날 개체 수가 적은 희귀 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ARTOIS HOUND (제28호)",
+      "url": "https://www.fci.be/en/nomenclature/ARTOIS-HOUND-28.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/028g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Artois Hound",
+      "url": "https://en.wikipedia.org/wiki/Artois_Hound"
+    }
+  ],
+  "fci": {
+    "num": 28,
+    "name": "ARTOIS HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Artois%20from%201915.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Artois_from_1915.JPG"
+  }
+}

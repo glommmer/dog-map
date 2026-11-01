@@ -1,0 +1,40 @@
+{
+  "summary": "호랑이 무늬의 일본 토종견입니다.",
+  "description": "'도라이누(호랑이 개)'라고도 합니다. 야마나시현 카이 지방의 산악 사냥개이며 일본 천연기념물입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: KAI (제317호)",
+      "url": "https://www.fci.be/en/nomenclature/KAI-317.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/317g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/kai-ken/"
+    },
+    {
+      "label": "Wikipedia: Kai Ken",
+      "url": "https://en.wikipedia.org/wiki/Kai_Ken"
+    },
+    {
+      "label": "위키백과: 카이켄",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%9D%B4%EC%BC%84"
+    }
+  ],
+  "fci": {
+    "num": 317,
+    "name": "KAI",
+    "group": 5,
+    "section": "Asian Spitz and related breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "일본"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Image%20of%20Kai%20(dog).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Image_of_Kai_(dog).jpg"
+  }
+}

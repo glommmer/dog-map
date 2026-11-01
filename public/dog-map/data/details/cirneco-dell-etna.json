@@ -1,0 +1,36 @@
+{
+  "summary": "화산 기슭에서 토끼를 사냥하는 시칠리아 개입니다.",
+  "description": "이름은 에트나 화산에서 왔습니다. 시칠리아 섬의 사냥개로, 후각이 뛰어나고 토끼 사냥에 쓰입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CIRNECO DELL'ETNA (제199호)",
+      "url": "https://www.fci.be/en/nomenclature/CIRNECO-DELL-ETNA-199.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/199g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/cirneco-delletna/"
+    },
+    {
+      "label": "Wikipedia: Cirneco dell'Etna",
+      "url": "https://en.wikipedia.org/wiki/Cirneco_dell'Etna"
+    }
+  ],
+  "fci": {
+    "num": 199,
+    "name": "CIRNECO DELL'ETNA",
+    "group": 5,
+    "section": "Primitive type - Hunting Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "이탈리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cirneco%20dell%20Etna%20611.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Cirneco_dell_Etna_611.jpg"
+  }
+}

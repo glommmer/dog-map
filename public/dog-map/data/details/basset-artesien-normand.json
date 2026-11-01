@@ -1,0 +1,32 @@
+{
+  "summary": "매끈한 털의 프랑스 바셋 사냥개입니다.",
+  "description": "'바세'는 다리가 짧은 사냥개를 뜻합니다. 프랑스 북부에서 개량되었으며, 영국 바셋 하운드의 조상 가운데 하나로 설명됩니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: NORMAN ARTESIEN BASSET (제34호)",
+      "url": "https://www.fci.be/en/nomenclature/NORMAN-ARTESIEN-BASSET-34.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/034g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Basset Artésien Normand",
+      "url": "https://en.wikipedia.org/wiki/Basset_Art%C3%A9sien_Normand"
+    }
+  ],
+  "fci": {
+    "num": 34,
+    "name": "NORMAN ARTESIEN BASSET",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Small-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Grupp%206%20BASSET%20ART%C3%89SIEN%20NORMAND,%20Skogvaktarens%20Queen%20Sally%20(24180074612).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Grupp_6_BASSET_ART%C3%89SIEN_NORMAND,_Skogvaktarens_Queen_Sally_(24180074612).jpg"
+  }
+}

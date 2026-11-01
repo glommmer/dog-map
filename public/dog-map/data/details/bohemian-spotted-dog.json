@@ -1,0 +1,15 @@
+{
+  "summary": "실험견에서 반려견이 된 체코 개입니다.",
+  "description": "1950년대 프라하의 프란티셰크 호라크가 실험용으로 개발했으나, 지금은 주로 반려견입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Bohemian Spotted Dog",
+      "url": "https://en.wikipedia.org/wiki/Bohemian_Spotted_Dog"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bohemian%20Spotted%20Dog.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Bohemian_Spotted_Dog.jpg"
+  }
+}

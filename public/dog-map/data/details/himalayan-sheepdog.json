@@ -1,0 +1,15 @@
+{
+  "summary": "히말라야의 가축 보호견입니다.",
+  "description": "현지에서 보테 쿠쿠르, 가디 쿠타 등으로 불립니다. 네팔과 인도의 히말라야 기슭에서 가축을 지킵니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Himalayan Sheepdog",
+      "url": "https://en.wikipedia.org/wiki/Himalayan_Sheepdog"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Himalayan%20sheepdog2.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Himalayan_sheepdog2.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "summary": "궁정에서 사랑받은 작은 시각 사냥개입니다.",
+  "description": "토끼 사냥을 위해 길러졌으나 지금은 대부분 반려견입니다. 고대 지중해의 소형 사냥개에서 유래했다고 전해집니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ITALIAN SIGHTHOUND (제200호)",
+      "url": "https://www.fci.be/en/nomenclature/ITALIAN-SIGHTHOUND-200.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/200g10-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/italian-greyhound/"
+    },
+    {
+      "label": "Wikipedia: Italian Greyhound",
+      "url": "https://en.wikipedia.org/wiki/Italian_Greyhound"
+    },
+    {
+      "label": "위키백과: 이탈리안 그레이하운드",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%88_%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%95%98%EC%9A%B4%EB%93%9C"
+    }
+  ],
+  "fci": {
+    "num": 200,
+    "name": "ITALIAN SIGHTHOUND",
+    "group": 10,
+    "section": "Short-haired Sighthounds",
+    "sub": "",
+    "status": "definitive",
+    "country": "이탈리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Charciki%20W%C5%82oskie,%20doros%C5%82y%20i%20szczeniak.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Charciki_W%C5%82oskie,_doros%C5%82y_i_szczeniak.jpg"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "summary": "뉴햄프셔의 희귀 썰매개입니다.",
+  "description": "20세기 초 뉴햄프셔에서 만들어진 썰매개로, 주의 공식 견입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/chinook/"
+    },
+    {
+      "label": "Wikipedia: Chinook (dog breed)",
+      "url": "https://en.wikipedia.org/wiki/Chinook_(dog_breed)"
+    },
+    {
+      "label": "위키백과: 치누크 (개 품종)",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B9%98%EB%88%84%ED%81%AC_(%EA%B0%9C_%ED%92%88%EC%A2%85)"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mountan%20Laurel%20Ajax%20the%20Chinook%20dog.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Mountan_Laurel_Ajax_the_Chinook_dog.jpg"
+  }
+}

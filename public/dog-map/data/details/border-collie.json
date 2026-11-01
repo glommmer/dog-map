@@ -4,10 +4,37 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: BORDER COLLIE (제297호)",
+      "url": "https://www.fci.be/en/nomenclature/BORDER-COLLIE-297.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/297g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/border-collie/"
+    },
+    {
+      "label": "Wikipedia: Border Collie",
+      "url": "https://en.wikipedia.org/wiki/Border_Collie"
+    },
+    {
+      "label": "위키백과: 보더 콜리",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EB%8D%94_%EC%BD%9C%EB%A6%AC"
     }
-  ]
+  ],
+  "fci": {
+    "num": 297,
+    "name": "BORDER COLLIE",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Argentine%20border%20collie.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Argentine_border_collie.jpg"
+  }
 }
-

@@ -1,0 +1,32 @@
+{
+  "summary": "삼색 털의 프랑스 무리 사냥개입니다.",
+  "description": "프랑스의 대형 후각 사냥개로, 무리 사냥에 쓰입니다. 포아트뱅과 영국계 혈통이 뿌리로 설명됩니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: FRENCH TRICOLOUR HOUND (제219호)",
+      "url": "https://www.fci.be/en/nomenclature/FRENCH-TRICOLOUR-HOUND-219.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/219g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Chien Français Tricolore",
+      "url": "https://en.wikipedia.org/wiki/Chien_Fran%C3%A7ais_Tricolore"
+    }
+  ],
+  "fci": {
+    "num": 219,
+    "name": "FRENCH TRICOLOUR HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Anglo-Fran%C3%A7ais%20Tricolore.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Grand_Anglo-Fran%C3%A7ais_Tricolore.jpg"
+  }
+}

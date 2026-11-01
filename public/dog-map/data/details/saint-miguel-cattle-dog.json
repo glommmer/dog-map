@@ -1,0 +1,32 @@
+{
+  "summary": "아소르스 제도의 소몰이 개입니다.",
+  "description": "포르투갈령 아소르스 제도 상미겔섬에서 소를 몰고 지키는 호랑이 무늬의 작업견입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SAINT MIGUEL CATTLE DOG (제340호)",
+      "url": "https://www.fci.be/en/nomenclature/SAINT-MIGUEL-CATTLE-DOG-340.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/340g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Saint Miguel Cattle Dog",
+      "url": "https://en.wikipedia.org/wiki/Saint_Miguel_Cattle_Dog"
+    }
+  ],
+  "fci": {
+    "num": 340,
+    "name": "SAINT MIGUEL CATTLE DOG",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "definitive",
+    "country": "포르투갈"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Caofila.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Caofila.jpg"
+  }
+}

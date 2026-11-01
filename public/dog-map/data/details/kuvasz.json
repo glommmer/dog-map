@@ -1,0 +1,36 @@
+{
+  "summary": "왕실 경비견이기도 했던 헝가리의 흰 대형견입니다.",
+  "description": "옛 헝가리 문헌에도 언급되는 가축 보호견으로, 귀족 영지의 경비견으로도 쓰였습니다. 흰 이중모를 가집니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: KUVASZ (제54호)",
+      "url": "https://www.fci.be/en/nomenclature/KUVASZ-54.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/054g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/kuvasz/"
+    },
+    {
+      "label": "Wikipedia: Kuvasz",
+      "url": "https://en.wikipedia.org/wiki/Kuvasz"
+    }
+  ],
+  "fci": {
+    "num": 54,
+    "name": "KUVASZ",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "헝가리"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/2-kuvasz.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:2-kuvasz.jpg"
+  }
+}

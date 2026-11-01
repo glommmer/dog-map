@@ -1,0 +1,19 @@
+{
+  "summary": "조지아에서 이어진 희귀 불도그입니다.",
+  "description": "미국의 불도그 품종으로, 주로 경비용입니다. 큰 머리와 짧은 코가 특징입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Alapaha Blue Blood Bulldog",
+      "url": "https://en.wikipedia.org/wiki/Alapaha_Blue_Blood_Bulldog"
+    },
+    {
+      "label": "위키백과: 알파하블루블러드불독",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%8C%ED%8C%8C%ED%95%98%EB%B8%94%EB%A3%A8%EB%B8%94%EB%9F%AC%EB%93%9C%EB%B6%88%EB%8F%85"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Alapaha%20blue%20blood%20bulldog2.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Alapaha_blue_blood_bulldog2.jpg"
+  }
+}

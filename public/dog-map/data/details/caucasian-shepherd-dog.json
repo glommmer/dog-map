@@ -1,0 +1,40 @@
+{
+  "summary": "캅카스의 대형 가축 보호견입니다.",
+  "description": "조지아, 아르메니아, 아제르바이잔, 다게스탄 등 캅카스 일대의 토착 보호견입니다. FCI 원산국은 러시아입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CAUCASIAN SHEPHERD DOG (제328호)",
+      "url": "https://www.fci.be/en/nomenclature/CAUCASIAN-SHEPHERD-DOG-328.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/328g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/caucasian-shepherd-dog/"
+    },
+    {
+      "label": "Wikipedia: Caucasian Shepherd Dog",
+      "url": "https://en.wikipedia.org/wiki/Caucasian_Shepherd_Dog"
+    },
+    {
+      "label": "위키백과: 코카시안 셰퍼드 도그",
+      "url": "https://ko.wikipedia.org/wiki/%EC%BD%94%EC%B9%B4%EC%8B%9C%EC%95%88_%EC%85%B0%ED%8D%BC%EB%93%9C_%EB%8F%84%EA%B7%B8"
+    }
+  ],
+  "fci": {
+    "num": 328,
+    "name": "CAUCASIAN SHEPHERD DOG",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "러시아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Owczarek%20kaukaski%2065556.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Owczarek_kaukaski_65556.jpg"
+  }
+}

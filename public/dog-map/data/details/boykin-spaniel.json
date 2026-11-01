@@ -1,0 +1,19 @@
+{
+  "summary": "사우스캐롤라이나의 주견입니다.",
+  "description": "습지에서 야생 칠면조와 오리를 사냥하기 위해 20세기 초 개발되었습니다. 작은 보트에도 타기 좋은 크기입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/boykin-spaniel/"
+    },
+    {
+      "label": "Wikipedia: Boykin Spaniel",
+      "url": "https://en.wikipedia.org/wiki/Boykin_Spaniel"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Boykin%20Spaniel%20Relaxing2.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Boykin_Spaniel_Relaxing2.jpg"
+  }
+}

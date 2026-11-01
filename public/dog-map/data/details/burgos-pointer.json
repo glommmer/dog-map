@@ -1,0 +1,32 @@
+{
+  "summary": "카스티야 지방의 스페인 조렵견입니다.",
+  "description": "부르고스 지방을 중심으로 카스티야에서 유래한 포인터입니다. 튼튼한 체격을 지녔으며, 사슴과 조류 사냥에 쓰였습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BURGOS POINTING DOG (제90호)",
+      "url": "https://www.fci.be/en/nomenclature/BURGOS-POINTING-DOG-90.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/090g07-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Burgos Pointer",
+      "url": "https://en.wikipedia.org/wiki/Burgos_Pointer"
+    }
+  ],
+  "fci": {
+    "num": 90,
+    "name": "BURGOS POINTING DOG",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "«Braque»Type",
+    "status": "definitive",
+    "country": "스페인"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Burgos%20Pointer%20or%20Perdiguero%20de%20Burgos.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Burgos_Pointer_or_Perdiguero_de_Burgos.JPG"
+  }
+}

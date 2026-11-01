@@ -1,0 +1,40 @@
+{
+  "summary": "'래시'로 유명한 긴 털의 콜리입니다.",
+  "description": "스코틀랜드 목양견에서 비롯되었고, 영화와 드라마 〈래시〉로 세계적으로 알려졌습니다. 털 길이 외에는 스무스 콜리와 같은 체형입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: COLLIE ROUGH (제156호)",
+      "url": "https://www.fci.be/en/nomenclature/COLLIE-ROUGH-156.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/156g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/collie/"
+    },
+    {
+      "label": "Wikipedia: Rough Collie",
+      "url": "https://en.wikipedia.org/wiki/Rough_Collie"
+    },
+    {
+      "label": "위키백과: 러프 콜리",
+      "url": "https://ko.wikipedia.org/wiki/%EB%9F%AC%ED%94%84_%EC%BD%9C%EB%A6%AC"
+    }
+  ],
+  "fci": {
+    "num": 156,
+    "name": "COLLIE ROUGH",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rough%20Collie%20head.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Rough_Collie_head.jpg"
+  }
+}

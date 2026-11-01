@@ -1,0 +1,23 @@
+{
+  "summary": "농장에서 일하던 미국의 대형 불도그입니다.",
+  "description": "영국 식민지 시대에 건너온 조상이 소규모 농장과 목장에서 일하며 이어졌습니다. 근육질의 큰 체격을 지녔습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/american-bulldog/"
+    },
+    {
+      "label": "Wikipedia: American Bulldog",
+      "url": "https://en.wikipedia.org/wiki/American_Bulldog"
+    },
+    {
+      "label": "위키백과: 아메리칸 불독",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8_%EB%B6%88%EB%8F%85"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Warrior%20American%20Bulldog%20puppy.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Warrior_American_Bulldog_puppy.jpg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "summary": "검은 거친 털의 벨기에 소형견입니다.",
+  "description": "브뤼셀 그리펀과 같은 뿌리를 가진 FCI 인정 견종으로, 검정 또는 검정과 황갈색의 거친 털을 지닙니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GRIFFON BELGE (제81호)",
+      "url": "https://www.fci.be/en/nomenclature/GRIFFON-BELGE-81.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/081g09-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Griffon Bruxellois",
+      "url": "https://en.wikipedia.org/wiki/Griffon_Bruxellois"
+    },
+    {
+      "label": "위키백과: 브뤼셀 그리펀",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A4%BC%EC%85%80_%EA%B7%B8%EB%A6%AC%ED%8E%80"
+    }
+  ],
+  "fci": {
+    "num": 81,
+    "name": "GRIFFON BELGE",
+    "group": 9,
+    "section": "Small Belgian Dogs",
+    "sub": "Griffons",
+    "status": "definitive",
+    "country": "벨기에"
+  }
+}

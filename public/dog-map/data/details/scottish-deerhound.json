@@ -1,0 +1,40 @@
+{
+  "summary": "붉은사슴을 쫓던 스코틀랜드의 대형 사냥개입니다.",
+  "description": "그레이하운드와 닮았지만 더 크고 거친 털을 지녔습니다. 붉은사슴을 빠르게 쫓도록 길러졌습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: DEERHOUND (제164호)",
+      "url": "https://www.fci.be/en/nomenclature/DEERHOUND-164.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/164g10-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/scottish-deerhound/"
+    },
+    {
+      "label": "Wikipedia: Scottish Deerhound",
+      "url": "https://en.wikipedia.org/wiki/Scottish_Deerhound"
+    },
+    {
+      "label": "위키백과: 스코티시 디어하운드",
+      "url": "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%BD%94%ED%8B%B0%EC%8B%9C_%EB%94%94%EC%96%B4%ED%95%98%EC%9A%B4%EB%93%9C"
+    }
+  ],
+  "fci": {
+    "num": 164,
+    "name": "DEERHOUND",
+    "group": 10,
+    "section": "Rough-haired Sighthounds",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Grupp%2010,%20SKOTSK%20HJORTHUND,%20SEJV-12%20SE%20UCH%20Necesse%E2%80%99s%20Ars%20Amandi%20(23664806293).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Grupp_10,_SKOTSK_HJORTHUND,_SEJV-12_SE_UCH_Necesse%E2%80%99s_Ars_Amandi_(23664806293).jpg"
+  }
+}

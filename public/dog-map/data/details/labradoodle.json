@@ -4,10 +4,12 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "Wikipedia: Labradoodle",
+      "url": "https://en.wikipedia.org/wiki/Labradoodle"
     }
-  ]
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Labradoodle-Brown-Male-SideFace.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Labradoodle-Brown-Male-SideFace.jpg"
+  }
 }
-

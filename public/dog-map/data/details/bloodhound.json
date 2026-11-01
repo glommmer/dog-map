@@ -1,0 +1,40 @@
+{
+  "summary": "사람 추적으로 유명한 대형 후각 사냥개입니다.",
+  "description": "사슴과 멧돼지 사냥에 쓰였고, 중세부터 사람 추적에도 활용되었습니다. 벨기에 생튀베르 수도원의 사냥개 후손으로 여겨지며, FCI 원산국도 벨기에입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BLOODHOUND (제84호)",
+      "url": "https://www.fci.be/en/nomenclature/BLOODHOUND-84.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/084g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/bloodhound/"
+    },
+    {
+      "label": "Wikipedia: Bloodhound",
+      "url": "https://en.wikipedia.org/wiki/Bloodhound"
+    },
+    {
+      "label": "위키백과: 블러드하운드",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B8%94%EB%9F%AC%EB%93%9C%ED%95%98%EC%9A%B4%EB%93%9C"
+    }
+  ],
+  "fci": {
+    "num": 84,
+    "name": "BLOODHOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "벨기에"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Perro%20de%20San%20Huberto.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Perro_de_San_Huberto.jpg"
+  }
+}

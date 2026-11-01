@@ -1,0 +1,36 @@
+{
+  "summary": "머리털이 곱슬곱슬한 노르망디의 희귀 조렵견입니다.",
+  "description": "19세기 여러 물 스패니얼을 바탕으로 노르망디에서 만들어졌습니다. 오늘날 매우 드문 프랑스 조렵견입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: PONT-AUDEMER SPANIEL (제114호)",
+      "url": "https://www.fci.be/en/nomenclature/PONT-AUDEMER-SPANIEL-114.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/114g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/pont-audemer-spaniel/"
+    },
+    {
+      "label": "Wikipedia: Pont-Audemer Spaniel",
+      "url": "https://en.wikipedia.org/wiki/Pont-Audemer_Spaniel"
+    }
+  ],
+  "fci": {
+    "num": 114,
+    "name": "PONT-AUDEMER SPANIEL",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "Spaniel Type",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/04031158%20Epagneul%20Pont%20Audemer.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:04031158_Epagneul_Pont_Audemer.jpg"
+  }
+}

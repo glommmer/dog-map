@@ -4,10 +4,12 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "Wikipedia: Cockapoo",
+      "url": "https://en.wikipedia.org/wiki/Cockapoo"
     }
-  ]
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cockapoo_apricot_standing.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Cockapoo_apricot_standing.jpg"
+  }
 }
-

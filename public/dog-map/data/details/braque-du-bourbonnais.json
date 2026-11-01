@@ -1,0 +1,36 @@
+{
+  "summary": "짧은 꼬리로 태어나기도 하는 프랑스 조렵견입니다.",
+  "description": "점처럼 얼룩진 털을 지닌 부르보네 지방의 조렵견입니다. 짧은 꼬리를 타고나는 개체가 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BOURBONNAIS POINTING DOG (제179호)",
+      "url": "https://www.fci.be/en/nomenclature/BOURBONNAIS-POINTING-DOG-179.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/179g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/braque-du-bourbonnais/"
+    },
+    {
+      "label": "Wikipedia: Braque du Bourbonnais",
+      "url": "https://en.wikipedia.org/wiki/Braque_du_Bourbonnais"
+    }
+  ],
+  "fci": {
+    "num": 179,
+    "name": "BOURBONNAIS POINTING DOG",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "«Braque»Type",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Braque%20du%20Bourbonnais.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Braque_du_Bourbonnais.jpg"
+  }
+}

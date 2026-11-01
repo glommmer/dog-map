@@ -1,0 +1,40 @@
+{
+  "summary": "도베르만 축소판처럼 보이는 독일 소형견입니다.",
+  "description": "'츠베르크핀셔'라고도 하며, 도베르만을 닮았지만 더 오래된 별개의 품종입니다. 앞발을 높이 드는 걸음으로 유명합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: MINIATURE PINSCHER (제185호)",
+      "url": "https://www.fci.be/en/nomenclature/MINIATURE-PINSCHER-185.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/185g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/miniature-pinscher/"
+    },
+    {
+      "label": "Wikipedia: Miniature Pinscher",
+      "url": "https://en.wikipedia.org/wiki/Miniature_Pinscher"
+    },
+    {
+      "label": "위키백과: 미니어처 핀셔",
+      "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%8B%88%EC%96%B4%EC%B2%98_%ED%95%80%EC%85%94"
+    }
+  ],
+  "fci": {
+    "num": 185,
+    "name": "MINIATURE PINSCHER",
+    "group": 2,
+    "section": "Pinscher and Schnauzer type",
+    "sub": "Pinscher",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Zwergpinscher%20adult%20Ch.%20Mirzan%20del%20Piervez.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Zwergpinscher_adult_Ch._Mirzan_del_Piervez.jpg"
+  }
+}

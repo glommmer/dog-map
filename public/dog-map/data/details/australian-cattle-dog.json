@@ -4,10 +4,37 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: AUSTRALIAN CATTLE DOG (제287호)",
+      "url": "https://www.fci.be/en/nomenclature/AUSTRALIAN-CATTLE-DOG-287.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/287g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/australian-cattle-dog/"
+    },
+    {
+      "label": "Wikipedia: Australian Cattle Dog",
+      "url": "https://en.wikipedia.org/wiki/Australian_Cattle_Dog"
+    },
+    {
+      "label": "위키백과: 오스트레일리안 캐틀도그",
+      "url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%BC%EB%A6%AC%EC%95%88_%EC%BA%90%ED%8B%80%EB%8F%84%EA%B7%B8"
     }
-  ]
+  ],
+  "fci": {
+    "num": 287,
+    "name": "AUSTRALIAN CATTLE DOG",
+    "group": 1,
+    "section": "Cattledogs (except Swiss Cattledogs)",
+    "sub": "",
+    "status": "definitive",
+    "country": "호주"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/ACD-blue-spud.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:ACD-blue-spud.jpg"
+  }
 }
-

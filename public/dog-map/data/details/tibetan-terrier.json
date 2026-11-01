@@ -1,0 +1,40 @@
+{
+  "summary": "이름과 달리 테리어가 아닌 티베트의 개입니다.",
+  "description": "티베트에서 유래한 중형견으로, 테리어 그룹에 속하지 않습니다. 사원과 유목민 곁에서 지내던 개이며 영어 이름은 서양인이 붙였습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: TIBETAN TERRIER (제209호)",
+      "url": "https://www.fci.be/en/nomenclature/TIBETAN-TERRIER-209.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/209g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/tibetan-terrier/"
+    },
+    {
+      "label": "Wikipedia: Tibetan Terrier",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_Terrier"
+    },
+    {
+      "label": "위키백과: 티베탄 테리어",
+      "url": "https://ko.wikipedia.org/wiki/%ED%8B%B0%EB%B2%A0%ED%83%84_%ED%85%8C%EB%A6%AC%EC%96%B4"
+    }
+  ],
+  "fci": {
+    "num": 209,
+    "name": "TIBETAN TERRIER",
+    "group": 9,
+    "section": "Tibetan breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "티베트(중국)"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Tibetan%20Terrier%20Image%20001.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Tibetan_Terrier_Image_001.jpg"
+  }
+}

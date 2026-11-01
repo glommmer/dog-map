@@ -1,0 +1,32 @@
+{
+  "summary": "토끼 사냥에 특화된 이탈리아 소형 사냥개입니다.",
+  "description": "매끈한 털과 거친 털 유형이 있는 이탈리아 소형 후각 사냥개입니다. FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: APPENNINE HOUND - ITALIAN HARE-HUNTING DOG (제375호)",
+      "url": "https://www.fci.be/en/nomenclature/APPENNINE-HOUND-ITALIAN-HARE-HUNTING-DOG-375.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/375g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Segugio dell'Appennino",
+      "url": "https://en.wikipedia.org/wiki/Segugio_dell'Appennino"
+    }
+  ],
+  "fci": {
+    "num": 375,
+    "name": "APPENNINE HOUND - ITALIAN HARE-HUNTING DOG",
+    "group": null,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "provisional",
+    "country": "이탈리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Apenniinienajolk1.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Apenniinienajolk1.jpg"
+  }
+}

@@ -4,10 +4,12 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "Wikipedia: Goldendoodle",
+      "url": "https://en.wikipedia.org/wiki/Goldendoodle"
     }
-  ]
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden_Doodle_Standing_(HD).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Golden_Doodle_Standing_(HD).jpg"
+  }
 }
-

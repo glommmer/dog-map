@@ -1,0 +1,32 @@
+{
+  "summary": "19세기 노르웨이 브리더가 만든 사냥개입니다.",
+  "description": "19세기 후반 히겐이라는 브리더가 여러 사냥개를 교배해 만든 노르웨이 품종입니다. 추운 환경에서도 오래 사냥합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: HYGEN HOUND (제266호)",
+      "url": "https://www.fci.be/en/nomenclature/HYGEN-HOUND-266.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/266g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Hygen Hound",
+      "url": "https://en.wikipedia.org/wiki/Hygen_Hound"
+    }
+  ],
+  "fci": {
+    "num": 266,
+    "name": "HYGEN HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "노르웨이"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Norwegian%20Hygenhound.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Norwegian_Hygenhound.jpg"
+  }
+}

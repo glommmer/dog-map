@@ -1,0 +1,32 @@
+{
+  "summary": "흰 털의 셰퍼드입니다.",
+  "description": "저먼 셰퍼드의 흰 계통이 북미를 거쳐 유럽에서 독립 품종으로 인정받았습니다. FCI 원산국은 스위스입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: WHITE SWISS SHEPHERD DOG (제347호)",
+      "url": "https://www.fci.be/en/nomenclature/WHITE-SWISS-SHEPHERD-DOG-347.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/347g01-en.pdf"
+    },
+    {
+      "label": "Wikipedia: White Swiss Shepherd Dog",
+      "url": "https://en.wikipedia.org/wiki/White_Swiss_Shepherd_Dog"
+    }
+  ],
+  "fci": {
+    "num": 347,
+    "name": "WHITE SWISS SHEPHERD DOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "스위스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/WhiteShepherd.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:WhiteShepherd.jpg"
+  }
+}

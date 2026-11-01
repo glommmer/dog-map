@@ -1,0 +1,19 @@
+{
+  "summary": "쓰촨 지역의 강인한 전통 개입니다.",
+  "description": "중국 충칭 일대에서 사냥과 경비에 쓰인 토종 개입니다. 튼튼하고 충성심이 강한 경비견으로 평가됩니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Chongqing dog",
+      "url": "https://en.wikipedia.org/wiki/Chongqing_dog"
+    },
+    {
+      "label": "위키백과: 충칭견",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EC%B9%AD%EA%B2%AC"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinese%20Chongqing%20Dog%20H%C3%BCndin.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Chinese_Chongqing_Dog_H%C3%BCndin.jpg"
+  }
+}

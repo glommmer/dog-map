@@ -1,0 +1,32 @@
+{
+  "summary": "방데 지방의 중형 그리퐁 사냥개입니다.",
+  "description": "프랑스 방데에서 유래한 거친 털의 후각 사냥개입니다. FCI는 1954년에 이 견종을 인정했습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BRIQUET GRIFFON VENDEEN (제19호)",
+      "url": "https://www.fci.be/en/nomenclature/BRIQUET-GRIFFON-VENDEEN-19.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/019g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Briquet Griffon Vendéen",
+      "url": "https://en.wikipedia.org/wiki/Briquet_Griffon_Vend%C3%A9en"
+    }
+  ],
+  "fci": {
+    "num": 19,
+    "name": "BRIQUET GRIFFON VENDEEN",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Briquet%20Griffon%20Vendeen.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Briquet_Griffon_Vendeen.jpg"
+  }
+}

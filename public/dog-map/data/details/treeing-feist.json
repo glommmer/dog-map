@@ -1,0 +1,15 @@
+{
+  "summary": "다람쥐를 나무로 모는 소형견입니다.",
+  "description": "미국 남동부의 사냥개로, 트리잉 피스트와 마운틴 피스트는 UKC에서 별개로 인정됩니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Treeing Feist",
+      "url": "https://en.wikipedia.org/wiki/Treeing_Feist"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Young%27s_Atomic_Flash.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Young%27s_Atomic_Flash.jpg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "summary": "다친 사슴을 찾는 알프스 사냥개입니다.",
+  "description": "사슴과 멧돼지, 토끼 등을 쫓는 오스트리아 원산의 다리 짧은 후각 사냥개입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ALPINE DACHSBRACKE (제254호)",
+      "url": "https://www.fci.be/en/nomenclature/ALPINE-DACHSBRACKE-254.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/254g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Alpine Dachsbracke",
+      "url": "https://en.wikipedia.org/wiki/Alpine_Dachsbracke"
+    }
+  ],
+  "fci": {
+    "num": 254,
+    "name": "ALPINE DACHSBRACKE",
+    "group": 6,
+    "section": "Leash (scent) Hounds",
+    "sub": "",
+    "status": "definitive",
+    "country": "오스트리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Alpejski%20go%C5%84czy%20kr%C3%B3tkono%C5%BCny%20g99.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Alpejski_go%C5%84czy_kr%C3%B3tkono%C5%BCny_g99.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "summary": "토끼를 쫓는 영국 후각 사냥개입니다.",
+  "description": "이름의 'hare'는 산토끼를 뜻합니다. 잉글리시 폭스하운드와 비슷하지만 조금 작습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: HARRIER (제295호)",
+      "url": "https://www.fci.be/en/nomenclature/HARRIER-295.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/295g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/harrier/"
+    },
+    {
+      "label": "Wikipedia: Harrier (dog breed)",
+      "url": "https://en.wikipedia.org/wiki/Harrier_(dog_breed)"
+    },
+    {
+      "label": "위키백과: 해리어 (개)",
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%A6%AC%EC%96%B4_(%EA%B0%9C)"
+    }
+  ],
+  "fci": {
+    "num": 295,
+    "name": "HARRIER",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Harrier%20tricolour.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Harrier_tricolour.jpg"
+  }
+}

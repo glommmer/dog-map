@@ -1,0 +1,40 @@
+{
+  "summary": "프리슬란트 숲의 희귀 조렵견입니다.",
+  "description": "세계에서 드문 견종으로 꼽히는 네덜란드 프리슬란트 토종입니다. 사냥과 농장 일을 겸했습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: STABIJHOUN (제222호)",
+      "url": "https://www.fci.be/en/nomenclature/STABIJHOUN-222.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/222g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/stabyhoun/"
+    },
+    {
+      "label": "Wikipedia: Stabyhoun",
+      "url": "https://en.wikipedia.org/wiki/Stabyhoun"
+    },
+    {
+      "label": "위키백과: 스테비훈",
+      "url": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%85%8C%EB%B9%84%ED%9B%88"
+    }
+  ],
+  "fci": {
+    "num": 222,
+    "name": "STABIJHOUN",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "Spaniel Type",
+    "status": "definitive",
+    "country": "네덜란드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Frisianstaby.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Frisianstaby.jpg"
+  }
+}

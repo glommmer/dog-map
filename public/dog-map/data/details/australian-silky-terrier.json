@@ -1,0 +1,40 @@
+{
+  "summary": "비단 같은 털의 호주 소형 테리어입니다.",
+  "description": "영국계 조상을 둔 호주 테리어와 요크셔 테리어의 교배에서 개량되었습니다. 쥐잡이 본능이 남아 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: AUSTRALIAN SILKY TERRIER (제236호)",
+      "url": "https://www.fci.be/en/nomenclature/AUSTRALIAN-SILKY-TERRIER-236.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/236g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/silky-terrier/"
+    },
+    {
+      "label": "Wikipedia: Australian Silky Terrier",
+      "url": "https://en.wikipedia.org/wiki/Australian_Silky_Terrier"
+    },
+    {
+      "label": "위키백과: 오스트레일리안 실키 테리어",
+      "url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%BC%EB%A6%AC%EC%95%88_%EC%8B%A4%ED%82%A4_%ED%85%8C%EB%A6%AC%EC%96%B4"
+    }
+  ],
+  "fci": {
+    "num": 236,
+    "name": "AUSTRALIAN SILKY TERRIER",
+    "group": 3,
+    "section": "Toy Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "호주"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/02%20Australian%20Silky%20Terrier,%20Zack,%20spring%202012.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:02_Australian_Silky_Terrier,_Zack,_spring_2012.jpg"
+  }
+}

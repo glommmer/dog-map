@@ -1,0 +1,15 @@
+{
+  "summary": "펀자브의 희귀 테리어입니다.",
+  "description": "펀자브 지역에서 유래했으며, 영국에서 온 불 테리어의 후손으로 설명됩니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Gull Terrier",
+      "url": "https://en.wikipedia.org/wiki/Gull_Terrier"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/GULL%20TERR%20(PAKISTANI%20BULL%20TERRIER).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:GULL_TERR_(PAKISTANI_BULL_TERRIER).jpg"
+  }
+}

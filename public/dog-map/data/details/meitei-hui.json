@@ -1,0 +1,15 @@
+{
+  "summary": "인도 마니푸르의 토종개입니다.",
+  "description": "메이테이 사람들이 길러 온 토착 품종입니다. 외래 품종에 밀려 잘 알려져 있지 않습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Meitei Hui",
+      "url": "https://en.wikipedia.org/wiki/Meitei_Hui"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/An_individual_Meitei_Hui_dog.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:An_individual_Meitei_Hui_dog.jpg"
+  }
+}

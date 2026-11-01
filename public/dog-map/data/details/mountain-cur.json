@@ -1,0 +1,19 @@
+{
+  "summary": "작은 사냥감을 나무로 모는 미국 작업견입니다.",
+  "description": "다람쥐와 너구리를 나무로 몰고, 곰과 멧돼지도 상대합니다. 농장 일까지 겸하는 다목적 사냥개입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/mountain-cur/"
+    },
+    {
+      "label": "Wikipedia: Mountain Cur",
+      "url": "https://en.wikipedia.org/wiki/Mountain_Cur"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mtncur.png?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Mtncur.png"
+  }
+}

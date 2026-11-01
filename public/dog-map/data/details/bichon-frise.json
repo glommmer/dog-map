@@ -1,0 +1,40 @@
+{
+  "summary": "솜사탕 같은 곱슬 흰 털의 소형견입니다.",
+  "description": "프랑스와 벨기에를 원산으로 하는 비숑 계열 소형견입니다. 1933년 프랑스 켄넬 협회와 FCI의 인정을 받은 것으로 기록되어 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BICHON FRISE (제215호)",
+      "url": "https://www.fci.be/en/nomenclature/BICHON-FRISE-215.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/215g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/bichon-frise/"
+    },
+    {
+      "label": "Wikipedia: Bichon Frisé",
+      "url": "https://en.wikipedia.org/wiki/Bichon_Fris%C3%A9"
+    },
+    {
+      "label": "위키백과: 비숑 프리제",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%88%91_%ED%94%84%EB%A6%AC%EC%A0%9C"
+    }
+  ],
+  "fci": {
+    "num": 215,
+    "name": "BICHON FRISE",
+    "group": 9,
+    "section": "Bichons and related breeds",
+    "sub": "Bichons",
+    "status": "definitive",
+    "country": "벨기에·프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bichon%20Fris%C3%A9%20sitting.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Bichon_Fris%C3%A9_sitting.jpg"
+  }
+}

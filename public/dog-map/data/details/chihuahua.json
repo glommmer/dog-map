@@ -4,10 +4,37 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: CHIHUAHUA (제218호)",
+      "url": "https://www.fci.be/en/nomenclature/CHIHUAHUA-218.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/218g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/chihuahua/"
+    },
+    {
+      "label": "Wikipedia: Chihuahua (dog breed)",
+      "url": "https://en.wikipedia.org/wiki/Chihuahua_(dog_breed)"
+    },
+    {
+      "label": "위키백과: 치와와 (개)",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B9%98%EC%99%80%EC%99%80_(%EA%B0%9C)"
     }
-  ]
+  ],
+  "fci": {
+    "num": 218,
+    "name": "CHIHUAHUA",
+    "group": 9,
+    "section": "Chihuahueno",
+    "sub": "",
+    "status": "definitive",
+    "country": "멕시코"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Chihuahuas-%20Holly,%20Nina,%20Doralice.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Chihuahuas-_Holly,_Nina,_Doralice.jpg"
+  }
 }
-

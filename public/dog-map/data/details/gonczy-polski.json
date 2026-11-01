@@ -1,0 +1,32 @@
+{
+  "summary": "폴란드의 희귀 후각 사냥개입니다.",
+  "description": "'곤치 폴스키'로, 안정된 성격과 지구력으로 평가받는 폴란드 토종입니다. 폴리시 하운드(52호)와는 별개 호수로 등록되어 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: POLISH HUNTING DOG (제354호)",
+      "url": "https://www.fci.be/en/nomenclature/POLISH-HUNTING-DOG-354.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/354g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Gończy Polski",
+      "url": "https://en.wikipedia.org/wiki/Go%C5%84czy_Polski"
+    }
+  ],
+  "fci": {
+    "num": 354,
+    "name": "POLISH HUNTING DOG",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "폴란드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/PolishScenthound-ChPl-NEMROD-KlusujacaSfora-wl.GrzegorzWeron.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:PolishScenthound-ChPl-NEMROD-KlusujacaSfora-wl.GrzegorzWeron.jpg"
+  }
+}

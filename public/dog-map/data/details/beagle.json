@@ -4,10 +4,37 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: BEAGLE (제161호)",
+      "url": "https://www.fci.be/en/nomenclature/BEAGLE-161.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/161g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/beagle/"
+    },
+    {
+      "label": "Wikipedia: Beagle",
+      "url": "https://en.wikipedia.org/wiki/Beagle"
+    },
+    {
+      "label": "위키백과: 비글",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B9%84%EA%B8%80"
     }
-  ]
+  ],
+  "fci": {
+    "num": 161,
+    "name": "BEAGLE",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Small-sized Hounds",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/MiloSmet.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:MiloSmet.JPG"
+  }
 }
-

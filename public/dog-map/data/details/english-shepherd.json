@@ -1,0 +1,19 @@
+{
+  "summary": "미국 농가의 만능 목양견입니다.",
+  "description": "이름과 달리 미국에서 형성된 목양견으로, 농장에서 가축 몰이와 경비를 맡았습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: English Shepherd",
+      "url": "https://en.wikipedia.org/wiki/English_Shepherd"
+    },
+    {
+      "label": "위키백과: 잉글리시 셰퍼드",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9E%89%EA%B8%80%EB%A6%AC%EC%8B%9C_%EC%85%B0%ED%8D%BC%EB%93%9C"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/TricolorEnglishShepherdDog.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:TricolorEnglishShepherdDog.jpg"
+  }
+}

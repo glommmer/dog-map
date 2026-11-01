@@ -1,0 +1,32 @@
+{
+  "summary": "셰리 저장고의 쥐를 잡던 개입니다.",
+  "description": "'셰리 테리어'라고도 합니다. 와인 저장고에서 쥐를 잡던 흰 테리어입니다. FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ANDALUSIAN TERRIER, SHERRY TERRIER (제371호)",
+      "url": "https://www.fci.be/en/nomenclature/ANDALUSIAN-TERRIER-SHERRY-TERRIER-371.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/371g03-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Andalusian Terrier",
+      "url": "https://en.wikipedia.org/wiki/Andalusian_Terrier"
+    }
+  ],
+  "fci": {
+    "num": 371,
+    "name": "ANDALUSIAN TERRIER, SHERRY TERRIER",
+    "group": null,
+    "section": "Large and medium sized Terriers",
+    "sub": "",
+    "status": "provisional",
+    "country": "스페인"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bodeguero%20young.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Bodeguero_young.jpg"
+  }
+}

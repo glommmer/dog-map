@@ -1,0 +1,19 @@
+{
+  "summary": "조슬린 루카스 경의 이름을 딴 소형 테리어입니다.",
+  "description": "실리엄 테리어와 노퍽 테리어 계통에서 발전한 영국 품종으로, 창시자의 이름을 땄습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/lucas-terrier/"
+    },
+    {
+      "label": "Wikipedia: Sporting Lucas Terrier",
+      "url": "https://en.wikipedia.org/wiki/Sporting_Lucas_Terrier"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/LucasTerrier.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:LucasTerrier.jpg"
+  }
+}

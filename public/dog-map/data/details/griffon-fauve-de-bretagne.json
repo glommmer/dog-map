@@ -1,0 +1,32 @@
+{
+  "summary": "황갈색 거친 털의 브르타뉴 사냥개입니다.",
+  "description": "브르타뉴 지방의 후각 사냥개로, 예전에는 늑대 사냥에도 쓰였다고 전해집니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: FAWN BRITTANY GRIFFON (제66호)",
+      "url": "https://www.fci.be/en/nomenclature/FAWN-BRITTANY-GRIFFON-66.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/066g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Griffon Fauve de Bretagne",
+      "url": "https://en.wikipedia.org/wiki/Griffon_Fauve_de_Bretagne"
+    }
+  ],
+  "fci": {
+    "num": 66,
+    "name": "FAWN BRITTANY GRIFFON",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/GriffonFauveDeBretagne6Monate.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:GriffonFauveDeBretagne6Monate.jpg"
+  }
+}

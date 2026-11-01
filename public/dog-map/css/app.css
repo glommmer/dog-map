@@ -344,6 +344,38 @@ body.panel-open .topbar { right: calc(var(--panel-width) + var(--gutter) * 2); }
 .filters__foot { display: flex; align-items: center; justify-content: space-between; margin-top: 16px; font-size: 13px; color: var(--text-muted); }
 .link-btn { color: var(--accent-yellow); font-weight: 700; font-size: 13px; padding: 4px 2px; border-radius: 6px; }
 
+/* 목록 보기 */
+.browse__pop {
+  position: absolute;
+  right: 0;
+  top: 48px;
+  width: min(360px, calc(100vw - var(--gutter) * 2));
+  padding: 14px 8px 8px;
+  border-radius: var(--radius-m);
+  background: var(--surface-2);
+  animation: pop-in var(--dur-med) var(--ease-spring);
+  transform-origin: top right;
+}
+.browse__tabs { padding: 0 6px; }
+.browse__spacer { flex: 1; }
+.browse__count { margin: 10px 8px 6px; font-size: 12.5px; font-weight: 700; color: var(--text-muted); }
+.browse__list { max-height: min(62dvh, 560px); overflow-y: auto; overscroll-behavior: contain; }
+.browse__head { margin: 12px 8px 4px; font-size: 12.5px; font-weight: 800; color: var(--accent-yellow); }
+.browse__head span { font-family: var(--font-en); opacity: 0.7; }
+.browse__item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 6px 8px;
+  border-radius: var(--radius-s);
+  text-align: left;
+}
+.browse__item:hover { background: var(--surface-3); }
+.browse__item .search__names { flex: 1; min-width: 0; }
+.browse__country { flex: none; max-width: 92px; font-size: 11.5px; font-weight: 600; color: var(--text-muted); text-align: right; }
+.browse__empty { margin: 12px 8px 16px; font-size: 13.5px; color: var(--text-muted); }
+
 /* 왼쪽 아래 */
 .dock {
   position: fixed;
@@ -502,6 +534,43 @@ body.panel-open .credits { right: calc(var(--panel-width) + var(--gutter) * 2); 
 .sources { margin: 0; padding: 0; list-style: none; font-size: 13px; color: var(--text-muted); line-height: 1.6; }
 .sources a { color: var(--accent-yellow); }
 
+/* 패널: 사진, 동작 버튼, 등록 정보, 같은 나라 견종 */
+.panel__art { position: relative; overflow: hidden; }
+.panel__art.has-photo { height: 240px; }
+.panel__art.has-photo > svg { display: none; }
+.panel__art .panel__photo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.panel__credit {
+  position: absolute;
+  left: 8px;
+  bottom: 8px;
+  padding: 3px 8px;
+  border-radius: var(--radius-full);
+  background: rgba(11, 16, 64, 0.78);
+  color: var(--text);
+  font-size: 11px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.panel__credit:hover { text-decoration: underline; }
+.panel__actions { display: flex; gap: 8px; margin-top: 14px; }
+.action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 34px;
+  padding: 0 12px;
+  border-radius: var(--radius-full);
+  background: var(--surface-2);
+  font-size: 13px;
+  font-weight: 700;
+}
+.action-btn:hover { background: var(--surface-3); }
+.action-btn svg { width: 17px; height: 17px; fill: none; stroke: currentColor; stroke-width: 2.1; stroke-linecap: round; stroke-linejoin: round; }
+.action-btn[aria-pressed="true"] { color: var(--accent-pink); }
+.action-btn[aria-pressed="true"] svg { fill: currentColor; }
+.facts--registry { font-size: 13px; }
+.related h3 span { font-family: var(--font-en); opacity: 0.65; }
+
 .skeleton { margin-top: 20px; display: grid; gap: 9px; }
 .skeleton i { height: 13px; border-radius: 7px; background: var(--surface-2); animation: pulse 1.2s ease-in-out infinite; }
 .skeleton i:nth-child(2) { width: 88%; }
@@ -511,7 +580,7 @@ body.panel-open .credits { right: calc(var(--panel-width) + var(--gutter) * 2); 
 .panel__error { margin-top: 20px; font-size: 14px; }
 
 /* 패널 옆 공간이 좁으면 제목을 숨겨 검색창 자리를 만든다 */
-@media (min-width: 721px) and (max-width: 1000px) {
+@media (min-width: 721px) and (max-width: 1140px) {
   .brand { transition: opacity var(--dur-med) ease; }
   body.panel-open .brand { opacity: 0; }
   body.panel-open .topbar { left: var(--gutter); }
@@ -524,12 +593,14 @@ body.panel-open .credits { right: calc(var(--panel-width) + var(--gutter) * 2); 
 
   body.panel-open .credits { right: var(--gutter); }
 
-  .brand { padding: 5px 9px 6px; left: 8px; top: 8px; }
+  .brand { padding: 5px 9px 6px; left: 8px; top: 58px; }
   .topbar { top: 8px; }
   .brand h1 { font-size: 17px; }
   .brand p { font-size: 10px; white-space: nowrap; margin-top: 1px; }
 
-  .topbar { left: 128px; right: 8px; gap: 6px; }
+  .topbar { left: 8px; right: 8px; gap: 6px; }
+  /* 버튼이 오른쪽 끝에 있지 않아도 팝오버가 화면 안에 들어오게 한다 */
+  .filters__pop, .browse__pop { position: fixed; left: 8px; right: 8px; top: 56px; width: auto; }
   body.panel-open .topbar { right: 8px; }
   .search { flex: 1; width: auto; min-width: 0; }
   .search__input { font-size: 16px; padding-left: 36px; padding-right: 8px; }

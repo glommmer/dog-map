@@ -1,0 +1,36 @@
+{
+  "summary": "잉카 이전 문화에서 이어진 페루의 털 없는 개입니다.",
+  "description": "페루 토종으로 유일하게 살아남은 견종입니다. 털 있는 유형도 함께 태어나며, 크기는 세 가지입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: PERUVIAN HAIRLESS DOG (제310호)",
+      "url": "https://www.fci.be/en/nomenclature/PERUVIAN-HAIRLESS-DOG-310.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/310g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/peruvian-inca-orchid/"
+    },
+    {
+      "label": "Wikipedia: Peruvian Hairless Dog",
+      "url": "https://en.wikipedia.org/wiki/Peruvian_Hairless_Dog"
+    }
+  ],
+  "fci": {
+    "num": 310,
+    "name": "PERUVIAN HAIRLESS DOG",
+    "group": 5,
+    "section": "Primitive type",
+    "sub": "",
+    "status": "definitive",
+    "country": "페루"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Taru%20metsa.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Taru_metsa.jpg"
+  }
+}

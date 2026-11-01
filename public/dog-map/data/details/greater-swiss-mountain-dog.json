@@ -1,0 +1,36 @@
+{
+  "summary": "스위스 산악견 중 가장 큰 견종입니다.",
+  "description": "네 젠넨훈트 가운데 체구가 가장 큽니다. 젠넨훈트라는 말은 스위스 낙농업자·목동을 뜻하는 젠(Senn)에서 왔으며, 수레 끌기와 가축 몰이를 맡았습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GREAT SWISS MOUNTAIN DOG (제58호)",
+      "url": "https://www.fci.be/en/nomenclature/GREAT-SWISS-MOUNTAIN-DOG-58.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/058g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/greater-swiss-mountain-dog/"
+    },
+    {
+      "label": "Wikipedia: Greater Swiss Mountain Dog",
+      "url": "https://en.wikipedia.org/wiki/Greater_Swiss_Mountain_Dog"
+    }
+  ],
+  "fci": {
+    "num": 58,
+    "name": "GREAT SWISS MOUNTAIN DOG",
+    "group": 2,
+    "section": "Swiss Mountain- and Cattledogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "스위스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Swissy-2009-11-02.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Swissy-2009-11-02.jpg"
+  }
+}

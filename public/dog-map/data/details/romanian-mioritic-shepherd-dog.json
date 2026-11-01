@@ -1,0 +1,36 @@
+{
+  "summary": "긴 털의 루마니아 가축 보호견입니다.",
+  "description": "카르파티아 산맥에서 유래한 대형 보호견입니다. 루마니아 민요 〈미오리차〉에서 이름을 얻었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ROMANIAN MIORITIC SHEPHERD DOG (제349호)",
+      "url": "https://www.fci.be/en/nomenclature/ROMANIAN-MIORITIC-SHEPHERD-DOG-349.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/349g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/romanian-mioritic-shepherd-dog/"
+    },
+    {
+      "label": "Wikipedia: Romanian Mioritic Shepherd Dog",
+      "url": "https://en.wikipedia.org/wiki/Romanian_Mioritic_Shepherd_Dog"
+    }
+  ],
+  "fci": {
+    "num": 349,
+    "name": "ROMANIAN MIORITIC SHEPHERD DOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "루마니아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mioritic.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Mioritic.jpg"
+  }
+}

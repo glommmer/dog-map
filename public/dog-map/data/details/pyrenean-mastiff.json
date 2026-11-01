@@ -1,0 +1,36 @@
+{
+  "summary": "아라곤 피레네의 가축 보호견입니다.",
+  "description": "스페인 북동부 아라곤 지방의 대형 보호견으로, 전통적으로 양 떼를 이끌고 피레네산맥을 오가며 지켰습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: PYRENEAN MASTIFF (제92호)",
+      "url": "https://www.fci.be/en/nomenclature/PYRENEAN-MASTIFF-92.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/092g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/pyrenean-mastiff/"
+    },
+    {
+      "label": "Wikipedia: Pyrenean Mastiff",
+      "url": "https://en.wikipedia.org/wiki/Pyrenean_Mastiff"
+    }
+  ],
+  "fci": {
+    "num": 92,
+    "name": "PYRENEAN MASTIFF",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "스페인"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/MasPiri-Lula-ESP.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:MasPiri-Lula-ESP.jpg"
+  }
+}

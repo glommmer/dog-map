@@ -1,0 +1,32 @@
+{
+  "summary": "헝가리 대평원의 시각 사냥개입니다.",
+  "description": "헝가리와 과거 오스트리아-헝가리 제국 지역에서 유래한 시각 사냥개입니다. 토끼 사냥과 경주에 쓰입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: HUNGARIAN GREYHOUND (제240호)",
+      "url": "https://www.fci.be/en/nomenclature/HUNGARIAN-GREYHOUND-240.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/240g10-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Magyar Agár",
+      "url": "https://en.wikipedia.org/wiki/Magyar_Ag%C3%A1r"
+    }
+  ],
+  "fci": {
+    "num": 240,
+    "name": "HUNGARIAN GREYHOUND",
+    "group": 10,
+    "section": "Short-haired Sighthounds",
+    "sub": "",
+    "status": "definitive",
+    "country": "헝가리"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/HungarianGreyhound.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:HungarianGreyhound.jpg"
+  }
+}

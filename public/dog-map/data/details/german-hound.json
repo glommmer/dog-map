@@ -1,0 +1,32 @@
+{
+  "summary": "베스트팔렌 지역의 독일 사냥개입니다.",
+  "description": "'도이체 브라케'라고도 하며, 큰 사냥감과 작은 사냥감을 모두 쫓는 후각 사냥개입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GERMAN HOUND (제299호)",
+      "url": "https://www.fci.be/en/nomenclature/GERMAN-HOUND-299.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/299g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: German Hound",
+      "url": "https://en.wikipedia.org/wiki/German_Hound"
+    }
+  ],
+  "fci": {
+    "num": 299,
+    "name": "GERMAN HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Small-sized Hounds",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/DeutscheBracke.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:DeutscheBracke.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "summary": "이탈리아 남부의 대형 경비견입니다.",
+  "description": "반려견이나 경비견으로 길러지며, 가축 보호에도 쓰입니다. 과거에는 큰 동물 사냥과 농장 일에 쓰였습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ITALIAN CANE CORSO (제343호)",
+      "url": "https://www.fci.be/en/nomenclature/ITALIAN-CANE-CORSO-343.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/343g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/cane-corso/"
+    },
+    {
+      "label": "Wikipedia: Cane Corso",
+      "url": "https://en.wikipedia.org/wiki/Cane_Corso"
+    },
+    {
+      "label": "위키백과: 카네코르소",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%84%A4%EC%BD%94%EB%A5%B4%EC%86%8C"
+    }
+  ],
+  "fci": {
+    "num": 343,
+    "name": "ITALIAN CANE CORSO",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "definitive",
+    "country": "이탈리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FINLEY%20DE%20LA%20MIRAGE%20DE%20TORRELLAS%2001.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:FINLEY_DE_LA_MIRAGE_DE_TORRELLAS_01.jpg"
+  }
+}

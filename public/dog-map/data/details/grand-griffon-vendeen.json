@@ -1,0 +1,32 @@
+{
+  "summary": "방데 그리퐁 계열의 뿌리가 된 대형 사냥개입니다.",
+  "description": "옛 '그레피에' 계통에서 가장 먼저 개량된 방데 그리퐁입니다. 거친 털의 대형 후각 사냥개입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GRAND GRIFFON VENDEEN (제282호)",
+      "url": "https://www.fci.be/en/nomenclature/GRAND-GRIFFON-VENDEEN-282.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/282g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Grand Griffon Vendéen",
+      "url": "https://en.wikipedia.org/wiki/Grand_Griffon_Vend%C3%A9en"
+    }
+  ],
+  "fci": {
+    "num": 282,
+    "name": "GRAND GRIFFON VENDEEN",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20Grand%20Griffon%20Vendeen.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosa_Bonheur_Grand_Griffon_Vendeen.jpg"
+  }
+}

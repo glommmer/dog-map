@@ -1,0 +1,36 @@
+{
+  "summary": "유럽과 아시아 스피츠를 섞은 독일 반려견입니다.",
+  "description": "1960년대 독일에서 저먼 볼프스피츠, 차우차우, 사모예드를 교배해 만든 스피츠 품종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: EURASIAN (제291호)",
+      "url": "https://www.fci.be/en/nomenclature/EURASIAN-291.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/291g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/eurasier/"
+    },
+    {
+      "label": "Wikipedia: Eurasier",
+      "url": "https://en.wikipedia.org/wiki/Eurasier"
+    }
+  ],
+  "fci": {
+    "num": 291,
+    "name": "EURASIAN",
+    "group": 5,
+    "section": "Asian Spitz and related breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurasier.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Eurasier.jpg"
+  }
+}

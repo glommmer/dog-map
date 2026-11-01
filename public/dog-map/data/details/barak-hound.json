@@ -1,0 +1,32 @@
+{
+  "summary": "거친 털의 보스니아 사냥개입니다.",
+  "description": "'보스니안 브로큰 헤어드 하운드'가 정식 이름입니다. 멧돼지와 여우 등 큰 사냥감에 쓰였습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BOSNIAN BROKEN-HAIRED HOUND - CALLED BARAK (제155호)",
+      "url": "https://www.fci.be/en/nomenclature/BOSNIAN-BROKEN-HAIRED-HOUND-CALLED-BARAK-155.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/155g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Barak hound",
+      "url": "https://en.wikipedia.org/wiki/Barak_hound"
+    }
+  ],
+  "fci": {
+    "num": 155,
+    "name": "BOSNIAN BROKEN-HAIRED HOUND - CALLED BARAK",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "보스니아 헤르체고비나"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/BIR%20Grupp%206-%20BOSANSKI%20OSTRODLAKI%20GONIC-BARAK,%20Sandy%20(23866392689).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:BIR_Grupp_6-_BOSANSKI_OSTRODLAKI_GONIC-BARAK,_Sandy_(23866392689).jpg"
+  }
+}

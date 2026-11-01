@@ -1,0 +1,36 @@
+{
+  "summary": "거친 털의 이탈리아 후각 사냥개입니다.",
+  "description": "세구조 이탈리아노의 두 유형 가운데 하나로, 거친 털을 가진 사냥개입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ITALIAN ROUGH-HAIRED SEGUGIO (제198호)",
+      "url": "https://www.fci.be/en/nomenclature/ITALIAN-ROUGH-HAIRED-SEGUGIO-198.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/198g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/segugio-italiano/"
+    },
+    {
+      "label": "Wikipedia: Segugio Italiano a Pelo Forte",
+      "url": "https://en.wikipedia.org/wiki/Segugio_Italiano_a_Pelo_Forte"
+    }
+  ],
+  "fci": {
+    "num": 198,
+    "name": "ITALIAN ROUGH-HAIRED SEGUGIO",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "이탈리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/SIPF%20larger.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:SIPF_larger.jpg"
+  }
+}

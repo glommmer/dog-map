@@ -4,10 +4,37 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: AKITA (제255호)",
+      "url": "https://www.fci.be/en/nomenclature/AKITA-255.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/255g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/japanese-akitainu/"
+    },
+    {
+      "label": "Wikipedia: Akita (dog breed)",
+      "url": "https://en.wikipedia.org/wiki/Akita_(dog_breed)"
+    },
+    {
+      "label": "위키백과: 아키타견",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%ED%82%A4%ED%83%80%EA%B2%AC"
     }
-  ]
+  ],
+  "fci": {
+    "num": 255,
+    "name": "AKITA",
+    "group": 5,
+    "section": "Asian Spitz and related breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "일본"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Akita%20inu%20criado%20por%20Tsutsui%20Kennel.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Akita_inu_criado_por_Tsutsui_Kennel.jpg"
+  }
 }
-

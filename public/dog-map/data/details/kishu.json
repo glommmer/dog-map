@@ -1,0 +1,40 @@
+{
+  "summary": "멧돼지 사냥에 쓰인 일본 흰 토종견입니다.",
+  "description": "기슈 지방에서 유래한 일본 토종견으로, 천연기념물로 지정되어 있습니다. 흰 개체가 많습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: KISHU (제318호)",
+      "url": "https://www.fci.be/en/nomenclature/KISHU-318.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/318g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/kishu-ken/"
+    },
+    {
+      "label": "Wikipedia: Kishu",
+      "url": "https://en.wikipedia.org/wiki/Kishu"
+    },
+    {
+      "label": "위키백과: 키슈 (개 품종)",
+      "url": "https://ko.wikipedia.org/wiki/%ED%82%A4%EC%8A%88_(%EA%B0%9C_%ED%92%88%EC%A2%85)"
+    }
+  ],
+  "fci": {
+    "num": 318,
+    "name": "KISHU",
+    "group": 5,
+    "section": "Asian Spitz and related breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "일본"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kishu.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Kishu.jpg"
+  }
+}

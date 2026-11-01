@@ -1,0 +1,32 @@
+{
+  "summary": "작은 사냥감을 위한 앙글로 프랑세 사냥개입니다.",
+  "description": "이름은 '소형 사냥감용 영불 사냥개'를 뜻합니다. 대체로 무리를 지어 토끼 등을 쫓습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: MEDIUM-SIZED ANGLO-FRENCH HOUND (제325호)",
+      "url": "https://www.fci.be/en/nomenclature/MEDIUM-SIZED-ANGLO-FRENCH-HOUND-325.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/325g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Anglo-Français de Petite Vénerie",
+      "url": "https://en.wikipedia.org/wiki/Anglo-Fran%C3%A7ais_de_Petite_V%C3%A9nerie"
+    }
+  ],
+  "fci": {
+    "num": 325,
+    "name": "MEDIUM-SIZED ANGLO-FRENCH HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anglo-fran%C3%A7ais%20de%20petite%20v%C3%A9nerie,%20%C2%ABOp%20dem%20Hut%C2%BB,%20Haanenhaff-112.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Anglo-fran%C3%A7ais_de_petite_v%C3%A9nerie,_%C2%ABOp_dem_Hut%C2%BB,_Haanenhaff-112.jpg"
+  }
+}

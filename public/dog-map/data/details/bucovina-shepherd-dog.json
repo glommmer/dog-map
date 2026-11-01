@@ -1,0 +1,32 @@
+{
+  "summary": "부코비나의 가축 보호견입니다.",
+  "description": "루마니아 북동부 역사 지역 부코비나의 토종 보호견입니다. 주변 지역 가축 보호견과 가깝습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ROMANIAN BUCOVINA SHEPHERD (제357호)",
+      "url": "https://www.fci.be/en/nomenclature/ROMANIAN-BUCOVINA-SHEPHERD-357.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/357g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Bucovina Shepherd Dog",
+      "url": "https://en.wikipedia.org/wiki/Bucovina_Shepherd_Dog"
+    }
+  ],
+  "fci": {
+    "num": 357,
+    "name": "ROMANIAN BUCOVINA SHEPHERD",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "루마니아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bucovina%20Sheepdog.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Bucovina_Sheepdog.jpg"
+  }
+}

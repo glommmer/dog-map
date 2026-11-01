@@ -1,0 +1,40 @@
+{
+  "summary": "수염 같은 얼굴 털의 스코틀랜드 목양견입니다.",
+  "description": "'하이랜드 콜리'라고도 하며, 스코틀랜드 양치기들이 주로 썼습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BEARDED COLLIE (제271호)",
+      "url": "https://www.fci.be/en/nomenclature/BEARDED-COLLIE-271.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/271g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/bearded-collie/"
+    },
+    {
+      "label": "Wikipedia: Bearded Collie",
+      "url": "https://en.wikipedia.org/wiki/Bearded_Collie"
+    },
+    {
+      "label": "위키백과: 비어디드 콜리",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%96%B4%EB%94%94%EB%93%9C_%EC%BD%9C%EB%A6%AC"
+    }
+  ],
+  "fci": {
+    "num": 271,
+    "name": "BEARDED COLLIE",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bearded%20Collie.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Bearded_Collie.jpg"
+  }
+}

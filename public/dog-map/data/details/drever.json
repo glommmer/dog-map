@@ -1,0 +1,36 @@
+{
+  "summary": "사슴을 쫓는 다리 짧은 스웨덴 사냥개입니다.",
+  "description": "베스트팔렌 닥스브라케에서 내려온 후각 사냥개입니다. 사슴을 천천히 몰아 사냥꾼에게 데려옵니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: DREVER (제130호)",
+      "url": "https://www.fci.be/en/nomenclature/DREVER-130.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/130g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/drever/"
+    },
+    {
+      "label": "Wikipedia: Drever",
+      "url": "https://en.wikipedia.org/wiki/Drever"
+    }
+  ],
+  "fci": {
+    "num": 130,
+    "name": "DREVER",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Small-sized Hounds",
+    "status": "definitive",
+    "country": "스웨덴"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Drever%20NUCh%20Tanjo.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Drever_NUCh_Tanjo.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "summary": "스패니얼을 닮은 프랑스 조렵견입니다.",
+  "description": "브르타뉴 원산의 조렵견으로, 미국에서는 흔히 '브리트니'라 부릅니다. 스패니얼이라는 이름과 달리 포인팅 사냥을 합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BRITTANY SPANIEL (제95호)",
+      "url": "https://www.fci.be/en/nomenclature/BRITTANY-SPANIEL-95.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/095g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/brittany/"
+    },
+    {
+      "label": "Wikipedia: Brittany Spaniel",
+      "url": "https://en.wikipedia.org/wiki/Brittany_Spaniel"
+    },
+    {
+      "label": "위키백과: 브리트니 (개)",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A6%AC%ED%8A%B8%EB%8B%88_(%EA%B0%9C)"
+    }
+  ],
+  "fci": {
+    "num": 95,
+    "name": "BRITTANY SPANIEL",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "Spaniel Type",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/American%20Brittany%20standing.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:American_Brittany_standing.jpg"
+  }
+}

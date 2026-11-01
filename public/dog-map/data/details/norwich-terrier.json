@@ -1,0 +1,36 @@
+{
+  "summary": "쫑긋 선 귀의 가장 작은 테리어 중 하나입니다.",
+  "description": "쥐와 작은 동물을 잡기 위해 잉글랜드 동부에서 길러졌습니다. 늘어진 귀를 가진 노퍽 테리어와는 원래 한 품종이었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: NORWICH TERRIER (제72호)",
+      "url": "https://www.fci.be/en/nomenclature/NORWICH-TERRIER-72.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/072g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/norwich-terrier/"
+    },
+    {
+      "label": "Wikipedia: Norwich Terrier",
+      "url": "https://en.wikipedia.org/wiki/Norwich_Terrier"
+    }
+  ],
+  "fci": {
+    "num": 72,
+    "name": "NORWICH TERRIER",
+    "group": 3,
+    "section": "Small sized Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Norwichterrier.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Norwichterrier.jpg"
+  }
+}

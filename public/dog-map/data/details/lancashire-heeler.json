@@ -1,0 +1,36 @@
+{
+  "summary": "소의 뒤꿈치를 무는 영국 소몰이 개입니다.",
+  "description": "영국 켄넬 클럽의 취약 토종 품종입니다. 작은 몸으로 소를 몰고 쥐도 잡았습니다. FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: LANCASHIRE HEELER (제360호)",
+      "url": "https://www.fci.be/en/nomenclature/LANCASHIRE-HEELER-360.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/360g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/lancashire-heeler/"
+    },
+    {
+      "label": "Wikipedia: Lancashire Heeler",
+      "url": "https://en.wikipedia.org/wiki/Lancashire_Heeler"
+    }
+  ],
+  "fci": {
+    "num": 360,
+    "name": "LANCASHIRE HEELER",
+    "group": null,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "provisional",
+    "country": "잉글랜드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Grupp%201,%20LANCASHIRE%20HEELER,%20NO%20UCH%20NO%20V-14%20NO%20V-15%20SE%20UCH%20St%C3%A5hlskyttens%20Longed%20For%20Antony%20(24284065606).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Grupp_1,_LANCASHIRE_HEELER,_NO_UCH_NO_V-14_NO_V-15_SE_UCH_St%C3%A5hlskyttens_Longed_For_Antony_(24284065606).jpg"
+  }
+}

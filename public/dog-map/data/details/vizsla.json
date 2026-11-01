@@ -1,0 +1,40 @@
+{
+  "summary": "적갈색 짧은 털의 헝가리 조렵견입니다.",
+  "description": "헝가리 포인터라고도 부르며, FCI 제7그룹에 속합니다. 사냥감을 가리키고 회수까지 하는 만능 조렵견으로, 사람과 가까이 지내려는 성향으로 유명합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: HUNGARIAN SHORT-HAIRED POINTER (VIZSLA) (제57호)",
+      "url": "https://www.fci.be/en/nomenclature/HUNGARIAN-SHORT-HAIRED-POINTER-VIZSLA-57.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/057g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/vizsla/"
+    },
+    {
+      "label": "Wikipedia: Vizsla",
+      "url": "https://en.wikipedia.org/wiki/Vizsla"
+    },
+    {
+      "label": "위키백과: 비즐라",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%A6%90%EB%9D%BC"
+    }
+  ],
+  "fci": {
+    "num": 57,
+    "name": "HUNGARIAN SHORT-HAIRED POINTER (VIZSLA)",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "«Braque»Type",
+    "status": "definitive",
+    "country": "헝가리"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wy%C5%BCe%C5%82%20w%C4%99gierski%20g%C5%82adkow%C5%82osy%20500.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Wy%C5%BCe%C5%82_w%C4%99gierski_g%C5%82adkow%C5%82osy_500.jpg"
+  }
+}

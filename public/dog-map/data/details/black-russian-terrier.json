@@ -1,0 +1,36 @@
+{
+  "summary": "소련군이 개량한 검은 대형견입니다.",
+  "description": "1940~50년대 소련 '붉은 별' 군견 사육장에서 여러 품종을 교배해 만들었습니다. 이름과 달리 테리어보다 작업견에 가깝습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: RUSSIAN BLACK TERRIER (제327호)",
+      "url": "https://www.fci.be/en/nomenclature/RUSSIAN-BLACK-TERRIER-327.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/327g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/black-russian-terrier/"
+    },
+    {
+      "label": "Wikipedia: Black Russian Terrier",
+      "url": "https://en.wikipedia.org/wiki/Black_Russian_Terrier"
+    }
+  ],
+  "fci": {
+    "num": 327,
+    "name": "RUSSIAN BLACK TERRIER",
+    "group": 2,
+    "section": "Pinscher and Schnauzer type",
+    "sub": "Tchiorny Terrier",
+    "status": "definitive",
+    "country": "러시아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Russianblack.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Russianblack.jpg"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "덴마크 전통 조렵견입니다.",
+  "description": "흰 바탕에 갈색 무늬가 있는 덴마크 조렵견입니다. 스페인 포인터 계통의 개와 덴마크 토종의 혈통으로 전해집니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: OLD DANISH POINTING DOG (제281호)",
+      "url": "https://www.fci.be/en/nomenclature/OLD-DANISH-POINTING-DOG-281.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/281g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/old-danish-pointer/"
+    },
+    {
+      "label": "Wikipedia: Old Danish Pointer",
+      "url": "https://en.wikipedia.org/wiki/Old_Danish_Pointer"
+    }
+  ],
+  "fci": {
+    "num": 281,
+    "name": "OLD DANISH POINTING DOG",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "«Braque»Type",
+    "status": "definitive",
+    "country": "덴마크"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wy%C5%BCe%C5%82%20du%C5%84ski%20123.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Wy%C5%BCe%C5%82_du%C5%84ski_123.jpg"
+  }
+}

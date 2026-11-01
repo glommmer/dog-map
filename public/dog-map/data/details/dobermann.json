@@ -1,0 +1,40 @@
+{
+  "summary": "세금 징수원이 만든 독일의 작업견입니다.",
+  "description": "19세기 말 튀링겐의 세금 징수원 루이스 도베르만이 호신용으로 개량했다고 전해집니다. 군견과 경찰견으로 널리 활동합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: DOBERMANN (제143호)",
+      "url": "https://www.fci.be/en/nomenclature/DOBERMANN-143.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/143g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/doberman-pinscher/"
+    },
+    {
+      "label": "Wikipedia: Dobermann",
+      "url": "https://en.wikipedia.org/wiki/Dobermann"
+    },
+    {
+      "label": "위키백과: 도베르만 핀셔",
+      "url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%B2%A0%EB%A5%B4%EB%A7%8C_%ED%95%80%EC%85%94"
+    }
+  ],
+  "fci": {
+    "num": 143,
+    "name": "DOBERMANN",
+    "group": 2,
+    "section": "Pinscher and Schnauzer type",
+    "sub": "Pinscher",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dobermann%20Father-and-son.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Dobermann_Father-and-son.jpg"
+  }
+}

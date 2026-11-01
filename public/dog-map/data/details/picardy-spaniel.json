@@ -1,0 +1,32 @@
+{
+  "summary": "프랑스의 전통 조렵견입니다.",
+  "description": "블루 피카르디 스패니얼과 가까운 사냥개로, 습지와 숲에서 일하기 알맞습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: PICARDY SPANIEL (제108호)",
+      "url": "https://www.fci.be/en/nomenclature/PICARDY-SPANIEL-108.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/108g07-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Picardy Spaniel",
+      "url": "https://en.wikipedia.org/wiki/Picardy_Spaniel"
+    }
+  ],
+  "fci": {
+    "num": 108,
+    "name": "PICARDY SPANIEL",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "Spaniel Type",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Epagneul%20Picard%20ter.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Epagneul_Picard_ter.jpg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "summary": "검푸른 털의 오베르뉴 조렵견입니다.",
+  "description": "프랑스 중남부 캉탈 산악 지역의 포인터입니다. 흰 바탕에 검은 얼룩이 섞여 푸른빛으로 보입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: AUVERGNE POINTER (제180호)",
+      "url": "https://www.fci.be/en/nomenclature/AUVERGNE-POINTER-180.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/180g07-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Braque d'Auvergne",
+      "url": "https://en.wikipedia.org/wiki/Braque_d'Auvergne"
+    }
+  ],
+  "fci": {
+    "num": 180,
+    "name": "AUVERGNE POINTER",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "«Braque»Type",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Braque%20d%20Auvergne.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Braque_d_Auvergne.jpg"
+  }
+}

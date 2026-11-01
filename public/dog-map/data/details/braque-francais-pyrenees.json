@@ -1,0 +1,32 @@
+{
+  "summary": "오래된 프랑스 조렵견의 소형 유형입니다.",
+  "description": "가스코뉴형과 같은 뿌리를 가졌지만 체구가 작은 조렵견입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: FRENCH POINTING DOG - PYRENEAN TYPE (제134호)",
+      "url": "https://www.fci.be/en/nomenclature/FRENCH-POINTING-DOG-PYRENEAN-TYPE-134.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/134g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/braque-francais-pyrenean/"
+    },
+    {
+      "label": "Wikipedia: Braque Français",
+      "url": "https://en.wikipedia.org/wiki/Braque_Fran%C3%A7ais"
+    }
+  ],
+  "fci": {
+    "num": 134,
+    "name": "FRENCH POINTING DOG - PYRENEAN TYPE",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "«Braque»Type",
+    "status": "definitive",
+    "country": "프랑스"
+  }
+}

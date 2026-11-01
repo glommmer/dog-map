@@ -1,0 +1,32 @@
+{
+  "summary": "'황소의 개'라는 뜻의 마요르카 몰로서입니다.",
+  "description": "'페로 데 프레사 마요르킨'이라고도 합니다. 발레아레스 제도 마요르카의 경비 및 황소몰이 개에서 비롯되었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: MAJORCA MASTIFF (제249호)",
+      "url": "https://www.fci.be/en/nomenclature/MAJORCA-MASTIFF-249.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/249g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Ca de Bou",
+      "url": "https://en.wikipedia.org/wiki/Ca_de_Bou"
+    }
+  ],
+  "fci": {
+    "num": 249,
+    "name": "MAJORCA MASTIFF",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "definitive",
+    "country": "스페인"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ca%20de%20bou%20dog.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Ca_de_bou_dog.jpg"
+  }
+}

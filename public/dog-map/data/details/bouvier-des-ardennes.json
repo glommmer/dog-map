@@ -1,0 +1,36 @@
+{
+  "summary": "벨기에 아르덴의 희귀 소몰이 개입니다.",
+  "description": "아르덴 지방에서 소를 몰고 지키던 희귀 작업견입니다. 품종 이름의 부비에는 소몰이꾼을 뜻합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BOUVIER DES ARDENNES (제171호)",
+      "url": "https://www.fci.be/en/nomenclature/BOUVIER-DES-ARDENNES-171.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/171g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/bouvier-de-ardennes/"
+    },
+    {
+      "label": "Wikipedia: Bouvier des Ardennes",
+      "url": "https://en.wikipedia.org/wiki/Bouvier_des_Ardennes"
+    }
+  ],
+  "fci": {
+    "num": 171,
+    "name": "BOUVIER DES ARDENNES",
+    "group": 1,
+    "section": "Cattledogs (except Swiss Cattledogs)",
+    "sub": "",
+    "status": "definitive",
+    "country": "벨기에"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Boyero-de-las-ardenas7.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Boyero-de-las-ardenas7.jpg"
+  }
+}

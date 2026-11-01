@@ -4,10 +4,37 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: SHIBA (제257호)",
+      "url": "https://www.fci.be/en/nomenclature/SHIBA-257.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/257g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/shiba-inu/"
+    },
+    {
+      "label": "Wikipedia: Shiba Inu",
+      "url": "https://en.wikipedia.org/wiki/Shiba_Inu"
+    },
+    {
+      "label": "위키백과: 시바견",
+      "url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%B0%94%EA%B2%AC"
     }
-  ]
+  ],
+  "fci": {
+    "num": 257,
+    "name": "SHIBA",
+    "group": 5,
+    "section": "Asian Spitz and related breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "일본"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiba%20inu%20taiki.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Shiba_inu_taiki.jpg"
+  }
 }
-

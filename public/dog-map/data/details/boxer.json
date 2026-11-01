@@ -1,0 +1,40 @@
+{
+  "summary": "장난기 많고 근육질인 독일 마스티프 계열입니다.",
+  "description": "독일에서 개량된 단모 작업견입니다. 황갈색이나 줄무늬 털에 흰 무늬가 있기도 합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BOXER (제144호)",
+      "url": "https://www.fci.be/en/nomenclature/BOXER-144.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/144g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/boxer/"
+    },
+    {
+      "label": "Wikipedia: Boxer (dog breed)",
+      "url": "https://en.wikipedia.org/wiki/Boxer_(dog_breed)"
+    },
+    {
+      "label": "위키백과: 복서 (개)",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B3%B5%EC%84%9C_(%EA%B0%9C)"
+    }
+  ],
+  "fci": {
+    "num": 144,
+    "name": "BOXER",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Boxer%20female%20brown.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Boxer_female_brown.jpg"
+  }
+}

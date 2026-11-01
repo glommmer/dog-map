@@ -1,0 +1,32 @@
+{
+  "summary": "19세기 말 스웨덴에서 개량된 사냥개입니다.",
+  "description": "브리더 페르 실러의 이름을 딴 후각 사냥개로, 스웨덴 켄넬 클럽의 첫 도그쇼에 선보였습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SCHILLERSTÖVARE (제131호)",
+      "url": "https://www.fci.be/en/nomenclature/SCHILLERSTOVARE-131.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/131g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Schillerstövare",
+      "url": "https://en.wikipedia.org/wiki/Schillerst%C3%B6vare"
+    }
+  ],
+  "fci": {
+    "num": 131,
+    "name": "SCHILLERSTÖVARE",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "스웨덴"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Go%C5%84czy%20schillera%20g%C5%82owa%20j87.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Go%C5%84czy_schillera_g%C5%82owa_j87.jpg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "summary": "브라질 목장의 불도그입니다.",
+  "description": "브라질 남부 대평원에서 소를 다루던 불도그입니다. 멸종 위기를 지나 복원되었으며 FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BRAZILIAN CAMPEIRO BULLDOG (제374호)",
+      "url": "https://www.fci.be/en/nomenclature/BRAZILIAN-CAMPEIRO-BULLDOG-374.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/374g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Campeiro Bulldog",
+      "url": "https://en.wikipedia.org/wiki/Campeiro_Bulldog"
+    }
+  ],
+  "fci": {
+    "num": 374,
+    "name": "BRAZILIAN CAMPEIRO BULLDOG",
+    "group": null,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "provisional",
+    "country": "브라질"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Buldogue%20Campeiro.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Buldogue_Campeiro.jpg"
+  }
+}

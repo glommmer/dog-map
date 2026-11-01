@@ -1,0 +1,15 @@
+{
+  "summary": "호주에서 개량된 소형 테리어입니다.",
+  "description": "이름은 뉴사우스웨일스의 마을 텐터필드에서 왔습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Tenterfield Terrier",
+      "url": "https://en.wikipedia.org/wiki/Tenterfield_Terrier"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosie%20the%20Champion%20Tenterfield%20Terrier.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosie_the_Champion_Tenterfield_Terrier.jpg"
+  }
+}

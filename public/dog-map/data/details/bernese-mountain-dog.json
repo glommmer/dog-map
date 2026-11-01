@@ -4,10 +4,37 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: BERNESE MOUNTAIN DOG (제45호)",
+      "url": "https://www.fci.be/en/nomenclature/BERNESE-MOUNTAIN-DOG-45.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/045g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/bernese-mountain-dog/"
+    },
+    {
+      "label": "Wikipedia: Bernese Mountain Dog",
+      "url": "https://en.wikipedia.org/wiki/Bernese_Mountain_Dog"
+    },
+    {
+      "label": "위키백과: 버니즈 마운틴 도그",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B2%84%EB%8B%88%EC%A6%88_%EB%A7%88%EC%9A%B4%ED%8B%B4_%EB%8F%84%EA%B7%B8"
     }
-  ]
+  ],
+  "fci": {
+    "num": 45,
+    "name": "BERNESE MOUNTAIN DOG",
+    "group": 2,
+    "section": "Swiss Mountain- and Cattledogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "스위스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bouviers%20Bernois%20Ganjo.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Bouviers_Bernois_Ganjo.jpg"
+  }
 }
-

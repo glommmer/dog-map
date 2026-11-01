@@ -4,10 +4,37 @@
   "origin_note": "정확한 기원은 논쟁 중이며, 이름은 달마티아 지역에서 왔습니다.",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: DALMATIAN (제153호)",
+      "url": "https://www.fci.be/en/nomenclature/DALMATIAN-153.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/153g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/dalmatian/"
+    },
+    {
+      "label": "Wikipedia: Dalmatian dog",
+      "url": "https://en.wikipedia.org/wiki/Dalmatian_dog"
+    },
+    {
+      "label": "위키백과: 달마티안",
+      "url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EB%A7%88%ED%8B%B0%EC%95%88"
     }
-  ]
+  ],
+  "fci": {
+    "num": 153,
+    "name": "DALMATIAN",
+    "group": 6,
+    "section": "Related breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "크로아티아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dalmatien.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Dalmatien.jpg"
+  }
 }
-

@@ -1,0 +1,36 @@
+{
+  "summary": "네덜란드 드렌터 지방의 다재다능한 조렵견입니다.",
+  "description": "'네덜란드 자고새 개'라는 뜻입니다. 16세기 그림에도 비슷한 개가 나오며, 만능 사냥개로 길러집니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: DRENTSCHE PARTRIDGE DOG (제224호)",
+      "url": "https://www.fci.be/en/nomenclature/DRENTSCHE-PARTRIDGE-DOG-224.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/224g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/drentsche-patrijshond/"
+    },
+    {
+      "label": "Wikipedia: Drentse Patrijshond",
+      "url": "https://en.wikipedia.org/wiki/Drentse_Patrijshond"
+    }
+  ],
+  "fci": {
+    "num": 224,
+    "name": "DRENTSCHE PARTRIDGE DOG",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "Spaniel Type",
+    "status": "definitive",
+    "country": "네덜란드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Drentse%20Patrijshond.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Drentse_Patrijshond.jpg"
+  }
+}

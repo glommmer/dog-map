@@ -1,0 +1,32 @@
+{
+  "summary": "거친 털을 지닌 가스코뉴 후각 사냥개입니다.",
+  "description": "작은 사냥감과 큰 사냥감 모두에 쓰이는 다재다능한 사냥개로, 무리로도 단독으로도 일합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BLUE GASCONY GRIFFON (제32호)",
+      "url": "https://www.fci.be/en/nomenclature/BLUE-GASCONY-GRIFFON-32.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/032g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Griffon Bleu de Gascogne",
+      "url": "https://en.wikipedia.org/wiki/Griffon_Bleu_de_Gascogne"
+    }
+  ],
+  "fci": {
+    "num": 32,
+    "name": "BLUE GASCONY GRIFFON",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/04031124%20Griffon%20Bleu%20de%20Gascogne.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:04031124_Griffon_Bleu_de_Gascogne.jpg"
+  }
+}

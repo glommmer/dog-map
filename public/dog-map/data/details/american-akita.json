@@ -1,0 +1,36 @@
+{
+  "summary": "아키타에서 미국 계통으로 갈라진 대형견입니다.",
+  "description": "제2차 세계대전 후 미국으로 건너간 아키타견에서 갈라졌습니다. FCI는 일본 아키타와 별개 견종으로 등록합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: AMERICAN AKITA (제344호)",
+      "url": "https://www.fci.be/en/nomenclature/AMERICAN-AKITA-344.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/344g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/akita/"
+    },
+    {
+      "label": "Wikipedia: Akita (dog breed)",
+      "url": "https://en.wikipedia.org/wiki/Akita_(dog_breed)"
+    },
+    {
+      "label": "위키백과: 아키타견",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%ED%82%A4%ED%83%80%EA%B2%AC"
+    }
+  ],
+  "fci": {
+    "num": 344,
+    "name": "AMERICAN AKITA",
+    "group": 5,
+    "section": "Asian Spitz and related breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "일본"
+  }
+}

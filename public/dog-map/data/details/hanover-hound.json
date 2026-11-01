@@ -1,0 +1,36 @@
+{
+  "summary": "부상 사냥감을 추적하는 독일 전문 사냥개입니다.",
+  "description": "하노버의 사냥꾼들이 다친 사냥감을 추적하도록 개량했습니다. 독일어로 '하노버셰 슈바이스훈트'라고 합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: HANOVERIAN SCENT HOUND (제213호)",
+      "url": "https://www.fci.be/en/nomenclature/HANOVERIAN-SCENT-HOUND-213.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/213g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/hanoverian-scenthound/"
+    },
+    {
+      "label": "Wikipedia: Hanover Hound",
+      "url": "https://en.wikipedia.org/wiki/Hanover_Hound"
+    }
+  ],
+  "fci": {
+    "num": 213,
+    "name": "HANOVERIAN SCENT HOUND",
+    "group": 6,
+    "section": "Leash (scent) Hounds",
+    "sub": "",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hannoverscher%20Schweisshund.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Hannoverscher_Schweisshund.jpg"
+  }
+}

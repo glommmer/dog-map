@@ -1,0 +1,40 @@
+{
+  "summary": "수상 구조로 이름난 캐나다의 초대형견입니다.",
+  "description": "뉴펀들랜드 섬에서 어부의 그물을 끌고 물에 빠진 사람을 구하던 개로 유명합니다. 물갈퀴 있는 발과 기름진 이중모 덕분에 찬물에서도 잘 움직입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: NEWFOUNDLAND (제50호)",
+      "url": "https://www.fci.be/en/nomenclature/NEWFOUNDLAND-50.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/050g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/newfoundland/"
+    },
+    {
+      "label": "Wikipedia: Newfoundland dog",
+      "url": "https://en.wikipedia.org/wiki/Newfoundland_dog"
+    },
+    {
+      "label": "위키백과: 뉴펀들랜드 (개)",
+      "url": "https://ko.wikipedia.org/wiki/%EB%89%B4%ED%8E%80%EB%93%A4%EB%9E%9C%EB%93%9C_(%EA%B0%9C)"
+    }
+  ],
+  "fci": {
+    "num": 50,
+    "name": "NEWFOUNDLAND",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "캐나다"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/201210071658d.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:201210071658d.jpg"
+  }
+}

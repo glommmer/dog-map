@@ -1,0 +1,32 @@
+{
+  "summary": "거친 털의 프랑스 만능 사냥개입니다.",
+  "description": "니베르네 지방에서 유래한 후각 사냥개로, 작은 사냥감부터 큰 사냥감까지 무리로 또는 단독으로 쫓습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GRIFFON NIVERNAIS (제17호)",
+      "url": "https://www.fci.be/en/nomenclature/GRIFFON-NIVERNAIS-17.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/017g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Griffon Nivernais",
+      "url": "https://en.wikipedia.org/wiki/Griffon_Nivernais"
+    }
+  ],
+  "fci": {
+    "num": 17,
+    "name": "GRIFFON NIVERNAIS",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Griffon%20nivernais.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Griffon_nivernais.jpg"
+  }
+}

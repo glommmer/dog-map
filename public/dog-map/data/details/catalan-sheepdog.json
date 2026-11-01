@@ -1,0 +1,32 @@
+{
+  "summary": "카탈루냐 피레네의 긴 털 목양견입니다.",
+  "description": "스페인 카탈루냐의 피레네 계곡과 산기슭에서 유래했으며, 거친 긴 털로 산악 기후를 견딥니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CATALAN SHEEPDOG (제87호)",
+      "url": "https://www.fci.be/en/nomenclature/CATALAN-SHEEPDOG-87.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/087g01-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Catalan Sheepdog",
+      "url": "https://en.wikipedia.org/wiki/Catalan_Sheepdog"
+    }
+  ],
+  "fci": {
+    "num": 87,
+    "name": "CATALAN SHEEPDOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "스페인"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Catalaanse%20herder.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Catalaanse_herder.JPG"
+  }
+}

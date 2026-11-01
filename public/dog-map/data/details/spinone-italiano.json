@@ -1,0 +1,36 @@
+{
+  "summary": "거친 털과 수염의 이탈리아 만능 사냥개입니다.",
+  "description": "전통적으로 추적, 포인팅, 회수를 모두 맡아 온 이탈리아 사냥개입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ITALIAN SPINONE (제165호)",
+      "url": "https://www.fci.be/en/nomenclature/ITALIAN-SPINONE-165.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/165g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/spinone-italiano/"
+    },
+    {
+      "label": "Wikipedia: Spinone Italiano",
+      "url": "https://en.wikipedia.org/wiki/Spinone_Italiano"
+    }
+  ],
+  "fci": {
+    "num": 165,
+    "name": "ITALIAN SPINONE",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "«Griffon» type",
+    "status": "definitive",
+    "country": "이탈리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Spinone%20italiano%20Daisy.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Spinone_italiano_Daisy.JPG"
+  }
+}

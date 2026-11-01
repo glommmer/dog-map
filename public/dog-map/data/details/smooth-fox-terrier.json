@@ -1,0 +1,36 @@
+{
+  "summary": "매끈한 털의 폭스 테리어입니다.",
+  "description": "폭스 테리어 계열에서 영국 켄넬 클럽의 공인을 가장 먼저 받은 품종입니다. 여우를 굴에서 몰아내는 사냥을 위해 길러졌고, 흰 바탕의 털 덕분에 사냥개와 구별하기 쉬웠습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: FOX TERRIER (SMOOTH) (제12호)",
+      "url": "https://www.fci.be/en/nomenclature/FOX-TERRIER-SMOOTH-12.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/012g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/smooth-fox-terrier/"
+    },
+    {
+      "label": "Wikipedia: Smooth Fox Terrier",
+      "url": "https://en.wikipedia.org/wiki/Smooth_Fox_Terrier"
+    }
+  ],
+  "fci": {
+    "num": 12,
+    "name": "FOX TERRIER (SMOOTH)",
+    "group": 3,
+    "section": "Large and medium sized Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Terrier%20mix%20sh%20klaas.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Terrier_mix_sh_klaas.jpg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "summary": "마구간에서 쥐를 잡던 네덜란드 소형견입니다.",
+  "description": "핀셔·슈나우저 계통과 가까운 쥐잡이 개입니다. 거친 황색 털을 지닙니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: DUTCH SMOUSHOND (제308호)",
+      "url": "https://www.fci.be/en/nomenclature/DUTCH-SMOUSHOND-308.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/308g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Dutch Smoushond",
+      "url": "https://en.wikipedia.org/wiki/Dutch_Smoushond"
+    }
+  ],
+  "fci": {
+    "num": 308,
+    "name": "DUTCH SMOUSHOND",
+    "group": 2,
+    "section": "Pinscher and Schnauzer type",
+    "sub": "Smoushond",
+    "status": "definitive",
+    "country": "네덜란드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hollandsche%20smoushonden%202.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Hollandsche_smoushonden_2.JPG"
+  }
+}

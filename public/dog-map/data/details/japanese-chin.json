@@ -1,0 +1,40 @@
+{
+  "summary": "일본 왕실과 귀족이 아낀 소형견입니다.",
+  "description": "'재패니즈 스패니얼'로도 불리는 무릎 위 반려견입니다. 아시아 대륙에서 건너간 조상이 일본 귀족 문화 속에서 발전했다고 설명됩니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: JAPANESE CHIN (제206호)",
+      "url": "https://www.fci.be/en/nomenclature/JAPANESE-CHIN-206.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/206g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/japanese-chin/"
+    },
+    {
+      "label": "Wikipedia: Japanese Chin",
+      "url": "https://en.wikipedia.org/wiki/Japanese_Chin"
+    },
+    {
+      "label": "위키백과: 친",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B9%9C"
+    }
+  ],
+  "fci": {
+    "num": 206,
+    "name": "JAPANESE CHIN",
+    "group": 9,
+    "section": "Japan Chin and Pekingese",
+    "sub": "",
+    "status": "definitive",
+    "country": "일본"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20Chin%20adult.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Japanese_Chin_adult.jpg"
+  }
+}

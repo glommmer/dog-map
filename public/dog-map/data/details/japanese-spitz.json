@@ -1,0 +1,40 @@
+{
+  "summary": "솜털 같은 흰 털의 일본 스피츠입니다.",
+  "description": "1920~30년대 일본에서 흰 스피츠들을 바탕으로 개량되었습니다. 나라마다 표준 크기가 조금씩 다릅니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: JAPANESE SPITZ (제262호)",
+      "url": "https://www.fci.be/en/nomenclature/JAPANESE-SPITZ-262.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/262g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/japanese-spitz/"
+    },
+    {
+      "label": "Wikipedia: Japanese Spitz",
+      "url": "https://en.wikipedia.org/wiki/Japanese_Spitz"
+    },
+    {
+      "label": "위키백과: 일본 스피츠",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%B3%B8_%EC%8A%A4%ED%94%BC%EC%B8%A0"
+    }
+  ],
+  "fci": {
+    "num": 262,
+    "name": "JAPANESE SPITZ",
+    "group": 5,
+    "section": "Asian Spitz and related breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "일본"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/JapaneseSpitzPhoto1%20-%20hiro.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:JapaneseSpitzPhoto1_-_hiro.jpg"
+  }
+}

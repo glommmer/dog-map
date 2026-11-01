@@ -1,0 +1,40 @@
+{
+  "summary": "네 가지 유형으로 나뉘는 벨기에의 목양견입니다.",
+  "description": "FCI는 그루넨달, 라케노이즈, 터뷰렌, 말리누아를 한 견종의 변종으로 묶습니다. 이 중 말리누아는 군견과 경찰견으로 특히 널리 쓰입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BELGIAN SHEPHERD DOG (제15호)",
+      "url": "https://www.fci.be/en/nomenclature/BELGIAN-SHEPHERD-DOG-15.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/015g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/belgian-sheepdog/"
+    },
+    {
+      "label": "Wikipedia: Belgian Shepherd",
+      "url": "https://en.wikipedia.org/wiki/Belgian_Shepherd"
+    },
+    {
+      "label": "위키백과: 벨지안 시프도그",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B2%A8%EC%A7%80%EC%95%88_%EC%8B%9C%ED%94%84%EB%8F%84%EA%B7%B8"
+    }
+  ],
+  "fci": {
+    "num": 15,
+    "name": "BELGIAN SHEPHERD DOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "벨기에"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/04%20-%20Belgian%20shepherd%20dog%20varieties%20-%20Groenendael,Tervuren,%20Malinois,%20Laekenois.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:04_-_Belgian_shepherd_dog_varieties_-_Groenendael,Tervuren,_Malinois,_Laekenois.jpg"
+  }
+}

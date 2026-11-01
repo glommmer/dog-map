@@ -1,0 +1,36 @@
+{
+  "summary": "상처 입은 사냥감을 산에서 찾는 사냥개입니다.",
+  "description": "20세기 초부터 독일 산악 지대에서 다친 사냥감을 추적하는 데 쓰이는 후각 사냥개입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BAVARIAN MOUNTAIN SCENT HOUND (제217호)",
+      "url": "https://www.fci.be/en/nomenclature/BAVARIAN-MOUNTAIN-SCENT-HOUND-217.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/217g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/bavarian-mountain-scent-hound/"
+    },
+    {
+      "label": "Wikipedia: Bavarian Mountain Hound",
+      "url": "https://en.wikipedia.org/wiki/Bavarian_Mountain_Hound"
+    }
+  ],
+  "fci": {
+    "num": 217,
+    "name": "BAVARIAN MOUNTAIN SCENT HOUND",
+    "group": 6,
+    "section": "Leash (scent) Hounds",
+    "sub": "",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/BayerischerGebirgsSchweisshund.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:BayerischerGebirgsSchweisshund.jpg"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "14세기까지 거슬러 올라가는 프랑스 조렵견입니다.",
+  "description": "14세기 프랑스 개들의 후손으로 설명되며, 19세기에는 사냥개로 인기를 끌었습니다. 퀘벡으로 건너가 이어지기도 했습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: FRENCH SPANIEL (제175호)",
+      "url": "https://www.fci.be/en/nomenclature/FRENCH-SPANIEL-175.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/175g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/french-spaniel/"
+    },
+    {
+      "label": "Wikipedia: French Spaniel",
+      "url": "https://en.wikipedia.org/wiki/French_Spaniel"
+    }
+  ],
+  "fci": {
+    "num": 175,
+    "name": "FRENCH SPANIEL",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "Spaniel Type",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Epagneulfrancais.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Epagneulfrancais.jpg"
+  }
+}

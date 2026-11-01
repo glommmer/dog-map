@@ -1,0 +1,36 @@
+{
+  "summary": "트란실바니아의 후각 사냥개입니다.",
+  "description": "'헝가리안 하운드'라고도 합니다. 산악 삼림에서 큰 사냥감과 작은 사냥감을 추적합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: HUNGARIAN HOUND - TRANSYLVANIAN SCENT HOUND (제241호)",
+      "url": "https://www.fci.be/en/nomenclature/HUNGARIAN-HOUND-TRANSYLVANIAN-SCENT-HOUND-241.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/241g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/transylvanian-hound/"
+    },
+    {
+      "label": "Wikipedia: Transylvanian Hound",
+      "url": "https://en.wikipedia.org/wiki/Transylvanian_Hound"
+    }
+  ],
+  "fci": {
+    "num": 241,
+    "name": "HUNGARIAN HOUND - TRANSYLVANIAN SCENT HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "헝가리"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Erdelyi%20kopo%20VadaszNimrodSzeder01.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Erdelyi_kopo_VadaszNimrodSzeder01.jpg"
+  }
+}

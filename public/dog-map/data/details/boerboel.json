@@ -1,0 +1,19 @@
+{
+  "summary": "남아프리카의 대형 경비견입니다.",
+  "description": "가족과 농장을 지키는 남아프리카 마스티프입니다. 남아프리카 켄넬 연합의 인정을 받았지만 FCI 인정 견종은 아닙니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/boerboel/"
+    },
+    {
+      "label": "Wikipedia: Boerboel",
+      "url": "https://en.wikipedia.org/wiki/Boerboel"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Boerboel.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Boerboel.jpg"
+  }
+}

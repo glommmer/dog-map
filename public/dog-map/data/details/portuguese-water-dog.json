@@ -1,0 +1,36 @@
+{
+  "summary": "어부를 돕던 알가르브의 물개입니다.",
+  "description": "포르투갈 남부 해안에서 어부들과 함께 일하며 그물을 끌거나 물고기를 몰고 배 사이 심부름을 했습니다. 곱슬거리는 털과 물갈퀴 있는 발이 특징입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: PORTUGUESE WATER DOG (제37호)",
+      "url": "https://www.fci.be/en/nomenclature/PORTUGUESE-WATER-DOG-37.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/037g08-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/portuguese-water-dog/"
+    },
+    {
+      "label": "Wikipedia: Portuguese Water Dog",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Water_Dog"
+    }
+  ],
+  "fci": {
+    "num": 37,
+    "name": "PORTUGUESE WATER DOG",
+    "group": 8,
+    "section": "Water Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "포르투갈"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A3o%20de%20agua%20Portugu%C3%AAs%202.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:C%C3%A3o_de_agua_Portugu%C3%AAs_2.jpg"
+  }
+}

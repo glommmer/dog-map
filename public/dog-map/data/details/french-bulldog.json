@@ -4,10 +4,37 @@
   "origin_note": "프랑스로 건너간 영국 토이 불도그의 후손입니다.",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: FRENCH BULLDOG (제101호)",
+      "url": "https://www.fci.be/en/nomenclature/FRENCH-BULLDOG-101.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/101g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/french-bulldog/"
+    },
+    {
+      "label": "Wikipedia: French Bulldog",
+      "url": "https://en.wikipedia.org/wiki/French_Bulldog"
+    },
+    {
+      "label": "위키백과: 프렌치 불도그",
+      "url": "https://ko.wikipedia.org/wiki/%ED%94%84%EB%A0%8C%EC%B9%98_%EB%B6%88%EB%8F%84%EA%B7%B8"
     }
-  ]
+  ],
+  "fci": {
+    "num": 101,
+    "name": "FRENCH BULLDOG",
+    "group": 9,
+    "section": "Small Molossian type Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B1%D1%83%D0%BB%D1%8C%D0%B4%D0%BE%D0%B3%D0%B8%202013-09-02%2011-36.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%B1%D1%83%D0%BB%D1%8C%D0%B4%D0%BE%D0%B3%D0%B8_2013-09-02_11-36.JPG"
+  }
 }
-

@@ -1,0 +1,40 @@
+{
+  "summary": "찰스 2세와 얽힌 영국의 소형 스패니얼입니다.",
+  "description": "1903년 영국 켄넬 클럽이 네 가지 토이 스패니얼을 이 이름으로 통합했습니다. 짧은 코와 둥근 머리가 특징입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: KING CHARLES SPANIEL (제128호)",
+      "url": "https://www.fci.be/en/nomenclature/KING-CHARLES-SPANIEL-128.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/128g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/english-toy-spaniel/"
+    },
+    {
+      "label": "Wikipedia: King Charles Spaniel",
+      "url": "https://en.wikipedia.org/wiki/King_Charles_Spaniel"
+    },
+    {
+      "label": "위키백과: 킹 찰스 스패니얼",
+      "url": "https://ko.wikipedia.org/wiki/%ED%82%B9_%EC%B0%B0%EC%8A%A4_%EC%8A%A4%ED%8C%A8%EB%8B%88%EC%96%BC"
+    }
+  ],
+  "fci": {
+    "num": 128,
+    "name": "KING CHARLES SPANIEL",
+    "group": 9,
+    "section": "English Toy Spaniels",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20Spaniel%20Mike%203.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:King_Charles_Spaniel_Mike_3.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "summary": "웨일스의 희귀한 흰 테리어입니다.",
+  "description": "웨일스 펨브로크셔의 영지 실리엄에서 19세기에 만들어진 작업견입니다. 오늘날 개체 수가 적은 희귀 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SEALYHAM TERRIER (제74호)",
+      "url": "https://www.fci.be/en/nomenclature/SEALYHAM-TERRIER-74.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/074g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/sealyham-terrier/"
+    },
+    {
+      "label": "Wikipedia: Sealyham Terrier",
+      "url": "https://en.wikipedia.org/wiki/Sealyham_Terrier"
+    },
+    {
+      "label": "위키백과: 실리엄 테리어",
+      "url": "https://ko.wikipedia.org/wiki/%EC%8B%A4%EB%A6%AC%EC%97%84_%ED%85%8C%EB%A6%AC%EC%96%B4"
+    }
+  ],
+  "fci": {
+    "num": 74,
+    "name": "SEALYHAM TERRIER",
+    "group": 3,
+    "section": "Small sized Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/SealyhamTerrier01.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:SealyhamTerrier01.jpg"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "검정과 황갈색 털의 그리스 사냥개입니다.",
+  "description": "그리스 남부에서 산토끼를 쫓던 희귀 후각 사냥개입니다. 털색은 검정과 황갈색뿐입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: HELLENIC HOUND (제214호)",
+      "url": "https://www.fci.be/en/nomenclature/HELLENIC-HOUND-214.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/214g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Greek Harehound",
+      "url": "https://en.wikipedia.org/wiki/Greek_Harehound"
+    },
+    {
+      "label": "위키백과: 그리크 헤어하운드",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%A6%AC%ED%81%AC_%ED%97%A4%EC%96%B4%ED%95%98%EC%9A%B4%EB%93%9C"
+    }
+  ],
+  "fci": {
+    "num": 214,
+    "name": "HELLENIC HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "그리스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hellinikos%20Ichnilatis%20(Georging)%20cropped.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Hellinikos_Ichnilatis_(Georging)_cropped.jpg"
+  }
+}

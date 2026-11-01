@@ -1,0 +1,40 @@
+{
+  "summary": "대형 동물 사냥을 위해 만든 아르헨티나 흰 개입니다.",
+  "description": "20세기 초 코르도바에서 마르티네스 형제가 멧돼지와 퓨마 사냥을 위해 개량했습니다. 일부 국가에서는 사육이 제한됩니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: DOGO ARGENTINO (제292호)",
+      "url": "https://www.fci.be/en/nomenclature/DOGO-ARGENTINO-292.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/292g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/dogo-argentino/"
+    },
+    {
+      "label": "Wikipedia: Dogo Argentino",
+      "url": "https://en.wikipedia.org/wiki/Dogo_Argentino"
+    },
+    {
+      "label": "위키백과: 도고 아르헨티노",
+      "url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EA%B3%A0_%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%85%B8"
+    }
+  ],
+  "fci": {
+    "num": 292,
+    "name": "DOGO ARGENTINO",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "definitive",
+    "country": "아르헨티나"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dogo%20Argentino%20-Argentijnse%20dog%2014-04-2010%2017-00-50.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Dogo_Argentino_-Argentijnse_dog_14-04-2010_17-00-50.jpg"
+  }
+}

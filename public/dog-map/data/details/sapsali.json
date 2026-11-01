@@ -4,10 +4,20 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "국가유산청 국가유산포털: 천연기념물 경산의 삽살개",
+      "url": "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?pageNo=1_1_2_0&ccbaCpno=1363703680000"
+    },
+    {
+      "label": "Wikipedia: Sapsali",
+      "url": "https://en.wikipedia.org/wiki/Sapsali"
+    },
+    {
+      "label": "위키백과: 삽살개",
+      "url": "https://ko.wikipedia.org/wiki/%EC%82%BD%EC%82%B4%EA%B0%9C"
     }
-  ]
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Korea-Jeonju-Sapsal%20dog%20in%20front%20of%20a%20Hanok%20Village-01.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Korea-Jeonju-Sapsal_dog_in_front_of_a_Hanok_Village-01.jpg"
+  }
 }
-

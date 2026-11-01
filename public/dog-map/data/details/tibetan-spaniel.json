@@ -1,0 +1,36 @@
+{
+  "summary": "스패니얼이 아닌 티베트의 소형견입니다.",
+  "description": "사원에서 길러졌다고 전해지는 작고 자신감 있는 개입니다. 이름에도 불구하고 사냥용 스패니얼과는 다른 계통입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: TIBETAN SPANIEL (제231호)",
+      "url": "https://www.fci.be/en/nomenclature/TIBETAN-SPANIEL-231.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/231g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/tibetan-spaniel/"
+    },
+    {
+      "label": "Wikipedia: Tibetan spaniel",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_spaniel"
+    }
+  ],
+  "fci": {
+    "num": 231,
+    "name": "TIBETAN SPANIEL",
+    "group": 9,
+    "section": "Tibetan breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "티베트(중국)"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Tibetansk%20spaniel.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Tibetansk_spaniel.jpg"
+  }
+}

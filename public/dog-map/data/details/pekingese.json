@@ -4,10 +4,37 @@
   "origin_note": "",
   "sources": [
     {
-      "label": "출처 입력 필요 (사실 확인 후 작성)",
-      "url": "",
-      "placeholder": true
+      "label": "FCI 견종 명단: PEKINGESE (제207호)",
+      "url": "https://www.fci.be/en/nomenclature/PEKINGESE-207.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/207g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/pekingese/"
+    },
+    {
+      "label": "Wikipedia: Pekingese",
+      "url": "https://en.wikipedia.org/wiki/Pekingese"
+    },
+    {
+      "label": "위키백과: 페키니즈",
+      "url": "https://ko.wikipedia.org/wiki/%ED%8E%98%ED%82%A4%EB%8B%88%EC%A6%88"
     }
-  ]
+  ],
+  "fci": {
+    "num": 207,
+    "name": "PEKINGESE",
+    "group": 9,
+    "section": "Japan Chin and Pekingese",
+    "sub": "",
+    "status": "definitive",
+    "country": "중국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/1AKC%20Pekingese%20Dog%20Show%202011.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:1AKC_Pekingese_Dog_Show_2011.jpg"
+  }
 }
-

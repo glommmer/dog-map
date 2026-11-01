@@ -1,0 +1,40 @@
+{
+  "summary": "'알라바이'로 불리는 중앙아시아의 대형 보호견입니다.",
+  "description": "유목민의 가축을 지키던 대형 보호견입니다. FCI 원산국은 러시아로 표기되어 있으나, 기원은 중앙아시아 초원 지대입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CENTRAL ASIA SHEPHERD DOG (제335호)",
+      "url": "https://www.fci.be/en/nomenclature/CENTRAL-ASIA-SHEPHERD-DOG-335.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/335g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/central-asian-shepherd-dog/"
+    },
+    {
+      "label": "Wikipedia: Central Asian Shepherd Dog",
+      "url": "https://en.wikipedia.org/wiki/Central_Asian_Shepherd_Dog"
+    },
+    {
+      "label": "위키백과: 센트럴 아시아 셰퍼드 독",
+      "url": "https://ko.wikipedia.org/wiki/%EC%84%BC%ED%8A%B8%EB%9F%B4_%EC%95%84%EC%8B%9C%EC%95%84_%EC%85%B0%ED%8D%BC%EB%93%9C_%EB%8F%85"
+    }
+  ],
+  "fci": {
+    "num": 335,
+    "name": "CENTRAL ASIA SHEPHERD DOG",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "러시아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B2%D1%87%D0%B0%D1%80%D0%BA%D0%B0,%20%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%B1%D0%B5%D0%BB%D1%8C.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B2%D1%87%D0%B0%D1%80%D0%BA%D0%B0,_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9_%D0%BA%D0%BE%D0%B1%D0%B5%D0%BB%D1%8C.jpg"
+  }
+}

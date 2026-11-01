@@ -17,6 +17,20 @@
     "medium": { "ko": "중형", "en": "Medium" },
     "large": { "ko": "대형", "en": "Large" },
     "giant": { "ko": "초대형", "en": "Giant" }
+  },
+  "continents": {
+    "asia": { "ko": "아시아", "en": "Asia" },
+    "europe": { "ko": "유럽", "en": "Europe" },
+    "africa": { "ko": "아프리카", "en": "Africa" },
+    "namerica": { "ko": "북아메리카", "en": "North America" },
+    "samerica": { "ko": "남아메리카", "en": "South America" },
+    "oceania": { "ko": "오세아니아", "en": "Oceania" }
+  },
+  "recognition": {
+    "fci": { "ko": "FCI 정식", "en": "FCI definitive" },
+    "prov": { "ko": "FCI 잠정", "en": "FCI provisional" },
+    "akc": { "ko": "AKC 등재", "en": "AKC listed" },
+    "other": { "ko": "그 외 토착·지역 견종", "en": "Other" }
   }
 }
 

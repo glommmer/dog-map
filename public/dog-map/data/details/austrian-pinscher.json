@@ -1,0 +1,32 @@
+{
+  "summary": "농가를 지키던 오스트리아의 핀셔입니다.",
+  "description": "농장의 곳간에서 쥐를 잡고 집을 지키던 개에서 비롯되었습니다. 단단한 체구와 짧은 털을 가진 중형견입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: AUSTRIAN  PINSCHER (제64호)",
+      "url": "https://www.fci.be/en/nomenclature/AUSTRIAN-PINSCHER-64.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/064g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Austrian Pinscher",
+      "url": "https://en.wikipedia.org/wiki/Austrian_Pinscher"
+    }
+  ],
+  "fci": {
+    "num": 64,
+    "name": "AUSTRIAN  PINSCHER",
+    "group": 2,
+    "section": "Pinscher and Schnauzer type",
+    "sub": "Pinscher",
+    "status": "definitive",
+    "country": "오스트리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pinczer%20austiacki%20678.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Pinczer_austiacki_678.jpg"
+  }
+}
