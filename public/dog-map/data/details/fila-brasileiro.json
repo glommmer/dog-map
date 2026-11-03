@@ -1,0 +1,36 @@
+{
+  "summary": "브라질의 대형 마스티프입니다.",
+  "description": "경비, 가축 몰이, 대형 동물 사냥에 쓰이는 대형견입니다. 일부 국가에서는 사육을 규제합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: FILA BRASILEIRO (제225호)",
+      "url": "https://www.fci.be/en/nomenclature/FILA-BRASILEIRO-225.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/225g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Fila Brasileiro",
+      "url": "https://en.wikipedia.org/wiki/Fila_Brasileiro"
+    },
+    {
+      "label": "위키백과: 필라 브라질레이로",
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%84%EB%9D%BC_%EB%B8%8C%EB%9D%BC%EC%A7%88%EB%A0%88%EC%9D%B4%EB%A1%9C"
+    }
+  ],
+  "fci": {
+    "num": 225,
+    "name": "FILA BRASILEIRO",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "definitive",
+    "country": "브라질"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Yacare%20De%20El%20Siledin.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Yacare_De_El_Siledin.JPG"
+  }
+}

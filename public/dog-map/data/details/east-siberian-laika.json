@@ -1,0 +1,32 @@
+{
+  "summary": "예니세이강 동쪽의 사냥 스피츠입니다.",
+  "description": "시베리아 예니세이강 동쪽의 사냥개에서 비롯되었습니다. 추위에 잘 견디며 곰, 엘크, 담비 등을 쫓습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: EAST SIBERIAN LAIKA (제305호)",
+      "url": "https://www.fci.be/en/nomenclature/EAST-SIBERIAN-LAIKA-305.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/305g05-en.pdf"
+    },
+    {
+      "label": "Wikipedia: East Siberian Laika",
+      "url": "https://en.wikipedia.org/wiki/East_Siberian_Laika"
+    }
+  ],
+  "fci": {
+    "num": 305,
+    "name": "EAST SIBERIAN LAIKA",
+    "group": 5,
+    "section": "Nordic Hunting Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "러시아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/East%20Siberian%20Laika%2003.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:East_Siberian_Laika_03.jpg"
+  }
+}

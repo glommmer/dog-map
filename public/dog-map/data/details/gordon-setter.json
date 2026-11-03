@@ -1,0 +1,36 @@
+{
+  "summary": "검정과 황갈색 털을 지닌 스코틀랜드의 세터입니다.",
+  "description": "세터 계열 가운데 체격이 큰 편인 스코틀랜드 견종입니다. 고든 공작 가문의 사냥개 사육과 관련되어 이름이 붙었으며, 인내심 있게 오래 일하는 조렵견으로 평가받습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GORDON SETTER (제6호)",
+      "url": "https://www.fci.be/en/nomenclature/GORDON-SETTER-6.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/006g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/gordon-setter/"
+    },
+    {
+      "label": "Wikipedia: Gordon Setter",
+      "url": "https://en.wikipedia.org/wiki/Gordon_Setter"
+    }
+  ],
+  "fci": {
+    "num": 6,
+    "name": "GORDON SETTER",
+    "group": 7,
+    "section": "British and Irish Pointers and Setters",
+    "sub": "Setter",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Orrvilas%20enska%20w800px.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Orrvilas_enska_w800px.jpg"
+  }
+}

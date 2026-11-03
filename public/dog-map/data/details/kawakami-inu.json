@@ -1,0 +1,15 @@
+{
+  "summary": "나가노현 천연기념물인 일본 토종개입니다.",
+  "description": "시바견의 한 유형으로 여겨지며 나가노현 지정 천연기념물입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Kawakami Inu",
+      "url": "https://en.wikipedia.org/wiki/Kawakami_Inu"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%B7%9D%E4%B8%8A%E7%8A%AC.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:%E5%B7%9D%E4%B8%8A%E7%8A%AC.JPG"
+  }
+}

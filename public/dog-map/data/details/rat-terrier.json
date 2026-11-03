@@ -1,0 +1,19 @@
+{
+  "summary": "미국 농장의 쥐 잡이 테리어입니다.",
+  "description": "1920~30년대 미국 농가에 흔했으며, 사냥개 '피스트'와 조상이 겹칩니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/rat-terrier/"
+    },
+    {
+      "label": "Wikipedia: Rat Terrier",
+      "url": "https://en.wikipedia.org/wiki/Rat_Terrier"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/AmRatTerr11%20fx%20wb.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:AmRatTerr11_fx_wb.jpg"
+  }
+}

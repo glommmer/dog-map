@@ -1,0 +1,36 @@
+{
+  "summary": "제2차 세계대전 후 독일에서 생겨난 반려견입니다.",
+  "description": "종전 뒤 우연한 교배에서 시작된 비교적 새로운 품종입니다. 이름은 지겐 인근 지명 '크룸 푸어'에서 왔습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: KROMFOHRLÄNDER (제192호)",
+      "url": "https://www.fci.be/en/nomenclature/KROMFOHRLANDER-192.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/192g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/kromfohrlander/"
+    },
+    {
+      "label": "Wikipedia: Kromfohrländer",
+      "url": "https://en.wikipedia.org/wiki/Kromfohrl%C3%A4nder"
+    }
+  ],
+  "fci": {
+    "num": 192,
+    "name": "KROMFOHRLÄNDER",
+    "group": 9,
+    "section": "Kromfohrländer",
+    "sub": "",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kromfohrlaender%20glatt.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Kromfohrlaender_glatt.jpg"
+  }
+}

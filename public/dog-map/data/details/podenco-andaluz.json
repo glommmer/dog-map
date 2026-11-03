@@ -1,0 +1,15 @@
+{
+  "summary": "세 가지 크기의 스페인 사냥개입니다.",
+  "description": "스페인 켄넬 협회가 인정하는 네 포덴코 품종 가운데 하나로, 토끼와 멧돼지 등을 사냥합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Podenco Andaluz",
+      "url": "https://en.wikipedia.org/wiki/Podenco_Andaluz"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20(podenco%20andaluz).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Sheila_(podenco_andaluz).jpg"
+  }
+}

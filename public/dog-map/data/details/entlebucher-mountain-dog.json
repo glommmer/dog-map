@@ -1,0 +1,36 @@
+{
+  "summary": "스위스 산악견 중 가장 작은 견종입니다.",
+  "description": "네 젠넨훈트 가운데 체구가 가장 작습니다. 루체른주 엔틀레부흐 계곡에서 소를 몰았으며, 민첩하고 활동량이 많습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ENTLEBUCH CATTLE DOG (제47호)",
+      "url": "https://www.fci.be/en/nomenclature/ENTLEBUCH-CATTLE-DOG-47.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/047g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/entlebucher-mountain-dog/"
+    },
+    {
+      "label": "Wikipedia: Entlebucher Mountain Dog",
+      "url": "https://en.wikipedia.org/wiki/Entlebucher_Mountain_Dog"
+    }
+  ],
+  "fci": {
+    "num": 47,
+    "name": "ENTLEBUCH CATTLE DOG",
+    "group": 2,
+    "section": "Swiss Mountain- and Cattledogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "스위스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Entlebucher%20sennenhond.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Entlebucher_sennenhond.jpg"
+  }
+}

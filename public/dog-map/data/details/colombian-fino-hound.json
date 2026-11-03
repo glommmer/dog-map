@@ -1,0 +1,32 @@
+{
+  "summary": "콜롬비아 유일의 공인 토종 견종입니다.",
+  "description": "스페인 사냥개가 콜롬비아에서 발전한 후각 사냥개입니다. FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: COLOMBIAN FINO HOUND (제376호)",
+      "url": "https://www.fci.be/en/nomenclature/COLOMBIAN-FINO-HOUND-376.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/376g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Colombian Fino Hound",
+      "url": "https://en.wikipedia.org/wiki/Colombian_Fino_Hound"
+    }
+  ],
+  "fci": {
+    "num": 376,
+    "name": "COLOMBIAN FINO HOUND",
+    "group": null,
+    "section": "Scent hounds",
+    "sub": "",
+    "status": "provisional",
+    "country": "콜롬비아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Colombianus%20Finus.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Colombianus_Finus.jpg"
+  }
+}

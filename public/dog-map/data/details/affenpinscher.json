@@ -1,0 +1,40 @@
+{
+  "summary": "원숭이 같은 얼굴의 독일 소형견입니다.",
+  "description": "이름은 '원숭이 핀셔'를 뜻합니다. 예전에는 농장과 마구간에서 쥐를 잡았고, 지금은 반려견으로 길러집니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: AFFENPINSCHER (제186호)",
+      "url": "https://www.fci.be/en/nomenclature/AFFENPINSCHER-186.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/186g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/affenpinscher/"
+    },
+    {
+      "label": "Wikipedia: Affenpinscher",
+      "url": "https://en.wikipedia.org/wiki/Affenpinscher"
+    },
+    {
+      "label": "위키백과: 아펜핀셔",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%ED%8E%9C%ED%95%80%EC%85%94"
+    }
+  ],
+  "fci": {
+    "num": 186,
+    "name": "AFFENPINSCHER",
+    "group": 2,
+    "section": "Pinscher and Schnauzer type",
+    "sub": "Pinscher",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Affenpinscher%20breed.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Affenpinscher_breed.jpg"
+  }
+}

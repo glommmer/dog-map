@@ -1,0 +1,32 @@
+{
+  "summary": "푸른빛 얼룩 털을 지닌 프랑스 대형 사냥개입니다.",
+  "description": "매우 오래된 가스코뉴 사냥개 계통의 후손으로, 무리 사냥에 쓰입니다. 흰 털에 검은 털이 섞여 푸른빛으로 보입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GREAT GASCONY BLUE (제22호)",
+      "url": "https://www.fci.be/en/nomenclature/GREAT-GASCONY-BLUE-22.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/022g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Grand Bleu de Gascogne",
+      "url": "https://en.wikipedia.org/wiki/Grand_Bleu_de_Gascogne"
+    }
+  ],
+  "fci": {
+    "num": 22,
+    "name": "GREAT GASCONY BLUE",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Bleu%20de%20Gascogne%20in%20a%20blue%20dogcollar.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Grand_Bleu_de_Gascogne_in_a_blue_dogcollar.jpg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "summary": "스위스 하운드의 다리 짧은 소형 계통입니다.",
+  "description": "'니더라우프훈트'는 다리가 짧은 사냥개를 뜻합니다. 스위스 하운드처럼 지역별 유형으로 나뉘며, 사냥 제한 지역에 맞춰 체구가 작게 개량되었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SMALL SWISS HOUND (제60호)",
+      "url": "https://www.fci.be/en/nomenclature/SMALL-SWISS-HOUND-60.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/060g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Schweizerischer Niederlaufhund",
+      "url": "https://en.wikipedia.org/wiki/Schweizerischer_Niederlaufhund"
+    }
+  ],
+  "fci": {
+    "num": 60,
+    "name": "SMALL SWISS HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Small-sized Hounds",
+    "status": "definitive",
+    "country": "스위스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/08115491%20Schwyzer%20Niederlaufhund.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:08115491_Schwyzer_Niederlaufhund.jpg"
+  }
+}

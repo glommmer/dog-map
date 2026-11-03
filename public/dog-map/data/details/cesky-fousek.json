@@ -1,0 +1,32 @@
+{
+  "summary": "체코의 거친 털 만능 사냥개입니다.",
+  "description": "이름은 '체코의 수염 난 개'를 뜻합니다. 전통적으로 사냥, 포인팅, 회수를 담당합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BOHEMIAN WIRE-HAIRED POINTING GRIFFON (제245호)",
+      "url": "https://www.fci.be/en/nomenclature/BOHEMIAN-WIRE-HAIRED-POINTING-GRIFFON-245.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/245g07-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Český Fousek",
+      "url": "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Fousek"
+    }
+  ],
+  "fci": {
+    "num": 245,
+    "name": "BOHEMIAN WIRE-HAIRED POINTING GRIFFON",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "«Griffon» type",
+    "status": "definitive",
+    "country": "체코"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Czeski%20fousek%20777.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Czeski_fousek_777.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "summary": "나비 같은 귀를 가진 유럽 궁정의 소형견입니다.",
+  "description": "FCI 이름은 '콘티넨털 토이 스패니얼'이며, 귀가 선 파피용과 늘어진 팔렌 두 유형으로 나뉩니다. 유럽 왕실의 초상화에도 자주 등장합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CONTINENTAL TOY SPANIEL (제77호)",
+      "url": "https://www.fci.be/en/nomenclature/CONTINENTAL-TOY-SPANIEL-77.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/077g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/papillon/"
+    },
+    {
+      "label": "Wikipedia: Continental Toy Spaniel",
+      "url": "https://en.wikipedia.org/wiki/Continental_Toy_Spaniel"
+    },
+    {
+      "label": "위키백과: 파피용 (개)",
+      "url": "https://ko.wikipedia.org/wiki/%ED%8C%8C%ED%94%BC%EC%9A%A9_(%EA%B0%9C)"
+    }
+  ],
+  "fci": {
+    "num": 77,
+    "name": "CONTINENTAL TOY SPANIEL",
+    "group": 9,
+    "section": "Continental Toy Spaniel and others",
+    "sub": "",
+    "status": "definitive",
+    "country": "벨기에·프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Outdoor%20Continental%20Toy%20Spaniel%20Papillon.jpeg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Outdoor_Continental_Toy_Spaniel_Papillon.jpeg"
+  }
+}

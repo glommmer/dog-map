@@ -1,0 +1,32 @@
+{
+  "summary": "스웨덴에서 가장 오래된 후각 사냥개로 꼽힙니다.",
+  "description": "16세기 스웨덴에서 유래한 것으로 설명됩니다. 검정과 황갈색 털을 지니고, 짧은 꼬리를 타고나는 개체도 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SMÅLANDSSTÖVARE (제129호)",
+      "url": "https://www.fci.be/en/nomenclature/SMALANDSSTOVARE-129.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/129g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Smaland Hound",
+      "url": "https://en.wikipedia.org/wiki/Smaland_Hound"
+    }
+  ],
+  "fci": {
+    "num": 129,
+    "name": "SMÅLANDSSTÖVARE",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "스웨덴"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Smaland-St%C3%B6vare.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Smaland-St%C3%B6vare.jpg"
+  }
+}

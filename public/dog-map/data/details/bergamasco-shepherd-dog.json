@@ -1,0 +1,36 @@
+{
+  "summary": "판상으로 꼬이는 털의 이탈리아 목양견입니다.",
+  "description": "알프스 베르가모 일대의 목양견입니다. 털이 뭉쳐 납작한 판을 이루는 독특한 코트를 지닙니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BERGAMASCO SHEPHERD DOG (제194호)",
+      "url": "https://www.fci.be/en/nomenclature/BERGAMASCO-SHEPHERD-DOG-194.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/194g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/bergamasco-sheepdog/"
+    },
+    {
+      "label": "Wikipedia: Bergamasco Shepherd Dog",
+      "url": "https://en.wikipedia.org/wiki/Bergamasco_Shepherd_Dog"
+    }
+  ],
+  "fci": {
+    "num": 194,
+    "name": "BERGAMASCO SHEPHERD DOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "이탈리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bergamasco%20600.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Bergamasco_600.jpg"
+  }
+}

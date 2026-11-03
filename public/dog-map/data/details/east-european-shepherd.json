@@ -1,0 +1,15 @@
+{
+  "summary": "소련이 개량한 군용 셰퍼드입니다.",
+  "description": "추위에 더 강한 군견을 위해 저먼 셰퍼드를 바탕으로 소련에서 선택 번식했습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: East European Shepherd",
+      "url": "https://en.wikipedia.org/wiki/East_European_Shepherd"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vostochno%20Evropeiskaya%20Ovcharka.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Vostochno_Evropeiskaya_Ovcharka.jpg"
+  }
+}

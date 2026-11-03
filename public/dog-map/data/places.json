@@ -1,0 +1,33 @@
+[
+  { "ko": "태평양", "en": "Pacific Ocean", "lat": 5, "lng": -150, "minScale": 0, "maxScale": 900, "rank": 3, "kind": "sea" },
+  { "ko": "대서양", "en": "Atlantic Ocean", "lat": 25, "lng": -42, "minScale": 0, "maxScale": 900, "rank": 3, "kind": "sea" },
+  { "ko": "인도양", "en": "Indian Ocean", "lat": -22, "lng": 78, "minScale": 0, "maxScale": 900, "rank": 3, "kind": "sea" },
+
+  { "ko": "브라질", "en": "Brazil", "lat": -10, "lng": -52, "minScale": 0, "maxScale": 1200, "rank": 5, "kind": "country" },
+  { "ko": "인도", "en": "India", "lat": 22, "lng": 79, "minScale": 0, "maxScale": 1200, "rank": 5, "kind": "country" },
+  { "ko": "아르헨티나", "en": "Argentina", "lat": -35, "lng": -65, "minScale": 0, "maxScale": 1200, "rank": 4, "kind": "country" },
+  { "ko": "이집트", "en": "Egypt", "lat": 26.5, "lng": 30, "minScale": 0, "maxScale": 1200, "rank": 4, "kind": "country" },
+  { "ko": "사우디아라비아", "en": "Saudi Arabia", "lat": 24, "lng": 45, "minScale": 0, "maxScale": 1200, "rank": 3, "kind": "country" },
+  { "ko": "남아프리카공화국", "en": "South Africa", "lat": -30, "lng": 24, "minScale": 0, "maxScale": 1200, "rank": 3, "kind": "country" },
+  { "ko": "카자흐스탄", "en": "Kazakhstan", "lat": 48, "lng": 67, "minScale": 0, "maxScale": 1200, "rank": 3, "kind": "country" },
+  { "ko": "인도네시아", "en": "Indonesia", "lat": -2, "lng": 115, "minScale": 0, "maxScale": 1200, "rank": 3, "kind": "country" },
+  { "ko": "나이지리아", "en": "Nigeria", "lat": 9.5, "lng": 8, "minScale": 0, "maxScale": 1200, "rank": 2, "kind": "country" },
+
+  { "ko": "시베리아", "en": "Siberia", "lat": 60, "lng": 110, "minScale": 700, "maxScale": 4000, "rank": 6, "kind": "region" },
+  { "ko": "사하라사막", "en": "Sahara", "lat": 23, "lng": 8, "minScale": 700, "maxScale": 4000, "rank": 5, "kind": "region" },
+  { "ko": "아마존", "en": "Amazon", "lat": -4, "lng": -62, "minScale": 900, "maxScale": 5000, "rank": 5, "kind": "region" },
+  { "ko": "히말라야", "en": "Himalayas", "lat": 28.5, "lng": 84, "minScale": 1000, "maxScale": 6000, "rank": 5, "kind": "region" },
+  { "ko": "로키산맥", "en": "Rocky Mountains", "lat": 44, "lng": -111, "minScale": 1000, "maxScale": 6000, "rank": 4, "kind": "region" },
+  { "ko": "안데스산맥", "en": "Andes", "lat": -22, "lng": -69, "minScale": 1000, "maxScale": 6000, "rank": 4, "kind": "region" },
+  { "ko": "티베트고원", "en": "Tibetan Plateau", "lat": 33.5, "lng": 86, "minScale": 1300, "maxScale": 8000, "rank": 5, "kind": "region" },
+  { "ko": "콩고 분지", "en": "Congo Basin", "lat": 1.5, "lng": 18, "minScale": 1300, "maxScale": 8000, "rank": 5, "kind": "region" },
+  { "ko": "알프스산맥", "en": "Alps", "lat": 46.6, "lng": 10.5, "minScale": 2200, "maxScale": 16000, "rank": 5, "kind": "region" },
+  { "ko": "발칸반도", "en": "Balkans", "lat": 42.5, "lng": 21.5, "minScale": 1800, "maxScale": 9000, "rank": 4, "kind": "region" },
+  { "ko": "추코트카", "en": "Chukotka", "lat": 67.5, "lng": 165, "minScale": 1500, "maxScale": 9000, "rank": 4, "kind": "region" },
+  { "ko": "뉴펀들랜드", "en": "Newfoundland", "lat": 50, "lng": -58, "minScale": 2000, "maxScale": 12000, "rank": 4, "kind": "region" },
+  { "ko": "스코틀랜드 고지대", "en": "Scottish Highlands", "lat": 58, "lng": -3.4, "minScale": 3000, "maxScale": 24000, "rank": 5, "kind": "region" },
+  { "ko": "웨일스", "en": "Wales", "lat": 52.4, "lng": -3.4, "minScale": 4000, "maxScale": 24000, "rank": 4, "kind": "region" },
+  { "ko": "달마티아", "en": "Dalmatia", "lat": 44.2, "lng": 15.2, "minScale": 4000, "maxScale": 24000, "rank": 4, "kind": "region" },
+  { "ko": "포메라니아", "en": "Pomerania", "lat": 54.5, "lng": 16.5, "minScale": 4000, "maxScale": 24000, "rank": 4, "kind": "region" }
+]
+

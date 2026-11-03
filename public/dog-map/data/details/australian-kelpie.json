@@ -1,0 +1,36 @@
+{
+  "summary": "지시 없이도 양을 모는 호주의 목양견입니다.",
+  "description": "호주에서 만들어진 양몰이 개로, 양 등 위를 뛰어다니며 일하는 모습이 유명합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: AUSTRALIAN KELPIE (제293호)",
+      "url": "https://www.fci.be/en/nomenclature/AUSTRALIAN-KELPIE-293.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/293g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/australian-kelpie/"
+    },
+    {
+      "label": "Wikipedia: Australian Kelpie",
+      "url": "https://en.wikipedia.org/wiki/Australian_Kelpie"
+    }
+  ],
+  "fci": {
+    "num": 293,
+    "name": "AUSTRALIAN KELPIE",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "호주"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bashyr.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Bashyr.jpg"
+  }
+}

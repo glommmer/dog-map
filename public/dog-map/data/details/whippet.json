@@ -1,0 +1,40 @@
+{
+  "summary": "그레이하운드를 닮은 영국의 중형 시각 사냥개입니다.",
+  "description": "그레이하운드와 이탈리안 그레이하운드 사이의 체구를 지녔습니다. 19세기 영국에서 경주와 토끼 사냥에 쓰였습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: WHIPPET (제162호)",
+      "url": "https://www.fci.be/en/nomenclature/WHIPPET-162.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/162g10-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/whippet/"
+    },
+    {
+      "label": "Wikipedia: Whippet",
+      "url": "https://en.wikipedia.org/wiki/Whippet"
+    },
+    {
+      "label": "위키백과: 휘핏",
+      "url": "https://ko.wikipedia.org/wiki/%ED%9C%98%ED%95%8F"
+    }
+  ],
+  "fci": {
+    "num": 162,
+    "name": "WHIPPET",
+    "group": 10,
+    "section": "Short-haired Sighthounds",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Whippet%20stacked.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Whippet_stacked.jpg"
+  }
+}

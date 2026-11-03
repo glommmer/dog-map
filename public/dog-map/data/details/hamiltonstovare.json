@@ -1,0 +1,36 @@
+{
+  "summary": "스웨덴 켄넬 클럽 창립자가 만든 사냥개입니다.",
+  "description": "아돌프 하밀톤 백작이 독일계와 영국계 사냥개를 바탕으로 개량했습니다. 선명한 삼색 털이 특징입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: HAMILTONSTÖVARE (제132호)",
+      "url": "https://www.fci.be/en/nomenclature/HAMILTONSTOVARE-132.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/132g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/hamiltonstovare/"
+    },
+    {
+      "label": "Wikipedia: Hamiltonstövare",
+      "url": "https://en.wikipedia.org/wiki/Hamiltonst%C3%B6vare"
+    }
+  ],
+  "fci": {
+    "num": 132,
+    "name": "HAMILTONSTÖVARE",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "스웨덴"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hamiltonstovare%20600.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Hamiltonstovare_600.jpg"
+  }
+}

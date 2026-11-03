@@ -1,0 +1,15 @@
+{
+  "summary": "중국 공안부가 개발한 경찰견입니다.",
+  "description": "20세기 후반 중국 공안부가 개량한 경찰용 품종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Kunma Dog",
+      "url": "https://en.wikipedia.org/wiki/Kunma_Dog"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/%E4%B8%AD%E5%9C%8B%E6%98%86%E9%A6%AC%E7%8A%AC.png?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9C%8B%E6%98%86%E9%A6%AC%E7%8A%AC.png"
+  }
+}

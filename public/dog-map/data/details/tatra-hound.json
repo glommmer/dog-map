@@ -1,0 +1,32 @@
+{
+  "summary": "슬로바키아의 추적 전문 사냥개입니다.",
+  "description": "슬로바키아 품종으로, 작은 체구로 사냥감 추적과 잠행에 쓰입니다. FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: TATRA HOUND (제377호)",
+      "url": "https://www.fci.be/en/nomenclature/TATRA-HOUND-377.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/377g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Tatra Hound",
+      "url": "https://en.wikipedia.org/wiki/Tatra_Hound"
+    }
+  ],
+  "fci": {
+    "num": 377,
+    "name": "TATRA HOUND",
+    "group": null,
+    "section": "Leash (scent) Hounds",
+    "sub": "",
+    "status": "provisional",
+    "country": "슬로바키아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Tatranajokoira1.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Tatranajokoira1.jpg"
+  }
+}

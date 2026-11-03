@@ -1,0 +1,40 @@
+{
+  "summary": "활력 넘치는 영국 소형 테리어입니다.",
+  "description": "흰 바탕에 무늬가 있으며, 매끈한 털과 거친 털이 있습니다. 파슨 러셀 테리어보다 다리가 짧습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: JACK RUSSELL TERRIER (제345호)",
+      "url": "https://www.fci.be/en/nomenclature/JACK-RUSSELL-TERRIER-345.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/345g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/russell-terrier/"
+    },
+    {
+      "label": "Wikipedia: Jack Russell Terrier",
+      "url": "https://en.wikipedia.org/wiki/Jack_Russell_Terrier"
+    },
+    {
+      "label": "위키백과: 잭 러셀 테리어",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9E%AD_%EB%9F%AC%EC%85%80_%ED%85%8C%EB%A6%AC%EC%96%B4"
+    }
+  ],
+  "fci": {
+    "num": 345,
+    "name": "JACK RUSSELL TERRIER",
+    "group": 3,
+    "section": "Small sized Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Russell%20Terrier%201.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Jack_Russell_Terrier_1.jpg"
+  }
+}

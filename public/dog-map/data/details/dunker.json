@@ -1,0 +1,32 @@
+{
+  "summary": "창시자 이름을 딴 노르웨이 사냥개입니다.",
+  "description": "빌헬름 둔케르가 러시아 할리퀸 하운드와 현지 개를 교배해 만든 후각 사냥개입니다. '노르웨이 하운드'라고도 합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: NORWEGIAN HOUND (제203호)",
+      "url": "https://www.fci.be/en/nomenclature/NORWEGIAN-HOUND-203.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/203g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Dunker",
+      "url": "https://en.wikipedia.org/wiki/Dunker"
+    }
+  ],
+  "fci": {
+    "num": 203,
+    "name": "NORWEGIAN HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "노르웨이"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dunker.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Dunker.jpg"
+  }
+}

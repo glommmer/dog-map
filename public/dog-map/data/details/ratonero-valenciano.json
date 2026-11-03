@@ -1,0 +1,32 @@
+{
+  "summary": "발렌시아의 쥐 잡이 소형견입니다.",
+  "description": "'가트 라테르 발렌시아'라 하며 스페인 켄넬 협회가 2004년 인정했습니다. FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: VALENCIAN TERRIER (제370호)",
+      "url": "https://www.fci.be/en/nomenclature/VALENCIAN-TERRIER-370.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/370g03-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Ratonero Valenciano",
+      "url": "https://en.wikipedia.org/wiki/Ratonero_Valenciano"
+    }
+  ],
+  "fci": {
+    "num": 370,
+    "name": "VALENCIAN TERRIER",
+    "group": null,
+    "section": "Large and medium sized Terriers",
+    "sub": "",
+    "status": "provisional",
+    "country": "스페인"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ratonero%20valenciano%20dunkel.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Ratonero_valenciano_dunkel.jpg"
+  }
+}

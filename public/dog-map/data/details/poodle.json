@@ -1,0 +1,40 @@
+{
+  "summary": "물새 회수견에서 출발해 영리한 반려견이 된 곱슬털 견종입니다.",
+  "description": "푸들은 물에 들어가 새를 회수하던 물개에서 발전한 것으로 여겨집니다. 이름은 물장구를 뜻하는 독일어 표현과 연결되어 설명되곤 합니다.\n\n크기에 따라 스탠더드, 미니어처, 토이 등으로 나뉘며, 잘 빠지지 않는 곱슬털과 뛰어난 학습 능력으로 유명합니다. 이런 특성 때문에 여러 믹스견의 부모 견종이 되었습니다.",
+  "origin_note": "독일의 물개에 뿌리가 있을 가능성이 크고, 품종 표준은 프랑스에서 정리된 것으로 설명됩니다.",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: POODLE (제172호)",
+      "url": "https://www.fci.be/en/nomenclature/POODLE-172.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/172g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/poodle-standard/"
+    },
+    {
+      "label": "Wikipedia: Poodle",
+      "url": "https://en.wikipedia.org/wiki/Poodle"
+    },
+    {
+      "label": "위키백과: 푸들",
+      "url": "https://ko.wikipedia.org/wiki/%ED%91%B8%EB%93%A4"
+    }
+  ],
+  "fci": {
+    "num": 172,
+    "name": "POODLE",
+    "group": 9,
+    "section": "Poodle",
+    "sub": "",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Miniature%20poodle.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Miniature_poodle.jpg"
+  }
+}

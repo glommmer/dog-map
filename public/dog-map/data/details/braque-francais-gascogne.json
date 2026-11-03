@@ -1,0 +1,32 @@
+{
+  "summary": "오래된 프랑스 조렵견의 대형 유형입니다.",
+  "description": "브라크 프랑세 두 유형 가운데 크기가 큰 쪽입니다. 오래된 프랑스 조렵견 계통으로, 새의 위치를 가리키는 데 쓰입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: FRENCH POINTING DOG - GASCOGNE TYPE (제133호)",
+      "url": "https://www.fci.be/en/nomenclature/FRENCH-POINTING-DOG-GASCOGNE-TYPE-133.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/133g07-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Braque Français",
+      "url": "https://en.wikipedia.org/wiki/Braque_Fran%C3%A7ais"
+    }
+  ],
+  "fci": {
+    "num": 133,
+    "name": "FRENCH POINTING DOG - GASCOGNE TYPE",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "«Braque»Type",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wy%C5%BCe%C5%82%20pirenejski%20308.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Wy%C5%BCe%C5%82_pirenejski_308.jpg"
+  }
+}

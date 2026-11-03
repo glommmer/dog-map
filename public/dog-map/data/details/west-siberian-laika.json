@@ -1,0 +1,32 @@
+{
+  "summary": "한티와 만시 사람들의 사냥개에서 발전했습니다.",
+  "description": "서시베리아 우랄 동쪽의 사냥개에서 정립된 품종입니다. 러시아에서 가장 흔한 사냥 라이카 가운데 하나입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: WEST SIBERIAN LAIKA (제306호)",
+      "url": "https://www.fci.be/en/nomenclature/WEST-SIBERIAN-LAIKA-306.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/306g05-en.pdf"
+    },
+    {
+      "label": "Wikipedia: West Siberian Laika",
+      "url": "https://en.wikipedia.org/wiki/West_Siberian_Laika"
+    }
+  ],
+  "fci": {
+    "num": 306,
+    "name": "WEST SIBERIAN LAIKA",
+    "group": 5,
+    "section": "Nordic Hunting Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "러시아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/West%20Siberian%20Laika.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:West_Siberian_Laika.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "summary": "늑대에 맞서는 튀르키예의 대형 보호견입니다.",
+  "description": "시바스주 캉갈에서 이름이 유래한 전통 가축 보호견입니다. 튀르키예의 상징 견종으로 여겨지며 검은 얼굴이 특징입니다. 미국 AKC에는 계통이 가까운 아나톨리안 셰퍼드 독으로 등록되어 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: KANGAL SHEPHERD DOG (제331호)",
+      "url": "https://www.fci.be/en/nomenclature/KANGAL-SHEPHERD-DOG-331.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/331g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/anatolian-shepherd-dog/"
+    },
+    {
+      "label": "Wikipedia: Kangal Shepherd Dog",
+      "url": "https://en.wikipedia.org/wiki/Kangal_Shepherd_Dog"
+    },
+    {
+      "label": "위키백과: 캉갈",
+      "url": "https://ko.wikipedia.org/wiki/%EC%BA%89%EA%B0%88"
+    }
+  ],
+  "fci": {
+    "num": 331,
+    "name": "KANGAL SHEPHERD DOG",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "튀르키예"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kangal1.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Kangal1.jpg"
+  }
+}

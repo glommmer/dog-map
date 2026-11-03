@@ -1,0 +1,32 @@
+{
+  "summary": "고지대에서 다친 사냥감을 추적하는 사냥개입니다.",
+  "description": "오스트리아 원산의 후각 사냥개로, 주로 높은 곳에서 부상당한 산토끼 등을 추적하는 데 쓰입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: AUSTRIAN BLACK AND TAN HOUND (제63호)",
+      "url": "https://www.fci.be/en/nomenclature/AUSTRIAN-BLACK-AND-TAN-HOUND-63.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/063g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Austrian Black and Tan Hound",
+      "url": "https://en.wikipedia.org/wiki/Austrian_Black_and_Tan_Hound"
+    }
+  ],
+  "fci": {
+    "num": 63,
+    "name": "AUSTRIAN BLACK AND TAN HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "오스트리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Brandlbracke.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Brandlbracke.JPG"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "summary": "덥수룩한 털의 폴란드 목양견입니다.",
+  "description": "폴란드 토종 중형 목양견입니다. 폴란드 이름으로 '폴스키 오브차레크 니지니'라고 합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: POLISH LOWLAND SHEEPDOG (제251호)",
+      "url": "https://www.fci.be/en/nomenclature/POLISH-LOWLAND-SHEEPDOG-251.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/251g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/polish-lowland-sheepdog/"
+    },
+    {
+      "label": "Wikipedia: Polish Lowland Sheepdog",
+      "url": "https://en.wikipedia.org/wiki/Polish_Lowland_Sheepdog"
+    },
+    {
+      "label": "위키백과: 폴리시 롤런드 시프도그",
+      "url": "https://ko.wikipedia.org/wiki/%ED%8F%B4%EB%A6%AC%EC%8B%9C_%EB%A1%A4%EB%9F%B0%EB%93%9C_%EC%8B%9C%ED%94%84%EB%8F%84%EA%B7%B8"
+    }
+  ],
+  "fci": {
+    "num": 251,
+    "name": "POLISH LOWLAND SHEEPDOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "폴란드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Polski%20owczarek%20nizinny.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Polski_owczarek_nizinny.jpg"
+  }
+}

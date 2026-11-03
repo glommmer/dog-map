@@ -1,0 +1,40 @@
+{
+  "summary": "어린 양을 닮은 외모의 광산 마을 테리어입니다.",
+  "description": "잉글랜드 북동부 탄광 마을 베들링턴의 이름을 땄습니다. 원래는 사냥과 유해 동물 퇴치용이었으며, 양처럼 보이는 곱슬털과 둥근 머리가 눈에 띕니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BEDLINGTON TERRIER (제9호)",
+      "url": "https://www.fci.be/en/nomenclature/BEDLINGTON-TERRIER-9.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/009g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/bedlington-terrier/"
+    },
+    {
+      "label": "Wikipedia: Bedlington Terrier",
+      "url": "https://en.wikipedia.org/wiki/Bedlington_Terrier"
+    },
+    {
+      "label": "위키백과: 베들링턴 테리어",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%93%A4%EB%A7%81%ED%84%B4_%ED%85%8C%EB%A6%AC%EC%96%B4"
+    }
+  ],
+  "fci": {
+    "num": 9,
+    "name": "BEDLINGTON TERRIER",
+    "group": 3,
+    "section": "Large and medium sized Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bedlington%20terrier.jpeg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Bedlington_terrier.jpeg"
+  }
+}

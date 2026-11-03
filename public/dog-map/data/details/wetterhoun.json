@@ -1,0 +1,36 @@
+{
+  "summary": "곱슬털의 프리슬란트 물개입니다.",
+  "description": "네덜란드 프리슬란트의 작은 사냥감과 물새 사냥개입니다. 이름은 '물 개'를 뜻하며 수달 사냥에도 쓰였습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: WETTERHOUN (제221호)",
+      "url": "https://www.fci.be/en/nomenclature/WETTERHOUN-221.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/221g08-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/wetterhoun/"
+    },
+    {
+      "label": "Wikipedia: Wetterhoun",
+      "url": "https://en.wikipedia.org/wiki/Wetterhoun"
+    }
+  ],
+  "fci": {
+    "num": 221,
+    "name": "WETTERHOUN",
+    "group": 8,
+    "section": "Water Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "네덜란드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fryzyjski%20pies%20wodny%20u68.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Fryzyjski_pies_wodny_u68.jpg"
+  }
+}

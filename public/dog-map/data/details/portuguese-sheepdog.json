@@ -1,0 +1,36 @@
+{
+  "summary": "'원숭이 개'라는 별명의 포르투갈 목양견입니다.",
+  "description": "세하 드 아이르스라는 원어 이름은 포르투갈 지역명에서 왔습니다. 거친 긴 털과 원숭이 같은 표정으로 현지에서 별명을 얻었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: PORTUGUESE SHEEPDOG (제93호)",
+      "url": "https://www.fci.be/en/nomenclature/PORTUGUESE-SHEEPDOG-93.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/093g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/portuguese-sheepdog/"
+    },
+    {
+      "label": "Wikipedia: Portuguese Sheepdog",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Sheepdog"
+    }
+  ],
+  "fci": {
+    "num": 93,
+    "name": "PORTUGUESE SHEEPDOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "포르투갈"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cao%20de%20Serra%20de%20Aires600.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Cao_de_Serra_de_Aires600.jpg"
+  }
+}

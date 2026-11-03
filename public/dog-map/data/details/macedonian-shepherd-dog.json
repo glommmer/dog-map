@@ -1,0 +1,32 @@
+{
+  "summary": "검은 털의 북마케도니아 가축 보호견입니다.",
+  "description": "검은 털과 당당한 체구를 가진 북마케도니아의 전통 목양견입니다. FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: MACEDONIAN SHEPHERD DOG KARAMAN (제378호)",
+      "url": "https://www.fci.be/en/nomenclature/MACEDONIAN-SHEPHERD-DOG-KARAMAN-378.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/378g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Macedonian Shepherd Dog",
+      "url": "https://en.wikipedia.org/wiki/Macedonian_Shepherd_Dog"
+    }
+  ],
+  "fci": {
+    "num": 378,
+    "name": "MACEDONIAN SHEPHERD DOG KARAMAN",
+    "group": null,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "provisional",
+    "country": "북마케도니아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Makedoniankaraman1.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Makedoniankaraman1.jpg"
+  }
+}

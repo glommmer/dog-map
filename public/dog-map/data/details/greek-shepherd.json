@@ -1,0 +1,15 @@
+{
+  "summary": "그리스의 가축 보호견입니다.",
+  "description": "고대 혈통으로 추정되는 그리스의 가축 보호견으로, 주변국 보호견과 매우 가깝습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Greek Shepherd",
+      "url": "https://en.wikipedia.org/wiki/Greek_Shepherd"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Gr11.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Gr11.jpg"
+  }
+}

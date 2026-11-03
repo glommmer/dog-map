@@ -1,0 +1,32 @@
+{
+  "summary": "발칸 샤르산맥의 가축 보호견입니다.",
+  "description": "발칸반도 샤르산맥에서 이름을 얻은 대형 가축 보호견입니다. FCI 원산국은 북마케도니아와 세르비아로 표기되며, 늑대 같은 포식자로부터 양 떼를 지켰습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: YUGOSLAVIAN SHEPHERD DOG - SHARPLANINA (제41호)",
+      "url": "https://www.fci.be/en/nomenclature/YUGOSLAVIAN-SHEPHERD-DOG-SHARPLANINA-41.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/041g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Šarplaninac",
+      "url": "https://en.wikipedia.org/wiki/%C5%A0arplaninac"
+    }
+  ],
+  "fci": {
+    "num": 41,
+    "name": "YUGOSLAVIAN SHEPHERD DOG - SHARPLANINA",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "북마케도니아·세르비아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarplaninac%20Urok1007.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Sarplaninac_Urok1007.jpg"
+  }
+}

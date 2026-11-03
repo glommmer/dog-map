@@ -1,0 +1,23 @@
+{
+  "summary": "긴 털이 얼굴을 덮는, 복을 부르는 개로 불려 온 한국 토종견입니다.",
+  "description": "삽살개는 온몸을 덮는 길고 덥수룩한 털로 쉽게 알아볼 수 있는 한국 토종견입니다. 이름에는 귀신이나 액운을 쫓는다는 뜻이 담겨 있다고 전해지며, 옛 민화와 민담에도 자주 등장합니다.\n\n일제강점기와 전쟁을 거치며 개체 수가 크게 줄었으나, 경북 경산을 중심으로 복원 노력이 이어졌습니다. 현재는 대한민국 천연기념물로 지정되어 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "국가유산청 국가유산포털: 천연기념물 경산의 삽살개",
+      "url": "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?pageNo=1_1_2_0&ccbaCpno=1363703680000"
+    },
+    {
+      "label": "Wikipedia: Sapsali",
+      "url": "https://en.wikipedia.org/wiki/Sapsali"
+    },
+    {
+      "label": "위키백과: 삽살개",
+      "url": "https://ko.wikipedia.org/wiki/%EC%82%BD%EC%82%B4%EA%B0%9C"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Korea-Jeonju-Sapsal%20dog%20in%20front%20of%20a%20Hanok%20Village-01.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Korea-Jeonju-Sapsal_dog_in_front_of_a_Hanok_Village-01.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "summary": "납작한 얼굴과 주름의 영국 상징견입니다.",
+  "description": "불 베이팅에 쓰이던 개의 후손이지만 지금은 온순한 반려견입니다. 짧은 코 때문에 호흡과 더위에 주의가 필요합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BULLDOG (제149호)",
+      "url": "https://www.fci.be/en/nomenclature/BULLDOG-149.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/149g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/bulldog/"
+    },
+    {
+      "label": "Wikipedia: Bulldog",
+      "url": "https://en.wikipedia.org/wiki/Bulldog"
+    },
+    {
+      "label": "위키백과: 불도그",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B6%88%EB%8F%84%EA%B7%B8"
+    }
+  ],
+  "fci": {
+    "num": 149,
+    "name": "BULLDOG",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Racib%C3%B3rz%202007%20082.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Racib%C3%B3rz_2007_082.jpg"
+  }
+}

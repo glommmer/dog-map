@@ -1,0 +1,23 @@
+{
+  "summary": "털 없는 래트 테리어에서 만들어진 품종입니다.",
+  "description": "자연 발생한 무모 래트 테리어에서 미국에서 개량되었습니다. 코팅 유형도 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/american-hairless-terrier/"
+    },
+    {
+      "label": "Wikipedia: American Hairless Terrier",
+      "url": "https://en.wikipedia.org/wiki/American_Hairless_Terrier"
+    },
+    {
+      "label": "위키백과: 아메리칸 헤어리스 테리어",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8_%ED%97%A4%EC%96%B4%EB%A6%AC%EC%8A%A4_%ED%85%8C%EB%A6%AC%EC%96%B4"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/American%20Hairless%20Terrier%20Adelor.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:American_Hairless_Terrier_Adelor.jpg"
+  }
+}

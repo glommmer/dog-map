@@ -1,0 +1,32 @@
+{
+  "summary": "영국과 프랑스 사냥개를 섞은 삼색 대형견입니다.",
+  "description": "영국 폭스하운드와 프랑스 사냥개의 교배로 만든 앙글로 프랑세 계열의 대형 무리 사냥개입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GREAT ANGLO-FRENCH TRICOLOUR HOUND (제322호)",
+      "url": "https://www.fci.be/en/nomenclature/GREAT-ANGLO-FRENCH-TRICOLOUR-HOUND-322.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/322g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Grand Anglo-Français Tricolore",
+      "url": "https://en.wikipedia.org/wiki/Grand_Anglo-Fran%C3%A7ais_Tricolore"
+    }
+  ],
+  "fci": {
+    "num": 322,
+    "name": "GREAT ANGLO-FRENCH TRICOLOUR HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand%20anglo%20francais%20tricol%20mod.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Grand_anglo_francais_tricol_mod.jpg"
+  }
+}

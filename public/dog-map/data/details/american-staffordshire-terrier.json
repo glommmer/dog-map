@@ -1,0 +1,40 @@
+{
+  "summary": "스태퍼드셔 불 테리어의 미국 계통입니다.",
+  "description": "AKC가 1936년 등록한 중형 단모 품종으로, 근육질 체형입니다. 아메리칸 핏불 테리어와 뿌리를 공유합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: AMERICAN STAFFORDSHIRE TERRIER (제286호)",
+      "url": "https://www.fci.be/en/nomenclature/AMERICAN-STAFFORDSHIRE-TERRIER-286.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/286g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/american-staffordshire-terrier/"
+    },
+    {
+      "label": "Wikipedia: American Staffordshire Terrier",
+      "url": "https://en.wikipedia.org/wiki/American_Staffordshire_Terrier"
+    },
+    {
+      "label": "위키백과: 아메리칸 스태퍼드셔 테리어",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8_%EC%8A%A4%ED%83%9C%ED%8D%BC%EB%93%9C%EC%85%94_%ED%85%8C%EB%A6%AC%EC%96%B4"
+    }
+  ],
+  "fci": {
+    "num": 286,
+    "name": "AMERICAN STAFFORDSHIRE TERRIER",
+    "group": 3,
+    "section": "Bull type Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "미국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/AMERICAN%20STAFFORDSHIRE%20TERRIER,%20Zican%E2%80%99s%20Bz%20Ez%20Dragon%20(24208348891).2.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:AMERICAN_STAFFORDSHIRE_TERRIER,_Zican%E2%80%99s_Bz_Ez_Dragon_(24208348891).2.jpg"
+  }
+}

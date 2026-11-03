@@ -1,0 +1,40 @@
+{
+  "summary": "긴 귀와 짧은 다리의 영국 후각 사냥개입니다.",
+  "description": "사라진 프랑스 바셋 계통을 바탕으로 영국에서 개량되었습니다. 블러드하운드 다음가는 후각으로 자주 언급됩니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BASSET HOUND (제163호)",
+      "url": "https://www.fci.be/en/nomenclature/BASSET-HOUND-163.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/163g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/basset-hound/"
+    },
+    {
+      "label": "Wikipedia: Basset Hound",
+      "url": "https://en.wikipedia.org/wiki/Basset_Hound"
+    },
+    {
+      "label": "위키백과: 바셋하운드",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%94%EC%85%8B%ED%95%98%EC%9A%B4%EB%93%9C"
+    }
+  ],
+  "fci": {
+    "num": 163,
+    "name": "BASSET HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Small-sized Hounds",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Basset%20Hound%20600.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Basset_Hound_600.jpg"
+  }
+}

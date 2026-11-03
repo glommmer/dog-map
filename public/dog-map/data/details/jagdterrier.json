@@ -1,0 +1,36 @@
+{
+  "summary": "땅 위와 굴속을 가리지 않는 독일 사냥 테리어입니다.",
+  "description": "20세기 초 독일에서 사냥 능력을 최우선으로 개량되었습니다. 굴속 동물부터 멧돼지 추적까지 다양한 사냥에 쓰입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GERMAN HUNTING TERRIER (제103호)",
+      "url": "https://www.fci.be/en/nomenclature/GERMAN-HUNTING-TERRIER-103.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/103g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/jagdterrier/"
+    },
+    {
+      "label": "Wikipedia: Jagdterrier",
+      "url": "https://en.wikipedia.org/wiki/Jagdterrier"
+    }
+  ],
+  "fci": {
+    "num": 103,
+    "name": "GERMAN HUNTING TERRIER",
+    "group": 3,
+    "section": "Large and medium sized Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Terier%20niemiecki%20my%C5%9Bliwski%20721.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Terier_niemiecki_my%C5%9Bliwski_721.jpg"
+  }
+}

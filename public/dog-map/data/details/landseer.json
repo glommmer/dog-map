@@ -1,0 +1,36 @@
+{
+  "summary": "흑백 얼룩 털의 뉴펀들랜드 후손입니다.",
+  "description": "화가 에드윈 랜드시어의 그림으로 알려진 뉴펀들랜드의 흑백 계통으로, 유럽 대륙에서 독립 견종으로 인정받았습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: LANDSEER (EUROPEAN CONTINENTAL TYPE) (제226호)",
+      "url": "https://www.fci.be/en/nomenclature/LANDSEER-EUROPEAN-CONTINENTAL-TYPE-226.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/226g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Landseer (dog breed)",
+      "url": "https://en.wikipedia.org/wiki/Landseer_(dog_breed)"
+    },
+    {
+      "label": "위키백과: 랜드시어 도그",
+      "url": "https://ko.wikipedia.org/wiki/%EB%9E%9C%EB%93%9C%EC%8B%9C%EC%96%B4_%EB%8F%84%EA%B7%B8"
+    }
+  ],
+  "fci": {
+    "num": 226,
+    "name": "LANDSEER (EUROPEAN CONTINENTAL TYPE)",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "독일·스위스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Landseer.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Landseer.jpg"
+  }
+}

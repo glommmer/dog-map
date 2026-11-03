@@ -1,0 +1,32 @@
+{
+  "summary": "덥수룩한 흰 털의 가축 보호견입니다.",
+  "description": "오늘날 우크라이나 남부와 크림반도 일대의 옛 러시아 제국 지역에서 발전했습니다. FCI 원산국은 러시아입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SOUTH RUSSIAN SHEPHERD DOG (제326호)",
+      "url": "https://www.fci.be/en/nomenclature/SOUTH-RUSSIAN-SHEPHERD-DOG-326.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/326g01-en.pdf"
+    },
+    {
+      "label": "Wikipedia: South Russian Ovcharka",
+      "url": "https://en.wikipedia.org/wiki/South_Russian_Ovcharka"
+    }
+  ],
+  "fci": {
+    "num": 326,
+    "name": "SOUTH RUSSIAN SHEPHERD DOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "러시아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/South%20Russian%20Ovcharka.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:South_Russian_Ovcharka.jpg"
+  }
+}

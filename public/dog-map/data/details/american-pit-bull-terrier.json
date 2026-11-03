@@ -1,0 +1,19 @@
+{
+  "summary": "UKC가 인정하는 미국 단모견입니다.",
+  "description": "UKC와 ADBA가 인정하고 AKC는 인정하지 않습니다. 조상은 영국의 개들이며, 나라별로 맹견 규제 대상인 경우가 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: American Pit Bull Terrier",
+      "url": "https://en.wikipedia.org/wiki/American_Pit_Bull_Terrier"
+    },
+    {
+      "label": "위키백과: 아메리칸 핏불 테리어",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8_%ED%95%8F%EB%B6%88_%ED%85%8C%EB%A6%AC%EC%96%B4"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/American%20Pitbull%20001.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:American_Pitbull_001.jpg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "summary": "세 리지백 품종 중 하나입니다.",
+  "description": "베트남 남부 푸꾸옥섬의 희귀 품종입니다. FCI 등 주요 단체에서 공인하지는 않습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Phu Quoc Ridgeback",
+      "url": "https://en.wikipedia.org/wiki/Phu_Quoc_Ridgeback"
+    },
+    {
+      "label": "위키백과: 푸꾸옥 리지백",
+      "url": "https://ko.wikipedia.org/wiki/%ED%91%B8%EA%BE%B8%EC%98%A5_%EB%A6%AC%EC%A7%80%EB%B0%B1"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Phu%20Quoc%20dog.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Phu_Quoc_dog.jpg"
+  }
+}

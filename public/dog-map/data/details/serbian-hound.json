@@ -1,0 +1,32 @@
+{
+  "summary": "예전에 발칸 하운드라 불린 세르비아 사냥개입니다.",
+  "description": "세르비아의 후각 사냥개로, 검은 안장 무늬와 적갈색 털을 지닙니다. 멧돼지와 사슴, 토끼를 쫓습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SERBIAN HOUND (제150호)",
+      "url": "https://www.fci.be/en/nomenclature/SERBIAN-HOUND-150.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/150g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Serbian Hound",
+      "url": "https://en.wikipedia.org/wiki/Serbian_Hound"
+    }
+  ],
+  "fci": {
+    "num": 150,
+    "name": "SERBIAN HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "세르비아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Serbian%20Hound%20Face.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Serbian_Hound_Face.JPG"
+  }
+}

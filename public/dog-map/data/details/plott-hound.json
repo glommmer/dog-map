@@ -1,0 +1,19 @@
+{
+  "summary": "곰 사냥에 쓰인 노스캐롤라이나의 주견입니다.",
+  "description": "곰을 쫓도록 개량된 대형 후각 사냥개입니다. 1989년 노스캐롤라이나 주견으로 지정되었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/plott-hound/"
+    },
+    {
+      "label": "Wikipedia: Plott Hound",
+      "url": "https://en.wikipedia.org/wiki/Plott_Hound"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Plotthound-red1.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Plotthound-red1.jpg"
+  }
+}

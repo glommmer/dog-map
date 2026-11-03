@@ -1,0 +1,32 @@
+{
+  "summary": "대형과 소형 두 유형이 있는 프랑스 사냥개입니다.",
+  "description": "FCI는 그랑과 프티 두 변종을 인정합니다. 흰 바탕에 검은 반점이 있는 후각 사냥개로, 무리로 사냥합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GASCON SAINTONGEOIS (제21호)",
+      "url": "https://www.fci.be/en/nomenclature/GASCON-SAINTONGEOIS-21.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/021g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Gascon Saintongeois",
+      "url": "https://en.wikipedia.org/wiki/Gascon_Saintongeois"
+    }
+  ],
+  "fci": {
+    "num": 21,
+    "name": "GASCON SAINTONGEOIS",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Petit%20Gascon%20Saintongeois%20croped.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Petit_Gascon_Saintongeois_croped.JPG"
+  }
+}

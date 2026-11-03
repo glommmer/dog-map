@@ -1,0 +1,40 @@
+{
+  "summary": "작은 오스트레일리언 셰퍼드입니다.",
+  "description": "'MAS'로 줄여 부르며, 작은 오스트레일리언 셰퍼드에서 시작되었습니다. 도그 스포츠에도 자주 출전합니다. FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: MINIATURE AMERICAN SHEPHERD (제367호)",
+      "url": "https://www.fci.be/en/nomenclature/MINIATURE-AMERICAN-SHEPHERD-367.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/367g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/miniature-american-shepherd/"
+    },
+    {
+      "label": "Wikipedia: Miniature American Shepherd",
+      "url": "https://en.wikipedia.org/wiki/Miniature_American_Shepherd"
+    },
+    {
+      "label": "위키백과: 미니어처 아메리칸 셰퍼드",
+      "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%8B%88%EC%96%B4%EC%B2%98_%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8_%EC%85%B0%ED%8D%BC%EB%93%9C"
+    }
+  ],
+  "fci": {
+    "num": 367,
+    "name": "MINIATURE AMERICAN SHEPHERD",
+    "group": null,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "provisional",
+    "country": "미국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Miniature-american-shepherd-energies.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Miniature-american-shepherd-energies.jpg"
+  }
+}

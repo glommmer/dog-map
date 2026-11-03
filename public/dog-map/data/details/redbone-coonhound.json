@@ -1,0 +1,19 @@
+{
+  "summary": "적색 단색 털의 미국 쿤하운드입니다.",
+  "description": "나무로 올라간 너구리 같은 작은 동물을 사냥하며, 곰이나 퓨마도 상대합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/redbone-coonhound/"
+    },
+    {
+      "label": "Wikipedia: Redbone Coonhound",
+      "url": "https://en.wikipedia.org/wiki/Redbone_Coonhound"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Memphis%20the%20Redbone%20Coonhound%20(7%20Nov%202004).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Memphis_the_Redbone_Coonhound_(7_Nov_2004).jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "summary": "푸른빛 혀와 사자 같은 털로 유명한 중국 북부의 견종입니다.",
+  "description": "차우차우는 중국 북부에서 사냥, 경비, 썰매 끌기 등 여러 일을 하던 개로 전해집니다. 두툼한 털과 묵직한 체형, 청흑색 혀가 가장 널리 알려진 특징입니다.\n\n역사가 오래된 견종으로 꼽히며, 19세기에 영국으로 건너가 품종으로 정리되었습니다. 낯선 사람에게 거리를 두는 차분한 성격으로 알려져 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CHOW CHOW (제205호)",
+      "url": "https://www.fci.be/en/nomenclature/CHOW-CHOW-205.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/205g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/chow-chow/"
+    },
+    {
+      "label": "Wikipedia: Chow Chow",
+      "url": "https://en.wikipedia.org/wiki/Chow_Chow"
+    },
+    {
+      "label": "위키백과: 차우차우",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%EC%9A%B0%EC%B0%A8%EC%9A%B0"
+    }
+  ],
+  "fci": {
+    "num": 205,
+    "name": "CHOW CHOW",
+    "group": 5,
+    "section": "Asian Spitz and related breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "중국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/01%20Chow%20Chow.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:01_Chow_Chow.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "summary": "스코틀랜드 고지대의 돌무더기에서 사냥하던 작은 테리어입니다.",
+  "description": "스코틀랜드의 초기 작업견 가운데 하나로 꼽힙니다. 이름의 '케언'은 돌무더기를 뜻하며, 그 틈에 숨은 작은 동물을 몰아내는 일을 했습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CAIRN TERRIER (제4호)",
+      "url": "https://www.fci.be/en/nomenclature/CAIRN-TERRIER-4.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/004g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/cairn-terrier/"
+    },
+    {
+      "label": "Wikipedia: Cairn Terrier",
+      "url": "https://en.wikipedia.org/wiki/Cairn_Terrier"
+    },
+    {
+      "label": "위키백과: 케언 테리어",
+      "url": "https://ko.wikipedia.org/wiki/%EC%BC%80%EC%96%B8_%ED%85%8C%EB%A6%AC%EC%96%B4"
+    }
+  ],
+  "fci": {
+    "num": 4,
+    "name": "CAIRN TERRIER",
+    "group": 3,
+    "section": "Small sized Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cairn-Terrier-Garten1.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Cairn-Terrier-Garten1.jpg"
+  }
+}

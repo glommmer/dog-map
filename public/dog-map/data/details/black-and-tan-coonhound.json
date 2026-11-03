@@ -1,0 +1,36 @@
+{
+  "summary": "미국에서 처음 공인된 쿤하운드입니다.",
+  "description": "블러드하운드와 블랙 앤드 탄 버지니아 폭스하운드의 교배에서 개량되었습니다. 나무로 몰아넣은 너구리를 짖어 알립니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BLACK AND TAN COONHOUND (제300호)",
+      "url": "https://www.fci.be/en/nomenclature/BLACK-AND-TAN-COONHOUND-300.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/300g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/black-and-tan-coonhound/"
+    },
+    {
+      "label": "Wikipedia: Black and Tan Coonhound",
+      "url": "https://en.wikipedia.org/wiki/Black_and_Tan_Coonhound"
+    }
+  ],
+  "fci": {
+    "num": 300,
+    "name": "BLACK AND TAN COONHOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "미국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Black%20and%20Tan%20Coonhound.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Black_and_Tan_Coonhound.jpg"
+  }
+}

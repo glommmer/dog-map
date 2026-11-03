@@ -1,0 +1,36 @@
+{
+  "summary": "체코의 옛 목양견입니다.",
+  "description": "'호도와 개'라고도 합니다. 양을 지키고 경계를 맡던 오래된 품종으로, 2019년부터 FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BOHEMIAN SHEPHERD DOG (제364호)",
+      "url": "https://www.fci.be/en/nomenclature/BOHEMIAN-SHEPHERD-DOG-364.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/364g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/bohemian-shepherd/"
+    },
+    {
+      "label": "Wikipedia: Bohemian Shepherd",
+      "url": "https://en.wikipedia.org/wiki/Bohemian_Shepherd"
+    }
+  ],
+  "fci": {
+    "num": 364,
+    "name": "BOHEMIAN SHEPHERD DOG",
+    "group": null,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "provisional",
+    "country": "체코"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/OREADY%20KROSANDRA%20(15).JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:OREADY_KROSANDRA_(15).JPG"
+  }
+}

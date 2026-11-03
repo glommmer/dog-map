@@ -1,0 +1,36 @@
+{
+  "summary": "수달을 쫓던 영국의 희귀 사냥개입니다.",
+  "description": "거친 방수 털과 물갈퀴가 있는 후각 사냥개입니다. 영국 켄넬 클럽의 취약 토종 품종으로, 세계에 약 600마리만 남은 것으로 전해집니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: OTTERHOUND (제294호)",
+      "url": "https://www.fci.be/en/nomenclature/OTTERHOUND-294.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/294g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/otterhound/"
+    },
+    {
+      "label": "Wikipedia: Otterhound",
+      "url": "https://en.wikipedia.org/wiki/Otterhound"
+    }
+  ],
+  "fci": {
+    "num": 294,
+    "name": "OTTERHOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Two%20otterhounds.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Two_otterhounds.jpg"
+  }
+}

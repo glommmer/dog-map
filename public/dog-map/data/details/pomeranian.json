@@ -1,0 +1,40 @@
+{
+  "summary": "발트해 연안의 스피츠에서 작아진 솜뭉치 같은 소형견입니다.",
+  "description": "포메라니안의 이름은 오늘날 독일과 폴란드에 걸친 발트해 연안 지역 포메라니아에서 왔습니다. 조상은 그보다 훨씬 큰 스피츠 계통의 개였다고 합니다.\n\n19세기 영국에서 빅토리아 여왕이 작은 개체를 길러 인기를 끈 뒤로 소형화가 빠르게 진행되었습니다. 풍성한 털과 활발한 성격이 특징입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GERMAN SPITZ (제97호)",
+      "url": "https://www.fci.be/en/nomenclature/GERMAN-SPITZ-97.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/097g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/pomeranian/"
+    },
+    {
+      "label": "Wikipedia: Pomeranian dog",
+      "url": "https://en.wikipedia.org/wiki/Pomeranian_dog"
+    },
+    {
+      "label": "위키백과: 포메라니안",
+      "url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EB%A9%94%EB%9D%BC%EB%8B%88%EC%95%88"
+    }
+  ],
+  "fci": {
+    "num": 97,
+    "name": "GERMAN SPITZ",
+    "group": 5,
+    "section": "European Spitz",
+    "sub": "",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pomeranian.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Pomeranian.JPG"
+  }
+}

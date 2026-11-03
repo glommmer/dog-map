@@ -1,0 +1,32 @@
+{
+  "summary": "긴 털의 피레네 목양견입니다.",
+  "description": "피레네 산악의 작은 목양견 가운데 긴 털을 가진 유형으로, FCI가 별도 호수로 등록합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: LONG-HAIRED PYRENEAN SHEEPDOG (제141호)",
+      "url": "https://www.fci.be/en/nomenclature/LONG-HAIRED-PYRENEAN-SHEEPDOG-141.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/141g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/pyrenean-shepherd/"
+    },
+    {
+      "label": "Wikipedia: Pyrenean Sheepdog",
+      "url": "https://en.wikipedia.org/wiki/Pyrenean_Sheepdog"
+    }
+  ],
+  "fci": {
+    "num": 141,
+    "name": "LONG-HAIRED PYRENEAN SHEEPDOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "프랑스"
+  }
+}

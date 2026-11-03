@@ -1,0 +1,32 @@
+{
+  "summary": "발리섬 화산 지대의 토착견입니다.",
+  "description": "인도네시아 발리섬 고지대에서 산 토종개입니다. 사람이 일부러 교배하지 않은 반야생 집단에서 품종으로 정착했습니다. FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: KINTAMANI-BALI DOG (제362호)",
+      "url": "https://www.fci.be/en/nomenclature/KINTAMANI-BALI-DOG-362.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/362g05-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Kintamani (dog breed)",
+      "url": "https://en.wikipedia.org/wiki/Kintamani_(dog_breed)"
+    }
+  ],
+  "fci": {
+    "num": 362,
+    "name": "KINTAMANI-BALI DOG",
+    "group": null,
+    "section": "Asian Spitz and related breeds",
+    "sub": "",
+    "status": "provisional",
+    "country": "인도네시아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kintamani.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Kintamani.jpg"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "1930년대에 분리된 헝가리 목양견입니다.",
+  "description": "풀리, 푸미와 가까운 품종으로, 1930년대에 별도 품종으로 구분되었습니다. 곱슬거리는 털과 민첩함이 특징입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: MUDI (제238호)",
+      "url": "https://www.fci.be/en/nomenclature/MUDI-238.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/238g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/mudi/"
+    },
+    {
+      "label": "Wikipedia: Mudi",
+      "url": "https://en.wikipedia.org/wiki/Mudi"
+    }
+  ],
+  "fci": {
+    "num": 238,
+    "name": "MUDI",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "헝가리"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hondenras%20Mudi.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Hondenras_Mudi.jpg"
+  }
+}

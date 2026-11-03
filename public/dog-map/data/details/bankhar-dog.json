@@ -1,0 +1,19 @@
+{
+  "summary": "몽골 유목민의 전통 가축 보호견입니다.",
+  "description": "부랴트·몽골 사람들이 기른 토착 가축 보호견입니다. 몽골과 부랴티아로 퍼졌습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Bankhar dog",
+      "url": "https://en.wikipedia.org/wiki/Bankhar_dog"
+    },
+    {
+      "label": "위키백과: 방카르 도그",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%B9%B4%EB%A5%B4_%EB%8F%84%EA%B7%B8"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hotosho-1.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Hotosho-1.jpg"
+  }
+}

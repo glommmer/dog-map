@@ -1,0 +1,32 @@
+{
+  "summary": "프랑스 남서부의 조렵견입니다.",
+  "description": "아리에주 지방에서 비롯된 포인터 유형의 사냥개입니다. '브라크 드 라리에주'라고 합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ARIEGE POINTING DOG (제177호)",
+      "url": "https://www.fci.be/en/nomenclature/ARIEGE-POINTING-DOG-177.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/177g07-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Ariège Pointer",
+      "url": "https://en.wikipedia.org/wiki/Ari%C3%A8ge_Pointer"
+    }
+  ],
+  "fci": {
+    "num": 177,
+    "name": "ARIEGE POINTING DOG",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "«Braque»Type",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pointer%20of%20Ariege%20from%201915.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Pointer_of_Ariege_from_1915.JPG"
+  }
+}

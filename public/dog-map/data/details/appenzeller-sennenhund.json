@@ -1,0 +1,36 @@
+{
+  "summary": "스위스 북동부의 중형 소몰이 개입니다.",
+  "description": "네 가지 스위스 산악견(젠넨훈트) 가운데 하나입니다. 삼색 털과 말려 올라간 꼬리가 특징이며, 가축 몰이와 수레 끌기, 농장 지키기를 맡았습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: APPENZELL CATTLE DOG (제46호)",
+      "url": "https://www.fci.be/en/nomenclature/APPENZELL-CATTLE-DOG-46.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/046g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/appenzeller-sennenhund/"
+    },
+    {
+      "label": "Wikipedia: Appenzeller Sennenhund",
+      "url": "https://en.wikipedia.org/wiki/Appenzeller_Sennenhund"
+    }
+  ],
+  "fci": {
+    "num": 46,
+    "name": "APPENZELL CATTLE DOG",
+    "group": 2,
+    "section": "Swiss Mountain- and Cattledogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "스위스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Abora%20z%20Velk%C3%A9ho%20%C3%9Ajezda5.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Abora_z_Velk%C3%A9ho_%C3%9Ajezda5.jpg"
+  }
+}

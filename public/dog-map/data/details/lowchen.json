@@ -1,0 +1,36 @@
+{
+  "summary": "'작은 사자'라는 뜻의 소형견입니다.",
+  "description": "한때 세계에서 가장 희귀한 품종으로 꼽혔습니다. 뒤쪽 털을 깎아 사자처럼 다듬는 모습으로 유명합니다. FCI 원산국은 프랑스입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: LITTLE LION DOG (제233호)",
+      "url": "https://www.fci.be/en/nomenclature/LITTLE-LION-DOG-233.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/233g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/lowchen/"
+    },
+    {
+      "label": "Wikipedia: Löwchen",
+      "url": "https://en.wikipedia.org/wiki/L%C3%B6wchen"
+    }
+  ],
+  "fci": {
+    "num": 233,
+    "name": "LITTLE LION DOG",
+    "group": 9,
+    "section": "Bichons and related breeds",
+    "sub": "Petit chien lion",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/LowchenFemale.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:LowchenFemale.jpg"
+  }
+}

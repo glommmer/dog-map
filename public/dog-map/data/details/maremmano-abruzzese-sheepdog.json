@@ -1,0 +1,36 @@
+{
+  "summary": "이탈리아 중부의 흰 가축 보호견입니다.",
+  "description": "토스카나·라치오의 마렘마와 아브루초 지역 토종 보호견입니다. 희고 풍성한 털로 양 떼 속에서 늑대를 막았습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ABRUZZES AND MAREMMA SHEPHERD DOG (제201호)",
+      "url": "https://www.fci.be/en/nomenclature/ABRUZZES-AND-MAREMMA-SHEPHERD-DOG-201.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/201g01-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Maremmano-Abruzzese Sheepdog",
+      "url": "https://en.wikipedia.org/wiki/Maremmano-Abruzzese_Sheepdog"
+    },
+    {
+      "label": "위키백과: 마렘마 시프도그",
+      "url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%A0%98%EB%A7%88_%EC%8B%9C%ED%94%84%EB%8F%84%EA%B7%B8"
+    }
+  ],
+  "fci": {
+    "num": 201,
+    "name": "ABRUZZES AND MAREMMA SHEPHERD DOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "이탈리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cane%20Pastore%20Abruzzese%20Abruzzo.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Cane_Pastore_Abruzzese_Abruzzo.jpg"
+  }
+}

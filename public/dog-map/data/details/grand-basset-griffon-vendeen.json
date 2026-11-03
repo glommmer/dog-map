@@ -1,0 +1,36 @@
+{
+  "summary": "거친 털과 짧은 다리의 프랑스 사냥개입니다.",
+  "description": "방데 지방의 바셋 계열 사냥개 가운데 몸집이 큰 쪽으로, 영어권에서는 GBGV로 줄여 부르기도 합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GRAND BASSET GRIFFON VENDEEN (제33호)",
+      "url": "https://www.fci.be/en/nomenclature/GRAND-BASSET-GRIFFON-VENDEEN-33.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/033g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/grand-basset-griffon-vendeen/"
+    },
+    {
+      "label": "Wikipedia: Grand Basset Griffon Vendéen",
+      "url": "https://en.wikipedia.org/wiki/Grand_Basset_Griffon_Vend%C3%A9en"
+    }
+  ],
+  "fci": {
+    "num": 33,
+    "name": "GRAND BASSET GRIFFON VENDEEN",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Small-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/G%20Basset%20Griffon%20Vendeen%20600.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:G_Basset_Griffon_Vendeen_600.jpg"
+  }
+}

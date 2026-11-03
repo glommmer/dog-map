@@ -1,0 +1,36 @@
+{
+  "summary": "프랑스 서부의 대형 후각 사냥개입니다.",
+  "description": "프랑스 서부 푸아투에서 유래했으며, 사슴과 멧돼지를 쫓던 무리 사냥개로 이어져 왔습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BILLY (제25호)",
+      "url": "https://www.fci.be/en/nomenclature/BILLY-25.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/025g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Billy (dog breed)",
+      "url": "https://en.wikipedia.org/wiki/Billy_(dog_breed)"
+    },
+    {
+      "label": "위키백과: 빌리 (개)",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B9%8C%EB%A6%AC_(%EA%B0%9C)"
+    }
+  ],
+  "fci": {
+    "num": 25,
+    "name": "BILLY",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Billy(dog).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Billy(dog).jpg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "summary": "스페인 전통의 불도그 유형입니다.",
+  "description": "전쟁, 투우, 소 관리, 사냥, 경비에 쓰인 역사를 가집니다. 20세기 후반 멸종 위기에 몰렸습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Alano Español",
+      "url": "https://en.wikipedia.org/wiki/Alano_Espa%C3%B1ol"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Spanishalanoblacktan1.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Spanishalanoblacktan1.jpg"
+  }
+}

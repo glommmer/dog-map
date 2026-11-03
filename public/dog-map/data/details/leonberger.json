@@ -1,0 +1,40 @@
+{
+  "summary": "사자를 닮게 만들어졌다는 독일의 대형견입니다.",
+  "description": "19세기 중반 바덴뷔르템베르크의 도시 레온베르크에서 길러졌습니다. 풍성한 갈기와 온화한 성격으로 잘 알려져 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: LEONBERGER (제145호)",
+      "url": "https://www.fci.be/en/nomenclature/LEONBERGER-145.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/145g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/leonberger/"
+    },
+    {
+      "label": "Wikipedia: Leonberger",
+      "url": "https://en.wikipedia.org/wiki/Leonberger"
+    },
+    {
+      "label": "위키백과: 레온베르거",
+      "url": "https://ko.wikipedia.org/wiki/%EB%A0%88%EC%98%A8%EB%B2%A0%EB%A5%B4%EA%B1%B0"
+    }
+  ],
+  "fci": {
+    "num": 145,
+    "name": "LEONBERGER",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonberger%20male.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Leonberger_male.jpg"
+  }
+}

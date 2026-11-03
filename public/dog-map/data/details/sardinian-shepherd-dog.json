@@ -1,0 +1,15 @@
+{
+  "summary": "사르데냐의 가축 보호견입니다.",
+  "description": "'폰니 개'라고도 하는 토착견으로, 19세기 중반 이미지에도 등장합니다. FCI 공인은 받지 않았습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Sardinian Shepherd Dog",
+      "url": "https://en.wikipedia.org/wiki/Sardinian_Shepherd_Dog"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sardinian_Shepherd_Dog.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Sardinian_Shepherd_Dog.jpg"
+  }
+}

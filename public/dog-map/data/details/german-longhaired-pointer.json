@@ -1,0 +1,36 @@
+{
+  "summary": "긴 털을 가진 독일 포인터입니다.",
+  "description": "'도이치 랑하르'라고도 부릅니다. 쇼트헤어드, 와이어헤어드와 가까운 독일 조렵견입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: DEUTSCH LANGHAAR (제117호)",
+      "url": "https://www.fci.be/en/nomenclature/DEUTSCH-LANGHAAR-117.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/117g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/german-longhaired-pointer/"
+    },
+    {
+      "label": "Wikipedia: German Longhaired Pointer",
+      "url": "https://en.wikipedia.org/wiki/German_Longhaired_Pointer"
+    }
+  ],
+  "fci": {
+    "num": 117,
+    "name": "DEUTSCH LANGHAAR",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "Spaniel Type",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/DeutschLanghaarneu.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:DeutschLanghaarneu.jpg"
+  }
+}

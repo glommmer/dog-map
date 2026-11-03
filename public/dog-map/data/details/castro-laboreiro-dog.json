@@ -1,0 +1,32 @@
+{
+  "summary": "포르투갈 북부 산악의 가축 보호견입니다.",
+  "description": "포르투갈 북부 마을 카스트루라보레이루에서 유래한 가축 보호견입니다. 낮게 시작해 높아지는 독특한 짖는 소리로 알려져 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CASTRO LABOREIRO DOG (제170호)",
+      "url": "https://www.fci.be/en/nomenclature/CASTRO-LABOREIRO-DOG-170.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/170g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Castro Laboreiro Dog",
+      "url": "https://en.wikipedia.org/wiki/Castro_Laboreiro_Dog"
+    }
+  ],
+  "fci": {
+    "num": 170,
+    "name": "CASTRO LABOREIRO DOG",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "포르투갈"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cao%20de%20castro%20laboreiro.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Cao_de_castro_laboreiro.jpg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "summary": "중국의 군경 작업견입니다.",
+  "description": "1950년대 쿤밍에서 셰퍼드와 현지 개를 바탕으로 개량되어 2007년 품종으로 인정되었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Kunming dog",
+      "url": "https://en.wikipedia.org/wiki/Kunming_dog"
+    },
+    {
+      "label": "위키백과: 쿤밍견",
+      "url": "https://ko.wikipedia.org/wiki/%EC%BF%A4%EB%B0%8D%EA%B2%AC"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kunming%20Dog.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Kunming_Dog.jpg"
+  }
+}

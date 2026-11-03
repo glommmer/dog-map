@@ -1,0 +1,40 @@
+{
+  "summary": "쫑긋한 귀와 곱슬털의 헝가리 목양견입니다.",
+  "description": "풀리, 무디와 가까운 헝가리 목양견입니다. 양 가까이에서 일하며 무리를 모으는 데 뛰어납니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: PUMI (제56호)",
+      "url": "https://www.fci.be/en/nomenclature/PUMI-56.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/056g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/pumi/"
+    },
+    {
+      "label": "Wikipedia: Pumi dog",
+      "url": "https://en.wikipedia.org/wiki/Pumi_dog"
+    },
+    {
+      "label": "위키백과: 푸미 도그",
+      "url": "https://ko.wikipedia.org/wiki/%ED%91%B8%EB%AF%B8_%EB%8F%84%EA%B7%B8"
+    }
+  ],
+  "fci": {
+    "num": 56,
+    "name": "PUMI",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "헝가리"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hungarianpumi.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Hungarianpumi.JPG"
+  }
+}

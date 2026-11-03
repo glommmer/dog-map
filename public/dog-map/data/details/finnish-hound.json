@@ -1,0 +1,32 @@
+{
+  "summary": "토끼와 여우를 쫓는 핀란드의 사냥개입니다.",
+  "description": "핀란드에서 산토끼와 여우 사냥을 위해 길렀으며, 핀란드 안에서 인기가 높은 사냥개로 알려져 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: FINNISH HOUND (제51호)",
+      "url": "https://www.fci.be/en/nomenclature/FINNISH-HOUND-51.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/051g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Finnish Hound",
+      "url": "https://en.wikipedia.org/wiki/Finnish_Hound"
+    }
+  ],
+  "fci": {
+    "num": 51,
+    "name": "FINNISH HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "핀란드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Nuori-suomenajokoira.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Nuori-suomenajokoira.jpg"
+  }
+}

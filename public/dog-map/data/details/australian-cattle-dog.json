@@ -1,0 +1,40 @@
+{
+  "summary": "호주 내륙의 소 떼를 몰기 위해 만들어진 강인한 목축견입니다.",
+  "description": "오스트레일리안 캐틀 독은 19세기 뉴사우스웨일스에서 먼 거리를 이동하는 소 떼를 다루기 위해 개량되었습니다. 혈통에 호주 야생견 딩고가 포함된 것으로 알려져 있습니다.\n\n털 빛깔에 따라 블루 힐러, 레드 힐러로도 불립니다. 체력과 책임감이 강해 할 일이 있을 때 가장 만족스러워하는 견종으로 묘사됩니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: AUSTRALIAN CATTLE DOG (제287호)",
+      "url": "https://www.fci.be/en/nomenclature/AUSTRALIAN-CATTLE-DOG-287.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/287g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/australian-cattle-dog/"
+    },
+    {
+      "label": "Wikipedia: Australian Cattle Dog",
+      "url": "https://en.wikipedia.org/wiki/Australian_Cattle_Dog"
+    },
+    {
+      "label": "위키백과: 오스트레일리안 캐틀도그",
+      "url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%BC%EB%A6%AC%EC%95%88_%EC%BA%90%ED%8B%80%EB%8F%84%EA%B7%B8"
+    }
+  ],
+  "fci": {
+    "num": 287,
+    "name": "AUSTRALIAN CATTLE DOG",
+    "group": 1,
+    "section": "Cattledogs (except Swiss Cattledogs)",
+    "sub": "",
+    "status": "definitive",
+    "country": "호주"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/ACD-blue-spud.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:ACD-blue-spud.jpg"
+  }
+}

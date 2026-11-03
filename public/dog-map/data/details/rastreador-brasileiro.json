@@ -1,0 +1,32 @@
+{
+  "summary": "재규어를 쫓던 브라질 사냥개입니다.",
+  "description": "브라질의 후각 사냥개로, 울음소리 때문에 '우하도르'라고도 불렸습니다. 한때 멸종했다가 복원되었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BRAZILIAN TRACKER (제275호)",
+      "url": "https://www.fci.be/en/nomenclature/BRAZILIAN-TRACKER-275.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/275g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Rastreador Brasileiro",
+      "url": "https://en.wikipedia.org/wiki/Rastreador_Brasileiro"
+    }
+  ],
+  "fci": {
+    "num": 275,
+    "name": "BRAZILIAN TRACKER",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "브라질"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rastreadora%20Brasileira%20Gaya.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Rastreadora_Brasileira_Gaya.jpg"
+  }
+}

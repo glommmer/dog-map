@@ -1,0 +1,82 @@
+/* 디자인 토큰: 팔레트는 이 파일에서만 조정한다 */
+:root {
+  /* 배경 */
+  --bg-top: #0b1040;
+  --bg-bottom: #2a1a6e;
+  --star: #cfd6ff;
+
+  /* 바다 */
+  --ocean: #1d46b8;
+  --ocean-rim: #0f2a86;
+  --atmosphere: #5a8cff;
+  --graticule: rgba(255, 255, 255, 0.045);
+
+  /* 대륙 */
+  --land-asia: #23ad8f;
+  --land-europe: #2bbfae;
+  --land-africa: #62c978;
+  --land-north-america: #2fbd9a;
+  --land-south-america: #47cf86;
+  --land-oceania: #55d3a6;
+  --land-antarctica: #a5e6d6;
+  --land-highlight: #ffd23f;
+  --border: rgba(8, 40, 72, 0.22);
+
+  /* 강조색 */
+  --accent-orange: #ff8a3d;
+  --accent-pink: #ff4f9a;
+  --accent-yellow: #ffd23f;
+  --focus: var(--accent-yellow);
+
+  /* 표면: 그림자 대신 명도 단계로 깊이를 만든다 */
+  --surface-1: #141a5c;
+  --surface-2: #1f2675;
+  --surface-3: #2c3491;
+  --surface-glass: rgba(20, 26, 92, 0.88);
+
+  /* 글자 */
+  --text: #f4f5ff;
+  --text-muted: #b4bbec;
+  --text-on-accent: #1a1040;
+
+  /* 견종 그룹 */
+  --group-sheepdog: #5cc8ff;
+  --group-pinscher-molosser: #ff8a3d;
+  --group-terrier: #c8e85a;
+  --group-dachshund: #ffb36b;
+  --group-spitz: #8fe8ff;
+  --group-scenthound: #ffd23f;
+  --group-pointer: #7cf0b0;
+  --group-retriever: #ffe08a;
+  --group-companion: #ff8fc7;
+  --group-sighthound: #c7a6ff;
+  --group-mixed: #ff4f9a;
+
+  /* 모양 */
+  --radius-s: 10px;
+  --radius-m: 16px;
+  --radius-l: 24px;
+  --radius-full: 999px;
+  --gutter: 16px;
+  --panel-width: 400px;
+
+  /* 글꼴 */
+  --font-ko: "Pretendard Variable", Pretendard, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  --font-en: "Nunito", "Pretendard Variable", sans-serif;
+
+  /* 모션 */
+  --ease-spring: cubic-bezier(0.22, 1.28, 0.36, 1);
+  --ease-out: cubic-bezier(0.22, 0.8, 0.3, 1);
+  --dur-fast: 160ms;
+  --dur-med: 280ms;
+  --dur-slow: 420ms;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-fast: 1ms;
+    --dur-med: 1ms;
+    --dur-slow: 1ms;
+  }
+}
+

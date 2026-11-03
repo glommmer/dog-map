@@ -1,0 +1,40 @@
+{
+  "summary": "슈나우저 중 가장 큰 독일 작업견입니다.",
+  "description": "스탠더드, 미니어처와 함께 슈나우저 세 품종 가운데 가장 큽니다. 바이에른에서 소몰이에 쓰였고, 경찰견으로도 활약했습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GIANT SCHNAUZER (제181호)",
+      "url": "https://www.fci.be/en/nomenclature/GIANT-SCHNAUZER-181.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/181g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/giant-schnauzer/"
+    },
+    {
+      "label": "Wikipedia: Giant Schnauzer",
+      "url": "https://en.wikipedia.org/wiki/Giant_Schnauzer"
+    },
+    {
+      "label": "위키백과: 자이언트 슈나우저",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9D%B4%EC%96%B8%ED%8A%B8_%EC%8A%88%EB%82%98%EC%9A%B0%EC%A0%80"
+    }
+  ],
+  "fci": {
+    "num": 181,
+    "name": "GIANT SCHNAUZER",
+    "group": 2,
+    "section": "Pinscher and Schnauzer type",
+    "sub": "Schnauzer",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Stablemaster%27s%20NORTHERN%20HOPE(Poznan2006).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Stablemaster%27s_NORTHERN_HOPE(Poznan2006).jpg"
+  }
+}

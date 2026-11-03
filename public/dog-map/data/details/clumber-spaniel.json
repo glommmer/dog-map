@@ -1,0 +1,36 @@
+{
+  "summary": "스패니얼 중 가장 묵직한 견종입니다.",
+  "description": "이름은 뉴캐슬 공작의 영지 클럼버 파크에서 왔습니다. 흰 바탕에 레몬색이나 오렌지색 무늬가 있으며, 스패니얼 가운데 가장 큽니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CLUMBER SPANIEL (제109호)",
+      "url": "https://www.fci.be/en/nomenclature/CLUMBER-SPANIEL-109.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/109g08-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/clumber-spaniel/"
+    },
+    {
+      "label": "Wikipedia: Clumber Spaniel",
+      "url": "https://en.wikipedia.org/wiki/Clumber_Spaniel"
+    }
+  ],
+  "fci": {
+    "num": 109,
+    "name": "CLUMBER SPANIEL",
+    "group": 8,
+    "section": "Flushing Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Clumber%20spaniel%20glowa%20rybnik-kamien%20ppl.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Clumber_spaniel_glowa_rybnik-kamien_ppl.jpg"
+  }
+}

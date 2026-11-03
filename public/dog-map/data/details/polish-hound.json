@@ -1,0 +1,32 @@
+{
+  "summary": "폴란드 토종 후각 사냥개입니다.",
+  "description": "예민한 후각과 긴 사냥을 버티는 지구력을 갖춘 폴란드 토종 사냥개입니다. FCI 표준상 폴란드 사냥개(354호)와는 별개 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: POLISH HOUND (제52호)",
+      "url": "https://www.fci.be/en/nomenclature/POLISH-HOUND-52.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/052g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Polish Hound",
+      "url": "https://en.wikipedia.org/wiki/Polish_Hound"
+    }
+  ],
+  "fci": {
+    "num": 52,
+    "name": "POLISH HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "폴란드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/PolishHound-ChPl-BARD-zKicibirza-wl.AnnaWalentynowicz.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:PolishHound-ChPl-BARD-zKicibirza-wl.AnnaWalentynowicz.JPG"
+  }
+}

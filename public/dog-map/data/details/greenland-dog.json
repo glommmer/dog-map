@@ -1,0 +1,36 @@
+{
+  "summary": "북극의 대표 썰매개입니다.",
+  "description": "약 1000년 전 툴레 사람들이 시베리아에서 데려온 개의 후손으로 설명됩니다. 썰매 끌기와 사냥에 쓰입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GREENLAND DOG (제274호)",
+      "url": "https://www.fci.be/en/nomenclature/GREENLAND-DOG-274.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/274g05-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Greenland Dog",
+      "url": "https://en.wikipedia.org/wiki/Greenland_Dog"
+    },
+    {
+      "label": "위키백과: 그린란드견",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%A6%B0%EB%9E%80%EB%93%9C%EA%B2%AC"
+    }
+  ],
+  "fci": {
+    "num": 274,
+    "name": "GREENLAND DOG",
+    "group": 5,
+    "section": "Nordic Sledge Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "그린란드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Greenland%20dog%20upernavik%202007-06-02%20sample.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Greenland_dog_upernavik_2007-06-02_sample.jpg"
+  }
+}

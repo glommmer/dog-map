@@ -1,0 +1,15 @@
+{
+  "summary": "마요르카의 소형 쥐 잡이 개입니다.",
+  "description": "발레아레스 정부와 스페인 정부가 인정하지만 FCI 공인은 받지 않았습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Ca Rater Mallorquí",
+      "url": "https://en.wikipedia.org/wiki/Ca_Rater_Mallorqu%C3%AD"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ratero%20mallorquin.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Ratero_mallorquin.JPG"
+  }
+}

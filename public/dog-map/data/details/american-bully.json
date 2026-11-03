@@ -1,0 +1,19 @@
+{
+  "summary": "2004년에 표준화된 미국 반려견입니다.",
+  "description": "아메리칸 불리 켄넬 클럽(ABKC)이 표준을 정한 현대 품종입니다. 체격이 크고 단단한 편이며, 영국 등에서는 XL 유형을 규제합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: American Bully",
+      "url": "https://en.wikipedia.org/wiki/American_Bully"
+    },
+    {
+      "label": "위키백과: 아메리칸 불리",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8_%EB%B6%88%EB%A6%AC"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Champion%20Charlie%20Muscles%20(2).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Champion_Charlie_Muscles_(2).jpg"
+  }
+}

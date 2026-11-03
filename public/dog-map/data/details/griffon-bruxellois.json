@@ -1,0 +1,40 @@
+{
+  "summary": "사람 얼굴 같은 표정의 브뤼셀 소형견입니다.",
+  "description": "마구간의 쥐를 잡던 개에서 발전했으며, FCI는 털 색과 길이에 따라 그리펀 브뤼셀루아, 벨주, 프티 브라방송을 각각 인정합니다. 이 항목은 붉은 거친 털 유형입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GRIFFON BRUXELLOIS (제80호)",
+      "url": "https://www.fci.be/en/nomenclature/GRIFFON-BRUXELLOIS-80.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/080g09-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/brussels-griffon/"
+    },
+    {
+      "label": "Wikipedia: Griffon Bruxellois",
+      "url": "https://en.wikipedia.org/wiki/Griffon_Bruxellois"
+    },
+    {
+      "label": "위키백과: 브뤼셀 그리펀",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A4%BC%EC%85%80_%EA%B7%B8%EB%A6%AC%ED%8E%80"
+    }
+  ],
+  "fci": {
+    "num": 80,
+    "name": "GRIFFON BRUXELLOIS",
+    "group": 9,
+    "section": "Small Belgian Dogs",
+    "sub": "Griffons",
+    "status": "definitive",
+    "country": "벨기에"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Monkey%20Bizniz%20Drama%20Queen.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Monkey_Bizniz_Drama_Queen.jpg"
+  }
+}

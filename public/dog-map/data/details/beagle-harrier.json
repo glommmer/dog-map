@@ -1,0 +1,32 @@
+{
+  "summary": "비글과 해리어의 프랑스판입니다.",
+  "description": "프랑스에서 비글과 해리어를 교배해 만든 후각 사냥개로, 산토끼 사냥에 쓰입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BEAGLE HARRIER (제290호)",
+      "url": "https://www.fci.be/en/nomenclature/BEAGLE-HARRIER-290.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/290g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Beagle-Harrier",
+      "url": "https://en.wikipedia.org/wiki/Beagle-Harrier"
+    }
+  ],
+  "fci": {
+    "num": 290,
+    "name": "BEAGLE HARRIER",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Beagle%20harrier.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Beagle_harrier.JPG"
+  }
+}

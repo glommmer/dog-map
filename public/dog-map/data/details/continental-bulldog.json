@@ -1,0 +1,32 @@
+{
+  "summary": "호흡이 좋게 개량한 스위스 불도그입니다.",
+  "description": "'콘티'라고 부르며, 잉글리시 불도그의 건강 문제를 줄이고자 만든 비교적 새로운 품종입니다. 2022년 FCI 잠정 인정을 받았습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CONTINENTAL BULLDOG (제369호)",
+      "url": "https://www.fci.be/en/nomenclature/CONTINENTAL-BULLDOG-369.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/369g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Continental Bulldog",
+      "url": "https://en.wikipedia.org/wiki/Continental_Bulldog"
+    }
+  ],
+  "fci": {
+    "num": 369,
+    "name": "CONTINENTAL BULLDOG",
+    "group": null,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "provisional",
+    "country": "스위스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pitsch-Dog.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Pitsch-Dog.jpg"
+  }
+}

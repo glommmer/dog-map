@@ -1,0 +1,32 @@
+{
+  "summary": "토스카나 해안 평야의 사냥개입니다.",
+  "description": "마렘마 평야의 후각 사냥개로 멧돼지 사냥에 주로 쓰입니다. FCI 잠정 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SEGUGIO MAREMMANO (제361호)",
+      "url": "https://www.fci.be/en/nomenclature/SEGUGIO-MAREMMANO-361.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/361g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Segugio Maremmano",
+      "url": "https://en.wikipedia.org/wiki/Segugio_Maremmano"
+    }
+  ],
+  "fci": {
+    "num": 361,
+    "name": "SEGUGIO MAREMMANO",
+    "group": null,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "provisional",
+    "country": "이탈리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Segugio%20Maremmano.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Segugio_Maremmano.jpg"
+  }
+}

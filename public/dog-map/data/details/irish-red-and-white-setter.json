@@ -1,0 +1,36 @@
+{
+  "summary": "붉은색과 흰색 털의 아일랜드 세터입니다.",
+  "description": "아이리시 세터보다 오래된 계통으로 알려져 있습니다. 20세기 들어 복원 노력을 거쳐 다시 알려졌습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: IRISH RED AND WHITE SETTER (제330호)",
+      "url": "https://www.fci.be/en/nomenclature/IRISH-RED-AND-WHITE-SETTER-330.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/330g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/irish-red-and-white-setter/"
+    },
+    {
+      "label": "Wikipedia: Irish Red and White Setter",
+      "url": "https://en.wikipedia.org/wiki/Irish_Red_and_White_Setter"
+    }
+  ],
+  "fci": {
+    "num": 330,
+    "name": "IRISH RED AND WHITE SETTER",
+    "group": 7,
+    "section": "British and Irish Pointers and Setters",
+    "sub": "Setter",
+    "status": "definitive",
+    "country": "아일랜드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Irish%20Red%20And%20White%20Setter%202005.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Irish_Red_And_White_Setter_2005.jpg"
+  }
+}

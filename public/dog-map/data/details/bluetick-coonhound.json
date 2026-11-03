@@ -1,0 +1,19 @@
+{
+  "summary": "푸른 점박이 털의 쿤하운드입니다.",
+  "description": "너구리 사냥에 주로 쓰이는 미국 사냥개입니다. 깊은 울음소리와 뛰어난 후각으로 유명합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/bluetick-coonhound/"
+    },
+    {
+      "label": "Wikipedia: Bluetick Coonhound",
+      "url": "https://en.wikipedia.org/wiki/Bluetick_Coonhound"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/BluetickCoonhound.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:BluetickCoonhound.jpg"
+  }
+}

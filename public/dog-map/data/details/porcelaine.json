@@ -1,0 +1,40 @@
+{
+  "summary": "도자기처럼 윤기 나는 흰 털의 사냥개입니다.",
+  "description": "예전에는 프랑슈콩테 지방의 이름을 딴 '브리케 프랑콩투아'로도 불렸습니다. 포르셀렌이라는 이름은 윤이 나는 하얀 털에서 비롯되었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: PORCELAINE (제30호)",
+      "url": "https://www.fci.be/en/nomenclature/PORCELAINE-30.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/030g06-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/porcelaine/"
+    },
+    {
+      "label": "Wikipedia: Porcelaine",
+      "url": "https://en.wikipedia.org/wiki/Porcelaine"
+    },
+    {
+      "label": "위키백과: 포르셀렌",
+      "url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EB%A5%B4%EC%85%80%EB%A0%8C"
+    }
+  ],
+  "fci": {
+    "num": 30,
+    "name": "PORCELAINE",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Porcelaine%202009%20pl4.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Porcelaine_2009_pl4.jpg"
+  }
+}

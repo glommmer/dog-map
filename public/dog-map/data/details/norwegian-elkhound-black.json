@@ -1,0 +1,32 @@
+{
+  "summary": "검은 털의 노르웨이 사냥 스피츠입니다.",
+  "description": "회색 엘크하운드와 비슷한 계통이지만 체구가 작습니다. 노르웨이에서도 드문 품종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: NORWEGIAN ELKHOUND BLACK (제268호)",
+      "url": "https://www.fci.be/en/nomenclature/NORWEGIAN-ELKHOUND-BLACK-268.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/268g05-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Black Norwegian Elkhound",
+      "url": "https://en.wikipedia.org/wiki/Black_Norwegian_Elkhound"
+    }
+  ],
+  "fci": {
+    "num": 268,
+    "name": "NORWEGIAN ELKHOUND BLACK",
+    "group": 5,
+    "section": "Nordic Hunting Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "노르웨이"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/BlackNorwegianElkhound.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:BlackNorwegianElkhound.jpg"
+  }
+}

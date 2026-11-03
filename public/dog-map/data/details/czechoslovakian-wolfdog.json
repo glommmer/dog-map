@@ -1,0 +1,40 @@
+{
+  "summary": "군사 실험에서 시작된 늑대 혈통 개입니다.",
+  "description": "1955년 체코슬로바키아에서 저먼 셰퍼드와 카르파티아 늑대를 교배한 실험으로 시작되었습니다. FCI 원산국 표기는 체코슬로바키아입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CZECHOSLOVAKIAN WOLFDOG (제332호)",
+      "url": "https://www.fci.be/en/nomenclature/CZECHOSLOVAKIAN-WOLFDOG-332.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/332g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/czechoslovakian-vlciak/"
+    },
+    {
+      "label": "Wikipedia: Czechoslovakian Wolfdog",
+      "url": "https://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog"
+    },
+    {
+      "label": "위키백과: 체코슬로바키언 울프독",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B2%B4%EC%BD%94%EC%8A%AC%EB%A1%9C%EB%B0%94%ED%82%A4%EC%96%B8_%EC%9A%B8%ED%94%84%EB%8F%85"
+    }
+  ],
+  "fci": {
+    "num": 332,
+    "name": "CZECHOSLOVAKIAN WOLFDOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "체코슬로바키아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/TWH-jolly.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:TWH-jolly.JPG"
+  }
+}

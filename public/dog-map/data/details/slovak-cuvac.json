@@ -1,0 +1,36 @@
+{
+  "summary": "슬로바키아의 흰 가축 보호견입니다.",
+  "description": "슬로바키아 산악 지대에서 양 떼를 지키던 흰 대형견으로, 타트라 지방과 밀접합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SLOVAKIAN CHUVACH (제142호)",
+      "url": "https://www.fci.be/en/nomenclature/SLOVAKIAN-CHUVACH-142.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/142g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/slovensky-cuvac/"
+    },
+    {
+      "label": "Wikipedia: Slovak Cuvac",
+      "url": "https://en.wikipedia.org/wiki/Slovak_Cuvac"
+    }
+  ],
+  "fci": {
+    "num": 142,
+    "name": "SLOVAKIAN CHUVACH",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "슬로바키아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cuvac%201.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Cuvac_1.jpg"
+  }
+}

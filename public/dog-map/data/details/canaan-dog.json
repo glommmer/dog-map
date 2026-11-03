@@ -1,0 +1,40 @@
+{
+  "summary": "중동 사막의 개에서 복원된 이스라엘 국견입니다.",
+  "description": "1930년대 루돌피나 메넬이 네게브 사막 등의 반야생 개로 개량했습니다. 이스라엘의 국견으로 여겨집니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CANAAN DOG (제273호)",
+      "url": "https://www.fci.be/en/nomenclature/CANAAN-DOG-273.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/273g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/canaan-dog/"
+    },
+    {
+      "label": "Wikipedia: Canaan Dog",
+      "url": "https://en.wikipedia.org/wiki/Canaan_Dog"
+    },
+    {
+      "label": "위키백과: 케이넌 도그",
+      "url": "https://ko.wikipedia.org/wiki/%EC%BC%80%EC%9D%B4%EB%84%8C_%EB%8F%84%EA%B7%B8"
+    }
+  ],
+  "fci": {
+    "num": 273,
+    "name": "CANAAN DOG",
+    "group": 5,
+    "section": "Primitive type",
+    "sub": "",
+    "status": "definitive",
+    "country": "이스라엘"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/CanaanDogChakede1.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:CanaanDogChakede1.jpg"
+  }
+}

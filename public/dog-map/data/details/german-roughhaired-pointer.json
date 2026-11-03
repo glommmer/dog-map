@@ -1,0 +1,32 @@
+{
+  "summary": "중간 길이 거친 털의 독일 조렵견입니다.",
+  "description": "'도이치 슈티헬하르'라는 이름으로 국제적으로 인정됩니다. 다재다능한 독일 조렵견입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: DEUTSCH STICHELHAAR (제232호)",
+      "url": "https://www.fci.be/en/nomenclature/DEUTSCH-STICHELHAAR-232.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/232g07-en.pdf"
+    },
+    {
+      "label": "Wikipedia: German Roughhaired Pointer",
+      "url": "https://en.wikipedia.org/wiki/German_Roughhaired_Pointer"
+    }
+  ],
+  "fci": {
+    "num": 232,
+    "name": "DEUTSCH STICHELHAAR",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "«Braque»Type",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/03030288%20Deutsch%20Stichelhaa.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:03030288_Deutsch_Stichelhaa.jpg"
+  }
+}

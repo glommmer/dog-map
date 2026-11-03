@@ -1,0 +1,40 @@
+{
+  "summary": "세계에서 가장 키가 큰 편인 시각 사냥개입니다.",
+  "description": "아일랜드의 문학과 신화에도 등장하는 고대 견종입니다. 늑대 사냥에 쓰였으며 키가 큰 품종으로 꼽힙니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: IRISH WOLFHOUND (제160호)",
+      "url": "https://www.fci.be/en/nomenclature/IRISH-WOLFHOUND-160.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/160g10-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/irish-wolfhound/"
+    },
+    {
+      "label": "Wikipedia: Irish Wolfhound",
+      "url": "https://en.wikipedia.org/wiki/Irish_Wolfhound"
+    },
+    {
+      "label": "위키백과: 아이리시 울프하운드",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EB%A6%AC%EC%8B%9C_%EC%9A%B8%ED%94%84%ED%95%98%EC%9A%B4%EB%93%9C"
+    }
+  ],
+  "fci": {
+    "num": 160,
+    "name": "IRISH WOLFHOUND",
+    "group": 10,
+    "section": "Rough-haired Sighthounds",
+    "sub": "",
+    "status": "definitive",
+    "country": "아일랜드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Irish%20wolfhound%20giaccomo.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Irish_wolfhound_giaccomo.JPG"
+  }
+}

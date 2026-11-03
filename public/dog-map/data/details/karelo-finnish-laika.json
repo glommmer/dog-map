@@ -1,0 +1,15 @@
+{
+  "summary": "핀란드 스피츠와 가까운 라이카입니다.",
+  "description": "카렐리야의 스피츠로, 핀란드 스피츠와 뿌리를 공유하는 사냥개입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Karelo-Finnish Laika",
+      "url": "https://en.wikipedia.org/wiki/Karelo-Finnish_Laika"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Karelo%20Finnish%20Laika.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Karelo_Finnish_Laika.jpg"
+  }
+}

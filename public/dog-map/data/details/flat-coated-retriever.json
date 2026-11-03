@@ -1,0 +1,40 @@
+{
+  "summary": "평평한 검은 털의 영국 회수견입니다.",
+  "description": "물과 땅 모두에서 회수하도록 개량된 조렵견입니다. 활기찬 성격이 어른이 되어서도 이어지는 편입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: FLAT COATED RETRIEVER (제121호)",
+      "url": "https://www.fci.be/en/nomenclature/FLAT-COATED-RETRIEVER-121.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/121g08-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/flat-coated-retriever/"
+    },
+    {
+      "label": "Wikipedia: Flat-coated Retriever",
+      "url": "https://en.wikipedia.org/wiki/Flat-coated_Retriever"
+    },
+    {
+      "label": "위키백과: 플랫 코티드 리트리버",
+      "url": "https://ko.wikipedia.org/wiki/%ED%94%8C%EB%9E%AB_%EC%BD%94%ED%8B%B0%EB%93%9C_%EB%A6%AC%ED%8A%B8%EB%A6%AC%EB%B2%84"
+    }
+  ],
+  "fci": {
+    "num": 121,
+    "name": "FLAT COATED RETRIEVER",
+    "group": 8,
+    "section": "Retrievers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Flat%20Coated%20Retriever%20-%20black.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Flat_Coated_Retriever_-_black.jpg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "summary": "아틀라스산맥의 가축 보호견입니다.",
+  "description": "북아프리카 아틀라스산맥 토종으로, 양과 염소 떼를 지켜 왔습니다. 모로코에서 가장 흔히 볼 수 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ATLAS MOUNTAIN DOG (AIDI) (제247호)",
+      "url": "https://www.fci.be/en/nomenclature/ATLAS-MOUNTAIN-DOG-AIDI-247.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/247g02-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Aidi",
+      "url": "https://en.wikipedia.org/wiki/Aidi"
+    }
+  ],
+  "fci": {
+    "num": 247,
+    "name": "ATLAS MOUNTAIN DOG (AIDI)",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "모로코"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Aidi.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Aidi.jpg"
+  }
+}

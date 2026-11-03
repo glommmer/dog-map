@@ -1,0 +1,40 @@
+{
+  "summary": "'테리어의 왕'이라 불리는 가장 큰 테리어입니다.",
+  "description": "웨스트요크셔의 에어 강 계곡에서 유래해 빙리 테리어, 워터사이드 테리어라고도 불렸습니다. 물가에서 수달과 쥐를 사냥했고, 군견으로도 쓰인 기록이 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: AIREDALE TERRIER (제7호)",
+      "url": "https://www.fci.be/en/nomenclature/AIREDALE-TERRIER-7.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/007g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/airedale-terrier/"
+    },
+    {
+      "label": "Wikipedia: Airedale Terrier",
+      "url": "https://en.wikipedia.org/wiki/Airedale_Terrier"
+    },
+    {
+      "label": "위키백과: 에어데일 테리어",
+      "url": "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4%EB%8D%B0%EC%9D%BC_%ED%85%8C%EB%A6%AC%EC%96%B4"
+    }
+  ],
+  "fci": {
+    "num": 7,
+    "name": "AIREDALE TERRIER",
+    "group": 3,
+    "section": "Large and medium sized Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Airedale%20Terrier.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Airedale_Terrier.jpg"
+  }
+}

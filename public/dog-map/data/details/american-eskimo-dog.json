@@ -1,0 +1,23 @@
+{
+  "summary": "이름과 달리 독일 스피츠에서 온 미국 반려견입니다.",
+  "description": "조상은 독일 스피츠이며, 제1차 세계대전 뒤 반독 감정 탓에 이름이 바뀌었습니다. 희고 풍성한 털을 지닙니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/american-eskimo-dog/"
+    },
+    {
+      "label": "Wikipedia: American Eskimo Dog",
+      "url": "https://en.wikipedia.org/wiki/American_Eskimo_Dog"
+    },
+    {
+      "label": "위키백과: 아메리칸 에스키모 도그",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8_%EC%97%90%EC%8A%A4%ED%82%A4%EB%AA%A8_%EB%8F%84%EA%B7%B8"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/American%20Eskimo%20Dog%201.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:American_Eskimo_Dog_1.jpg"
+  }
+}

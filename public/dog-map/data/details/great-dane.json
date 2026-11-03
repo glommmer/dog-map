@@ -1,0 +1,40 @@
+{
+  "summary": "멧돼지 사냥개의 후손인 독일 초대형견입니다.",
+  "description": "중세 곰과 멧돼지, 사슴 사냥개의 후손입니다. 이름과 달리 덴마크가 아니라 독일에서 발전했고, 'Deutsche Dogge'가 원어입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GREAT DANE (제235호)",
+      "url": "https://www.fci.be/en/nomenclature/GREAT-DANE-235.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/235g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/great-dane/"
+    },
+    {
+      "label": "Wikipedia: Great Dane",
+      "url": "https://en.wikipedia.org/wiki/Great_Dane"
+    },
+    {
+      "label": "위키백과: 그레이트 데인",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8A%B8_%EB%8D%B0%EC%9D%B8"
+    }
+  ],
+  "fci": {
+    "num": 235,
+    "name": "GREAT DANE",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/8675eds%20win.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:8675eds_win.jpg"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "'농장 지킴이'라는 뜻의 독일 경비견입니다.",
+  "description": "이름은 중세 고지 독일어로 농장을 지키는 개를 뜻합니다. 20세기에 옛 농장견을 복원하는 과정에서 만들어졌습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: HOVAWART (제190호)",
+      "url": "https://www.fci.be/en/nomenclature/HOVAWART-190.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/190g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/hovawart/"
+    },
+    {
+      "label": "Wikipedia: Hovawart",
+      "url": "https://en.wikipedia.org/wiki/Hovawart"
+    }
+  ],
+  "fci": {
+    "num": 190,
+    "name": "HOVAWART",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dog%20Hovavart.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Dog_Hovavart.jpg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "summary": "거친 털의 오스트리아 산악 사냥개입니다.",
+  "description": "슈타이어마르크주에서 유래한 후각 사냥개로, 산악 지대에서 멧돼지 등을 쫓도록 개량되었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: COARSE-HAIRED STYRIAN HOUND (제62호)",
+      "url": "https://www.fci.be/en/nomenclature/COARSE-HAIRED-STYRIAN-HOUND-62.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/062g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Styrian Coarse-haired Hound",
+      "url": "https://en.wikipedia.org/wiki/Styrian_Coarse-haired_Hound"
+    }
+  ],
+  "fci": {
+    "num": 62,
+    "name": "COARSE-HAIRED STYRIAN HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "오스트리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Steirische%20Rauhhaarbracke.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Steirische_Rauhhaarbracke.jpg"
+  }
+}

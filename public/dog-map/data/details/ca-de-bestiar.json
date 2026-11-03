@@ -1,0 +1,28 @@
+{
+  "summary": "마요르카의 검은 목양견입니다.",
+  "description": "'마요르카 시프도그'라고도 합니다. 섬에서 양과 소를 돌보던 토착 목양견입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: MAJORCA SHEPHERD DOG (제321호)",
+      "url": "https://www.fci.be/en/nomenclature/MAJORCA-SHEPHERD-DOG-321.html"
+    },
+    {
+      "label": "Wikipedia: Ca de Bestiar",
+      "url": "https://en.wikipedia.org/wiki/Ca_de_Bestiar"
+    }
+  ],
+  "fci": {
+    "num": 321,
+    "name": "MAJORCA SHEPHERD DOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "스페인"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ca%20de%20Bestiar.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Ca_de_Bestiar.JPG"
+  }
+}

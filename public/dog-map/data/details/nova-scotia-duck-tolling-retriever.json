@@ -1,0 +1,40 @@
+{
+  "summary": "오리를 유인하는 가장 작은 리트리버입니다.",
+  "description": "물가에서 장난치듯 움직여 오리의 호기심을 끌어(tolling) 사격 거리로 유인합니다. 리트리버 가운데 가장 작습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: NOVA SCOTIA DUCK TOLLING RETRIEVER (제312호)",
+      "url": "https://www.fci.be/en/nomenclature/NOVA-SCOTIA-DUCK-TOLLING-RETRIEVER-312.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/312g08-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/nova-scotia-duck-tolling-retriever/"
+    },
+    {
+      "label": "Wikipedia: Nova Scotia Duck Tolling Retriever",
+      "url": "https://en.wikipedia.org/wiki/Nova_Scotia_Duck_Tolling_Retriever"
+    },
+    {
+      "label": "위키백과: 노바 스코샤 덕 톨링 리트리버",
+      "url": "https://ko.wikipedia.org/wiki/%EB%85%B8%EB%B0%94_%EC%8A%A4%EC%BD%94%EC%83%A4_%EB%8D%95_%ED%86%A8%EB%A7%81_%EB%A6%AC%ED%8A%B8%EB%A6%AC%EB%B2%84"
+    }
+  ],
+  "fci": {
+    "num": 312,
+    "name": "NOVA SCOTIA DUCK TOLLING RETRIEVER",
+    "group": 8,
+    "section": "Retrievers",
+    "sub": "",
+    "status": "definitive",
+    "country": "캐나다"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Duck%20Toller.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Duck_Toller.jpg"
+  }
+}

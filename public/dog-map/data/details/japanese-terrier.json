@@ -1,0 +1,36 @@
+{
+  "summary": "흑백 무늬의 일본 소형 테리어입니다.",
+  "description": "폭스 테리어 계통, 포인터, 일본 토종개의 후손으로 설명됩니다. 흰 바탕에 머리가 검은 무늬가 특징입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: JAPANESE TERRIER (제259호)",
+      "url": "https://www.fci.be/en/nomenclature/JAPANESE-TERRIER-259.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/259g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/japanese-terrier/"
+    },
+    {
+      "label": "Wikipedia: Japanese Terrier",
+      "url": "https://en.wikipedia.org/wiki/Japanese_Terrier"
+    }
+  ],
+  "fci": {
+    "num": 259,
+    "name": "JAPANESE TERRIER",
+    "group": 3,
+    "section": "Small sized Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "일본"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20Terrier%2022.04.2012%202pl.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Japanese_Terrier_22.04.2012_2pl.jpg"
+  }
+}

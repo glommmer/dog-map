@@ -1,0 +1,40 @@
+{
+  "summary": "시선으로 양 떼를 움직이는, 영국 접경 지대의 목양견입니다.",
+  "description": "보더 콜리는 잉글랜드와 스코틀랜드가 만나는 접경 지대에서 양을 모는 일을 위해 개량되었습니다. 외모보다 작업 능력을 중심으로 선발되어 온 점이 특징입니다.\n\n낮은 자세로 양을 응시하며 움직이는 독특한 몰이 방식으로 유명합니다. 학습 속도가 빠르고 운동량이 많아 어질리티 같은 도그 스포츠에서도 자주 볼 수 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BORDER COLLIE (제297호)",
+      "url": "https://www.fci.be/en/nomenclature/BORDER-COLLIE-297.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/297g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/border-collie/"
+    },
+    {
+      "label": "Wikipedia: Border Collie",
+      "url": "https://en.wikipedia.org/wiki/Border_Collie"
+    },
+    {
+      "label": "위키백과: 보더 콜리",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EB%8D%94_%EC%BD%9C%EB%A6%AC"
+    }
+  ],
+  "fci": {
+    "num": 297,
+    "name": "BORDER COLLIE",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Argentine%20border%20collie.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Argentine_border_collie.jpg"
+  }
+}

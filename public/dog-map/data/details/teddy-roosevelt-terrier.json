@@ -1,0 +1,19 @@
+{
+  "summary": "대통령의 이름을 딴 미국 사냥 테리어입니다.",
+  "description": "아메리칸 래트 테리어와 가깝지만 다리가 짧고 뼈가 굵습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/teddy-roosevelt-terrier/"
+    },
+    {
+      "label": "Wikipedia: Teddy Roosevelt Terrier",
+      "url": "https://en.wikipedia.org/wiki/Teddy_Roosevelt_Terrier"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Adult%20Male%20Teddy%20Roosevelt%20Terrier.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Adult_Male_Teddy_Roosevelt_Terrier.jpg"
+  }
+}

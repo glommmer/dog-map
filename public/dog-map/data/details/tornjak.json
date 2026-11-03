@@ -1,0 +1,36 @@
+{
+  "summary": "복원된 발칸 가축 보호견입니다.",
+  "description": "보스니아 헤르체고비나와 크로아티아의 토착 보호견을 20세기에 복원한 품종입니다. 몰로서 체형과 얼룩 무늬를 지닙니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BOSNIAN AND HERZEGOVINIAN - CROATIAN SHEPHERD DOG (제355호)",
+      "url": "https://www.fci.be/en/nomenclature/BOSNIAN-AND-HERZEGOVINIAN-CROATIAN-SHEPHERD-DOG-355.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/355g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/tornjak/"
+    },
+    {
+      "label": "Wikipedia: Tornjak",
+      "url": "https://en.wikipedia.org/wiki/Tornjak"
+    }
+  ],
+  "fci": {
+    "num": 355,
+    "name": "BOSNIAN AND HERZEGOVINIAN - CROATIAN SHEPHERD DOG",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "보스니아 헤르체고비나·크로아티아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosniantornjak.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Bosniantornjak.jpg"
+  }
+}

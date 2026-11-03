@@ -1,0 +1,40 @@
+{
+  "summary": "몰타의 토끼 사냥개입니다.",
+  "description": "몰타어 이름 '켈브 탈-페네크'는 토끼 개를 뜻합니다. 바위가 많은 섬 지형에서 토끼를 사냥하며, 흥분하면 코와 귀가 붉어집니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: PHARAOH HOUND (제248호)",
+      "url": "https://www.fci.be/en/nomenclature/PHARAOH-HOUND-248.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/248g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/pharaoh-hound/"
+    },
+    {
+      "label": "Wikipedia: Pharaoh Hound",
+      "url": "https://en.wikipedia.org/wiki/Pharaoh_Hound"
+    },
+    {
+      "label": "위키백과: 파라오 하운드",
+      "url": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%9D%BC%EC%98%A4_%ED%95%98%EC%9A%B4%EB%93%9C"
+    }
+  ],
+  "fci": {
+    "num": 248,
+    "name": "PHARAOH HOUND",
+    "group": 5,
+    "section": "Primitive type",
+    "sub": "",
+    "status": "definitive",
+    "country": "몰타"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pies%20faraona%20e34.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Pies_faraona_e34.jpg"
+  }
+}

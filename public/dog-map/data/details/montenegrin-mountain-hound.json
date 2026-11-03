@@ -1,0 +1,32 @@
+{
+  "summary": "몬테네그로 산악의 희귀 사냥개입니다.",
+  "description": "매끈한 검정·황갈색 털을 지닌 희귀 후각 사냥개입니다. 몬테네그로 산악 지대가 고향입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: MONTENEGRIN MOUNTAIN HOUND (제279호)",
+      "url": "https://www.fci.be/en/nomenclature/MONTENEGRIN-MOUNTAIN-HOUND-279.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/279g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Montenegrin Mountain Hound",
+      "url": "https://en.wikipedia.org/wiki/Montenegrin_Mountain_Hound"
+    }
+  ],
+  "fci": {
+    "num": 279,
+    "name": "MONTENEGRIN MOUNTAIN HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "몬테네그로"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Montenegronak.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Montenegronak.jpg"
+  }
+}

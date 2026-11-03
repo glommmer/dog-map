@@ -1,0 +1,36 @@
+{
+  "summary": "존 러셀 목사의 여우 사냥 테리어입니다.",
+  "description": "18세기 원조 폭스 테리어 계통에서 이어졌으며, 19세기 잭 러셀 목사의 이름을 땄습니다. 잭 러셀 테리어보다 다리가 깁니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: PARSON RUSSELL TERRIER (제339호)",
+      "url": "https://www.fci.be/en/nomenclature/PARSON-RUSSELL-TERRIER-339.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/339g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/parson-russell-terrier/"
+    },
+    {
+      "label": "Wikipedia: Parson Russell Terrier",
+      "url": "https://en.wikipedia.org/wiki/Parson_Russell_Terrier"
+    }
+  ],
+  "fci": {
+    "num": 339,
+    "name": "PARSON RUSSELL TERRIER",
+    "group": 3,
+    "section": "Large and medium sized Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Parson%20Russell%20Terrier.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Parson_Russell_Terrier.jpg"
+  }
+}

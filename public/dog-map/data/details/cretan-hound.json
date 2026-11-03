@@ -1,0 +1,15 @@
+{
+  "summary": "크레타섬의 오래된 사냥개입니다.",
+  "description": "그리스 크레타섬의 사냥개입니다. 유럽에서 가장 오래된 품종 가운데 하나라는 주장이 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Cretan Hound",
+      "url": "https://en.wikipedia.org/wiki/Cretan_Hound"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kritikosichnilatis%201.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Kritikosichnilatis_1.jpg"
+  }
+}

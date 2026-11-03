@@ -1,0 +1,19 @@
+{
+  "summary": "남부 아프리카의 토착견입니다.",
+  "description": "남부 아프리카에서 자연 선택으로 살아온 개입니다. 입 앞쪽의 검은 얼룩이 특징입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Africanis",
+      "url": "https://en.wikipedia.org/wiki/Africanis"
+    },
+    {
+      "label": "위키백과: 아프리카니스",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4%EB%8B%88%EC%8A%A4"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Africanis%20(1).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Africanis_(1).jpg"
+  }
+}

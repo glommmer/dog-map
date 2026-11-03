@@ -1,0 +1,40 @@
+{
+  "summary": "시베리아 북서부 유목민과 살아온, 웃는 얼굴의 흰 개입니다.",
+  "description": "사모예드는 시베리아 북서부의 사모예드계 유목민들이 순록 몰이, 썰매 끌기, 체온 나누기 등에 함께한 개에서 유래했습니다. 두텁고 흰 털과 살짝 올라간 입꼬리가 특징입니다.\n\n19세기 말 이후 극지 탐험과 함께 서양에 알려졌습니다. 사람과 가까이 지내도록 길러진 만큼 친근하고 활동적인 성격을 보입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SAMOYED (제212호)",
+      "url": "https://www.fci.be/en/nomenclature/SAMOYED-212.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/212g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/samoyed/"
+    },
+    {
+      "label": "Wikipedia: Samoyed dog",
+      "url": "https://en.wikipedia.org/wiki/Samoyed_dog"
+    },
+    {
+      "label": "위키백과: 사모예드견",
+      "url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EB%AA%A8%EC%98%88%EB%93%9C%EA%B2%AC"
+    }
+  ],
+  "fci": {
+    "num": 212,
+    "name": "SAMOYED",
+    "group": 5,
+    "section": "Nordic Sledge Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "러시아 북부·시베리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Samojed00.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Samojed00.jpg"
+  }
+}

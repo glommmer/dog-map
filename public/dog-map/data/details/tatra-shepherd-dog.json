@@ -1,0 +1,32 @@
+{
+  "summary": "폴란드 포트할레의 흰 대형 보호견입니다.",
+  "description": "폴란드 남부 타트라 산맥의 포트할레 지역에서 유래한 대형 가축 보호견입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: POLISH TATRA SHEPHERD (제252호)",
+      "url": "https://www.fci.be/en/nomenclature/POLISH-TATRA-SHEPHERD-252.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/252g01-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Tatra Shepherd Dog",
+      "url": "https://en.wikipedia.org/wiki/Tatra_Shepherd_Dog"
+    }
+  ],
+  "fci": {
+    "num": 252,
+    "name": "POLISH TATRA SHEPHERD",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "폴란드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Polski%20Owczarek%20Podhala%C5%84ski%2030.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Polski_Owczarek_Podhala%C5%84ski_30.jpg"
+  }
+}

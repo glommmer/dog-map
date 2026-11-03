@@ -1,0 +1,36 @@
+{
+  "summary": "프랑스 중부 평원의 목양견입니다.",
+  "description": "베르제 드 보스, 또는 다리의 붉은 무늬를 뜻하는 '바 루주'라고도 부릅니다. 뒷발의 이중 며느리발톱이 특징이며, 양치기와 군견 등에 쓰였습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BEAUCE SHEEPDOG (제44호)",
+      "url": "https://www.fci.be/en/nomenclature/BEAUCE-SHEEPDOG-44.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/044g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/beauceron/"
+    },
+    {
+      "label": "Wikipedia: Beauceron",
+      "url": "https://en.wikipedia.org/wiki/Beauceron"
+    }
+  ],
+  "fci": {
+    "num": 44,
+    "name": "BEAUCE SHEEPDOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/BeauceronStand.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:BeauceronStand.jpg"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "발가락이 여섯인 퍼핀 사냥개입니다.",
+  "description": "이름은 '퍼핀(바다오리) 개'를 뜻합니다. 절벽을 오르도록 발달한 여섯 발가락과 유연한 관절로 유명합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: NORWEGIAN LUNDEHUND (제265호)",
+      "url": "https://www.fci.be/en/nomenclature/NORWEGIAN-LUNDEHUND-265.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/265g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/norwegian-lundehund/"
+    },
+    {
+      "label": "Wikipedia: Norwegian Lundehund",
+      "url": "https://en.wikipedia.org/wiki/Norwegian_Lundehund"
+    }
+  ],
+  "fci": {
+    "num": 265,
+    "name": "NORWEGIAN LUNDEHUND",
+    "group": 5,
+    "section": "Nordic Hunting Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "노르웨이"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lundehund-2003.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Lundehund-2003.jpg"
+  }
+}

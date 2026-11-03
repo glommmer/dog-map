@@ -1,0 +1,15 @@
+{
+  "summary": "이란의 대형 가축 보호견입니다.",
+  "description": "이란 사라브에서 유래했습니다. 곰과 늑대, 표범 등에서 가축을 지켜 왔습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Sarabi dog",
+      "url": "https://en.wikipedia.org/wiki/Sarabi_dog"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/5-%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA%20%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C%20%D8%B5%D9%88%D9%85%D8%B9%D9%87%20%D9%85%D9%84%DA%A9%D8%B4%D8%A7%D9%87%20%D8%B3%DA%AF%20%D8%B3%D8%B1%D8%A7%D8%A8.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:5-%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C_%D8%B5%D9%88%D9%85%D8%B9%D9%87_%D9%85%D9%84%DA%A9%D8%B4%D8%A7%D9%87_%D8%B3%DA%AF_%D8%B3%D8%B1%D8%A7%D8%A8.jpg"
+  }
+}

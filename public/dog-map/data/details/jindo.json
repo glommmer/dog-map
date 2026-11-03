@@ -1,0 +1,44 @@
+{
+  "summary": "전남 진도에서 사람과 함께 살아온 한국의 대표 토종견입니다.",
+  "description": "진돗개는 전라남도 진도에서 오랫동안 길러 온 중형견으로, 곧게 선 귀와 위로 말린 꼬리가 특징입니다. 섬이라는 환경 덕분에 비교적 독자적인 혈통이 유지되었다고 알려져 있습니다.\n\n주인을 잘 따르고 경계심이 강하며, 사냥과 집 지키기에 두루 쓰였습니다. 대한민국 천연기념물로 지정되어 보호받고 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: KOREA JINDO DOG (제334호)",
+      "url": "https://www.fci.be/en/nomenclature/KOREA-JINDO-DOG-334.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/334g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/korean-jindo-dog/"
+    },
+    {
+      "label": "국가유산청 국가유산포털: 천연기념물 진도의 진도개",
+      "url": "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?pageNo=1_1_2_0&ccbaCpno=1363600530000"
+    },
+    {
+      "label": "Wikipedia: Korean Jindo",
+      "url": "https://en.wikipedia.org/wiki/Korean_Jindo"
+    },
+    {
+      "label": "위키백과: 진돗개",
+      "url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EB%8F%97%EA%B0%9C"
+    }
+  ],
+  "fci": {
+    "num": 334,
+    "name": "KOREA JINDO DOG",
+    "group": 5,
+    "section": "Asian Spitz and related breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "대한민국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/ARIRANG.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:ARIRANG.jpg"
+  }
+}

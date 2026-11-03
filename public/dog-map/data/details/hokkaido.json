@@ -1,0 +1,40 @@
+{
+  "summary": "아이누 사람들과 함께한 일본 토종견입니다.",
+  "description": "'아이누 켄'이라고도 합니다. 추위에 강한 사냥개로, 일본 천연기념물로 지정되어 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: HOKKAIDO (제261호)",
+      "url": "https://www.fci.be/en/nomenclature/HOKKAIDO-261.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/261g05-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/hokkaido/"
+    },
+    {
+      "label": "Wikipedia: Hokkaido (dog breed)",
+      "url": "https://en.wikipedia.org/wiki/Hokkaido_(dog_breed)"
+    },
+    {
+      "label": "위키백과: 홋카이도견",
+      "url": "https://ko.wikipedia.org/wiki/%ED%99%8B%EC%B9%B4%EC%9D%B4%EB%8F%84%EA%B2%AC"
+    }
+  ],
+  "fci": {
+    "num": 261,
+    "name": "HOKKAIDO",
+    "group": 5,
+    "section": "Asian Spitz and related breeds",
+    "sub": "",
+    "status": "definitive",
+    "country": "일본"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hokkaido%2002.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Hokkaido_02.jpg"
+  }
+}

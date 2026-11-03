@@ -1,0 +1,36 @@
+{
+  "summary": "북아프리카의 짧은 털 시각 사냥개입니다.",
+  "description": "'베르베르 그레이하운드'라고도 부르는 고대 사냥개입니다. FCI 원산국은 모로코이며, 사막에서 영양과 토끼를 쫓았습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SLOUGHI (제188호)",
+      "url": "https://www.fci.be/en/nomenclature/SLOUGHI-188.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/188g10-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/sloughi/"
+    },
+    {
+      "label": "Wikipedia: Sloughi",
+      "url": "https://en.wikipedia.org/wiki/Sloughi"
+    }
+  ],
+  "fci": {
+    "num": 188,
+    "name": "SLOUGHI",
+    "group": 10,
+    "section": "Short-haired Sighthounds",
+    "sub": "",
+    "status": "definitive",
+    "country": "모로코"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sloughi.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Sloughi.jpg"
+  }
+}

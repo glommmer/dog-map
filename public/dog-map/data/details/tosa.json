@@ -1,0 +1,40 @@
+{
+  "summary": "고치현에서 투견용으로 개량된 일본 대형견입니다.",
+  "description": "일본 시코쿠 도사에서 원래 투견용으로 개량되었으며, 오늘날 희귀합니다. 한국 등 여러 나라에서 맹견으로 관리합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: TOSA (제260호)",
+      "url": "https://www.fci.be/en/nomenclature/TOSA-260.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/260g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/tosa/"
+    },
+    {
+      "label": "Wikipedia: Tosa (dog breed)",
+      "url": "https://en.wikipedia.org/wiki/Tosa_(dog_breed)"
+    },
+    {
+      "label": "위키백과: 도사견",
+      "url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%82%AC%EA%B2%AC"
+    }
+  ],
+  "fci": {
+    "num": 260,
+    "name": "TOSA",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "definitive",
+    "country": "일본"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bukadai.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Bukadai.jpg"
+  }
+}

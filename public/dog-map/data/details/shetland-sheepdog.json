@@ -1,0 +1,40 @@
+{
+  "summary": "작은 콜리를 닮은 '셸티'입니다.",
+  "description": "스코틀랜드 셔틀랜드 제도의 목양견으로, 1909년 영국 켄넬 클럽에 등록되었습니다. 콜리와 닮았지만 체구가 작습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SHETLAND SHEEPDOG (제88호)",
+      "url": "https://www.fci.be/en/nomenclature/SHETLAND-SHEEPDOG-88.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/088g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/shetland-sheepdog/"
+    },
+    {
+      "label": "Wikipedia: Shetland Sheepdog",
+      "url": "https://en.wikipedia.org/wiki/Shetland_Sheepdog"
+    },
+    {
+      "label": "위키백과: 셔틀랜드 시프도그",
+      "url": "https://ko.wikipedia.org/wiki/%EC%85%94%ED%8B%80%EB%9E%9C%EB%93%9C_%EC%8B%9C%ED%94%84%EB%8F%84%EA%B7%B8"
+    }
+  ],
+  "fci": {
+    "num": 88,
+    "name": "SHETLAND SHEEPDOG",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/ShetlandShpdogBlue2%20wb.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:ShetlandShpdogBlue2_wb.jpg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "summary": "칠레 최초의 토종 견종입니다.",
+  "description": "19세기 말 스무스 폭스 테리어와 안달루시안 테리어의 교배에서 시작되었습니다. 칠레 켄넬 클럽 인정 견종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Chilean Terrier",
+      "url": "https://en.wikipedia.org/wiki/Chilean_Terrier"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fox%20terrier%20chileno.JPG?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Fox_terrier_chileno.JPG"
+  }
+}

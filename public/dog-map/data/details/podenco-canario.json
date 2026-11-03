@@ -1,0 +1,32 @@
+{
+  "summary": "카나리아 제도의 토끼 사냥개입니다.",
+  "description": "주로 토끼를 사냥합니다. 카나리아 제도 토착의 날렵한 사냥개로, 큰 귀가 특징입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: CANARIAN WARREN HOUND (제329호)",
+      "url": "https://www.fci.be/en/nomenclature/CANARIAN-WARREN-HOUND-329.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/329g05-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Podenco Canario",
+      "url": "https://en.wikipedia.org/wiki/Podenco_Canario"
+    }
+  ],
+  "fci": {
+    "num": 329,
+    "name": "CANARIAN WARREN HOUND",
+    "group": 5,
+    "section": "Primitive type - Hunting Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "스페인"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Podenco%20Canario%202.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Podenco_Canario_2.jpg"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "덥수룩한 털의 네덜란드 양몰이 개입니다.",
+  "description": "네덜란드 습지와 황야에서 양을 몰았습니다. 제2차 세계대전 뒤 복원되었습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: DUTCH SCHAPENDOES (제313호)",
+      "url": "https://www.fci.be/en/nomenclature/DUTCH-SCHAPENDOES-313.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/313g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/schapendoes/"
+    },
+    {
+      "label": "Wikipedia: Schapendoes",
+      "url": "https://en.wikipedia.org/wiki/Schapendoes"
+    }
+  ],
+  "fci": {
+    "num": 313,
+    "name": "DUTCH SCHAPENDOES",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "네덜란드"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Schapendoes.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Schapendoes.jpg"
+  }
+}

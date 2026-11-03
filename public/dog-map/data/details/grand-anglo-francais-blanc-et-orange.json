@@ -1,0 +1,32 @@
+{
+  "summary": "흰색과 오렌지색의 앙글로 프랑세 사냥개입니다.",
+  "description": "앙글로 프랑세 대형 사냥개 세 품종 가운데 하나로, 무리 사냥에 쓰입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: GREAT ANGLO-FRENCH WHITE & ORANGE HOUND (제324호)",
+      "url": "https://www.fci.be/en/nomenclature/GREAT-ANGLO-FRENCH-WHITE-ORANGE-HOUND-324.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/324g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Grand Anglo-Français Blanc et Orange",
+      "url": "https://en.wikipedia.org/wiki/Grand_Anglo-Fran%C3%A7ais_Blanc_et_Orange"
+    }
+  ],
+  "fci": {
+    "num": 324,
+    "name": "GREAT ANGLO-FRENCH WHITE & ORANGE HOUND",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Large-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/06101298%20Grand%20anglo%20francais%20orange.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:06101298_Grand_anglo_francais_orange.jpg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "summary": "검정과 황갈색 털의 작은 영국 테리어입니다.",
+  "description": "맨체스터 테리어와 가까운 소형 테리어로, 토이 그룹에 속합니다. 영국 켄넬 클럽에서는 개체 수가 적은 토종 품종으로 관리합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ENGLISH TOY TERRIER (BLACK &TAN) (제13호)",
+      "url": "https://www.fci.be/en/nomenclature/ENGLISH-TOY-TERRIER-BLACK-TAN-13.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/013g03-en.pdf"
+    },
+    {
+      "label": "Wikipedia: English Toy Terrier (Black & Tan)",
+      "url": "https://en.wikipedia.org/wiki/English_Toy_Terrier_(Black_%26_Tan)"
+    }
+  ],
+  "fci": {
+    "num": 13,
+    "name": "ENGLISH TOY TERRIER (BLACK &TAN)",
+    "group": 3,
+    "section": "Toy Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/English%20Toy%20Terrier%20600%2001.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:English_Toy_Terrier_600_01.jpg"
+  }
+}

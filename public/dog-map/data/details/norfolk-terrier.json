@@ -1,0 +1,40 @@
+{
+  "summary": "늘어진 귀의 소형 테리어입니다.",
+  "description": "1964년 독립 품종으로 공인되기 전까지 노리치 테리어의 한 변종이었습니다. 귀 모양으로 구별합니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: NORFOLK TERRIER (제272호)",
+      "url": "https://www.fci.be/en/nomenclature/NORFOLK-TERRIER-272.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/272g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/norfolk-terrier/"
+    },
+    {
+      "label": "Wikipedia: Norfolk Terrier",
+      "url": "https://en.wikipedia.org/wiki/Norfolk_Terrier"
+    },
+    {
+      "label": "위키백과: 노퍽 테리어",
+      "url": "https://ko.wikipedia.org/wiki/%EB%85%B8%ED%8D%BD_%ED%85%8C%EB%A6%AC%EC%96%B4"
+    }
+  ],
+  "fci": {
+    "num": 272,
+    "name": "NORFOLK TERRIER",
+    "group": 3,
+    "section": "Small sized Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Charmonty%20Norfolkterrier.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Charmonty_Norfolkterrier.jpg"
+  }
+}

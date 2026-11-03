@@ -1,0 +1,40 @@
+{
+  "summary": "다리는 짧지만 소 떼를 몰던 웨일스의 작은 목축견입니다.",
+  "description": "펨브로크 웰시 코기는 웨일스 남서부 펨브로크셔에서 소의 발뒤꿈치를 물어 모는 일을 하던 개입니다. 낮은 체구 덕분에 소의 발길질을 피하기 쉬웠다고 전해집니다.\n\n카디건 웰시 코기와는 별개의 견종으로 정리되었습니다. 영국 왕실의 반려견으로도 유명하며, 활발하고 영리한 성격을 지녔습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: WELSH CORGI (PEMBROKE) (제39호)",
+      "url": "https://www.fci.be/en/nomenclature/WELSH-CORGI-PEMBROKE-39.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/039g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/pembroke-welsh-corgi/"
+    },
+    {
+      "label": "Wikipedia: Pembroke Welsh Corgi",
+      "url": "https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi"
+    },
+    {
+      "label": "위키백과: 펨브록 웰시 코기",
+      "url": "https://ko.wikipedia.org/wiki/%ED%8E%A8%EB%B8%8C%EB%A1%9D_%EC%9B%B0%EC%8B%9C_%EC%BD%94%EA%B8%B0"
+    }
+  ],
+  "fci": {
+    "num": 39,
+    "name": "WELSH CORGI (PEMBROKE)",
+    "group": 1,
+    "section": "Cattledogs (except Swiss Cattledogs)",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Welsh%20Pembroke%20Corgi.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Welsh_Pembroke_Corgi.jpg"
+  }
+}

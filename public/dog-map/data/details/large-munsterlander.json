@@ -1,0 +1,36 @@
+{
+  "summary": "흑백 얼룩 털의 독일 조렵견입니다.",
+  "description": "베스트팔렌과 니더작센에서 유래했습니다. 저먼 롱헤어드 포인터 계통에서 흑백 개체를 따로 번식하며 독립했습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: LARGE MUNSTERLANDER (제118호)",
+      "url": "https://www.fci.be/en/nomenclature/LARGE-MUNSTERLANDER-118.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/118g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/large-munsterlander/"
+    },
+    {
+      "label": "Wikipedia: Large Münsterländer",
+      "url": "https://en.wikipedia.org/wiki/Large_M%C3%BCnsterl%C3%A4nder"
+    }
+  ],
+  "fci": {
+    "num": 118,
+    "name": "LARGE MUNSTERLANDER",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "Spaniel Type",
+    "status": "definitive",
+    "country": "독일"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/GrosserMuensterlaender.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:GrosserMuensterlaender.jpg"
+  }
+}

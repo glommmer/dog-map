@@ -1,0 +1,32 @@
+{
+  "summary": "푸른 얼룩 털의 다리 짧은 사냥개입니다.",
+  "description": "긴 허리와 짧은 다리를 가진 프랑스 토종 사냥개로, 프랑스 밖에서는 보기 드뭅니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: BLUE GASCONY BASSET (제35호)",
+      "url": "https://www.fci.be/en/nomenclature/BLUE-GASCONY-BASSET-35.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/035g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Basset Bleu de Gascogne",
+      "url": "https://en.wikipedia.org/wiki/Basset_Bleu_de_Gascogne"
+    }
+  ],
+  "fci": {
+    "num": 35,
+    "name": "BLUE GASCONY BASSET",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Small-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Basset%20bleu%20de%20Gascogne.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Basset_bleu_de_Gascogne.jpg"
+  }
+}

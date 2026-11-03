@@ -1,0 +1,19 @@
+{
+  "summary": "허스키를 작게 줄인 듯한 미국 스피츠입니다.",
+  "description": "20세기 후반 알래스카에서 맬러뮤트와 허스키를 닮은 반려견으로 개발되었습니다. 세 가지 크기로 번식됩니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/alaskan-klee-kai/"
+    },
+    {
+      "label": "Wikipedia: Alaskan Klee Kai",
+      "url": "https://en.wikipedia.org/wiki/Alaskan_Klee_Kai"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Alaskan%20Klee%20Kai.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Standard_Alaskan_Klee_Kai.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "summary": "달걀형 머리의 작은 불 테리어입니다.",
+  "description": "사라진 잉글리시 화이트 테리어, 달마티안, 불도그에 뿌리를 둡니다. 1872년 기록이 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: MINIATURE BULL TERRIER (제359호)",
+      "url": "https://www.fci.be/en/nomenclature/MINIATURE-BULL-TERRIER-359.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/359g03-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/miniature-bull-terrier/"
+    },
+    {
+      "label": "Wikipedia: Miniature Bull Terrier",
+      "url": "https://en.wikipedia.org/wiki/Miniature_Bull_Terrier"
+    },
+    {
+      "label": "위키백과: 미니어처 불 테리어",
+      "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%8B%88%EC%96%B4%EC%B2%98_%EB%B6%88_%ED%85%8C%EB%A6%AC%EC%96%B4"
+    }
+  ],
+  "fci": {
+    "num": 359,
+    "name": "MINIATURE BULL TERRIER",
+    "group": 3,
+    "section": "Bull type Terriers",
+    "sub": "",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bull%20Terrier%20Miniature.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Bull_Terrier_Miniature.jpg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "summary": "엘크 사냥에 쓰인 스웨덴의 대형 스피츠입니다.",
+  "description": "'스웨디시 엘크하운드'라고도 하며, 스웨덴 옘틀란드주의 이름을 땄습니다. 말코손바닥사슴과 곰 사냥에 쓰였습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: JÄMTHUND (제42호)",
+      "url": "https://www.fci.be/en/nomenclature/JAMTHUND-42.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/042g05-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Jämthund",
+      "url": "https://en.wikipedia.org/wiki/J%C3%A4mthund"
+    }
+  ],
+  "fci": {
+    "num": 42,
+    "name": "JÄMTHUND",
+    "group": 5,
+    "section": "Nordic Hunting Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "스웨덴"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamthlnd.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Jamthlnd.jpg"
+  }
+}

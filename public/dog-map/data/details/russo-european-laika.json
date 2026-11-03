@@ -1,0 +1,32 @@
+{
+  "summary": "러시아 북서부 숲의 사냥 라이카입니다.",
+  "description": "동유럽 북부 삼림의 토종 사냥개들을 바탕으로 개량되었으며, 대체로 흑백 털을 지닙니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: RUSSIAN-EUROPEAN LAIKA (제304호)",
+      "url": "https://www.fci.be/en/nomenclature/RUSSIAN-EUROPEAN-LAIKA-304.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/304g05-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Russo-European Laika",
+      "url": "https://en.wikipedia.org/wiki/Russo-European_Laika"
+    }
+  ],
+  "fci": {
+    "num": 304,
+    "name": "RUSSIAN-EUROPEAN LAIKA",
+    "group": 5,
+    "section": "Nordic Hunting Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "러시아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Russo%20European%20Laika.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Russo_European_Laika.jpg"
+  }
+}

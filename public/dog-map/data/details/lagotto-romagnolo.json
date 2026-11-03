@@ -1,0 +1,36 @@
+{
+  "summary": "물새 사냥개에서 트러플 탐지견이 된 이탈리아 개입니다.",
+  "description": "포강 삼각주 일대의 습지에서 물새를 회수하던 개였으나, 습지가 사라진 뒤 트러플 탐지로 유명해졌습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ROMAGNA WATER DOG (제298호)",
+      "url": "https://www.fci.be/en/nomenclature/ROMAGNA-WATER-DOG-298.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/298g08-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/lagotto-romagnolo/"
+    },
+    {
+      "label": "Wikipedia: Lagotto Romagnolo",
+      "url": "https://en.wikipedia.org/wiki/Lagotto_Romagnolo"
+    }
+  ],
+  "fci": {
+    "num": 298,
+    "name": "ROMAGNA WATER DOG",
+    "group": 8,
+    "section": "Water Dogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "이탈리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lagotto%20Romagnolo.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Lagotto_Romagnolo.jpg"
+  }
+}

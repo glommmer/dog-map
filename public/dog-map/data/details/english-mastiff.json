@@ -1,0 +1,40 @@
+{
+  "summary": "매우 무거운 영국 초대형견입니다.",
+  "description": "마스티프라고도 불립니다. 고대 알라운트, 브리타니아의 투견에서 내려온 것으로 여겨집니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: MASTIFF (제264호)",
+      "url": "https://www.fci.be/en/nomenclature/MASTIFF-264.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/264g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/mastiff/"
+    },
+    {
+      "label": "Wikipedia: English Mastiff",
+      "url": "https://en.wikipedia.org/wiki/English_Mastiff"
+    },
+    {
+      "label": "위키백과: 잉글리시 마스티프",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9E%89%EA%B8%80%EB%A6%AC%EC%8B%9C_%EB%A7%88%EC%8A%A4%ED%8B%B0%ED%94%84"
+    }
+  ],
+  "fci": {
+    "num": 264,
+    "name": "MASTIFF",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mastiff type",
+    "status": "definitive",
+    "country": "영국"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mastif%20angielski%20pregowany%20nn.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Mastif_angielski_pregowany_nn.jpg"
+  }
+}

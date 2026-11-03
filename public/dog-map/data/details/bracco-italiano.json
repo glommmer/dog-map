@@ -1,0 +1,36 @@
+{
+  "summary": "이탈리아의 전통 포인터입니다.",
+  "description": "유럽에서 오래된 조렵견 가운데 하나로 평가되는 이탈리아 견종입니다. 늘어진 귀와 큰 머리가 특징입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ITALIAN POINTING DOG (제202호)",
+      "url": "https://www.fci.be/en/nomenclature/ITALIAN-POINTING-DOG-202.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/202g07-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/bracco-italiano/"
+    },
+    {
+      "label": "Wikipedia: Bracco Italiano",
+      "url": "https://en.wikipedia.org/wiki/Bracco_Italiano"
+    }
+  ],
+  "fci": {
+    "num": 202,
+    "name": "ITALIAN POINTING DOG",
+    "group": 7,
+    "section": "Continental Pointing Dogs",
+    "sub": "«Braque»Type",
+    "status": "definitive",
+    "country": "이탈리아"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/BIR%20Grupp%207-%20BRACCO%20ITALIANO,%20Nuits%20Di%20Montemassi%20(23866391829).jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:BIR_Grupp_7-_BRACCO_ITALIANO,_Nuits_Di_Montemassi_(23866391829).jpg"
+  }
+}

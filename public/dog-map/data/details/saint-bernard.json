@@ -1,0 +1,40 @@
+{
+  "summary": "알프스 고개의 수도원에서 조난자를 찾던 거대한 구조견입니다.",
+  "description": "세인트 버나드는 스위스와 이탈리아 사이 그레이트 세인트 버나드 고개의 수도원에서 길러진 개로 유명합니다. 눈 덮인 고개에서 길 잃은 여행자를 찾는 일을 도왔다고 전해집니다.\n\n가장 유명한 개체로는 많은 사람을 구했다는 이야기가 남은 배리가 있습니다. 체구가 매우 크지만 대체로 온순하고 인내심이 많다고 평가됩니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: ST. BERNARD (제61호)",
+      "url": "https://www.fci.be/en/nomenclature/ST-BERNARD-61.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/061g02-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/st-bernard/"
+    },
+    {
+      "label": "Wikipedia: St. Bernard (dog breed)",
+      "url": "https://en.wikipedia.org/wiki/St._Bernard_(dog_breed)"
+    },
+    {
+      "label": "위키백과: 세인트 버나드",
+      "url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%9D%B8%ED%8A%B8_%EB%B2%84%EB%82%98%EB%93%9C"
+    }
+  ],
+  "fci": {
+    "num": 61,
+    "name": "ST. BERNARD",
+    "group": 2,
+    "section": "Molossian type",
+    "sub": "Mountain type",
+    "status": "definitive",
+    "country": "스위스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rey%20nieve.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Rey_nieve.jpg"
+  }
+}

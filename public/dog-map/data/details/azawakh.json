@@ -1,0 +1,40 @@
+{
+  "summary": "사헬 유목민의 날씬한 시각 사냥개입니다.",
+  "description": "말리, 니제르, 부르키나파소에 걸친 사헬의 고대 사냥개입니다. FCI 원산국은 말리이며, 투아레그 유목민과 밀접한 관계가 있습니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: AZAWAKH (제307호)",
+      "url": "https://www.fci.be/en/nomenclature/AZAWAKH-307.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/307g10-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/azawakh/"
+    },
+    {
+      "label": "Wikipedia: Azawakh",
+      "url": "https://en.wikipedia.org/wiki/Azawakh"
+    },
+    {
+      "label": "위키백과: 아자와크",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9E%90%EC%99%80%ED%81%AC"
+    }
+  ],
+  "fci": {
+    "num": 307,
+    "name": "AZAWAKH",
+    "group": 10,
+    "section": "Short-haired Sighthounds",
+    "sub": "",
+    "status": "definitive",
+    "country": "말리"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Azawakh%20bitch%20Shira-tb.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Azawakh_bitch_Shira-tb.jpg"
+  }
+}

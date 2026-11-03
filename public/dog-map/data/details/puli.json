@@ -1,0 +1,40 @@
+{
+  "summary": "레게 머리 같은 털의 헝가리 목양견입니다.",
+  "description": "코몬도르와 비슷한 코드 형태의 털을 가졌지만 몸은 훨씬 작습니다. 민첩하게 양 떼 위를 뛰어다니며 일하던 목양견입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: PULI (제55호)",
+      "url": "https://www.fci.be/en/nomenclature/PULI-55.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/055g01-en.pdf"
+    },
+    {
+      "label": "American Kennel Club 견종 정보",
+      "url": "https://www.akc.org/dog-breeds/puli/"
+    },
+    {
+      "label": "Wikipedia: Puli dog",
+      "url": "https://en.wikipedia.org/wiki/Puli_dog"
+    },
+    {
+      "label": "위키백과: 풀리 (개)",
+      "url": "https://ko.wikipedia.org/wiki/%ED%92%80%EB%A6%AC_(%EA%B0%9C)"
+    }
+  ],
+  "fci": {
+    "num": 55,
+    "name": "PULI",
+    "group": 1,
+    "section": "Sheepdogs",
+    "sub": "",
+    "status": "definitive",
+    "country": "헝가리"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Puli%20600.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Puli_600.jpg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "summary": "가스코뉴 대형 사냥개에서 내려온 소형 계통입니다.",
+  "description": "대형 가스코뉴 사냥개를 조상으로 두고 작은 사냥감에 맞도록 체구를 줄인 후각 사냥개입니다. 무리 사냥에 쓰입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "FCI 견종 명단: SMALL BLUE GASCONY (제31호)",
+      "url": "https://www.fci.be/en/nomenclature/SMALL-BLUE-GASCONY-31.html"
+    },
+    {
+      "label": "FCI 공식 품종 표준 (PDF)",
+      "url": "https://www.fci.be/Nomenclature/Standards/031g06-en.pdf"
+    },
+    {
+      "label": "Wikipedia: Petit Bleu de Gascogne",
+      "url": "https://en.wikipedia.org/wiki/Petit_Bleu_de_Gascogne"
+    }
+  ],
+  "fci": {
+    "num": 31,
+    "name": "SMALL BLUE GASCONY",
+    "group": 6,
+    "section": "Scent hounds",
+    "sub": "Medium-sized Hounds",
+    "status": "definitive",
+    "country": "프랑스"
+  },
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ma%C5%82y%20go%C5%84czy%20gasko%C5%84ski%20Cita%20z%20Beckova%20Cb5.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Ma%C5%82y_go%C5%84czy_gasko%C5%84ski_Cita_z_Beckova_Cb5.jpg"
+  }
+}

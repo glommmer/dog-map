@@ -1,0 +1,15 @@
+{
+  "summary": "메노르카의 토끼 사냥개입니다.",
+  "description": "발레아레스 제도 정부 목록의 여섯 견종 가운데 가장 덜 알려진 품종입니다.",
+  "origin_note": "",
+  "sources": [
+    {
+      "label": "Wikipedia: Ca de Conills",
+      "url": "https://en.wikipedia.org/wiki/Ca_de_Conills"
+    }
+  ],
+  "photo": {
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ca%20de%20conills%20de%20Menorca%2001.jpg?width=640",
+    "page": "https://commons.wikimedia.org/wiki/File:Ca_de_conills_de_Menorca_01.jpg"
+  }
+}
